@@ -7,13 +7,15 @@
       "name": "RUBIS SPA",
       "visits": 1,
       "last": "2026-04-22",
-      "last_pretty": "22 april 2026"
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

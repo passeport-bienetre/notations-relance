@@ -7,7 +7,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-05-27",
-      "last_pretty": "27 may 2026"
+      "last_pretty": "27 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Origin Float Spa",
@@ -27,7 +28,8 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2026-01-11",
-      "last_pretty": "11 january 2026"
+      "last_pretty": "11 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Thai Corner",
@@ -40,7 +42,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last_pretty": "29 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     }
   ]
 }

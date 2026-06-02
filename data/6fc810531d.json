@@ -13,7 +13,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-10-20",
-      "last_pretty": "20 october 2025"
+      "last_pretty": "20 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Amiia Clinique",
@@ -26,13 +27,15 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-07-26",
-      "last_pretty": "26 july 2025"
+      "last_pretty": "26 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last_pretty": "02 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

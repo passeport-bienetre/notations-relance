@@ -7,13 +7,15 @@
       "name": "Institut ZenSkin",
       "visits": 1,
       "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last_pretty": "17 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
     },
     {
       "name": "Nueva Luna Yoga",
       "visits": 1,
       "last": "2025-09-04",
-      "last_pretty": "04 september 2025"
+      "last_pretty": "04 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
     }
   ]
 }

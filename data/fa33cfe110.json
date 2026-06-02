@@ -7,25 +7,29 @@
       "name": "Arte Beauty Lutry",
       "visits": 1,
       "last": "2025-10-01",
-      "last_pretty": "01 october 2025"
+      "last_pretty": "01 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
       "visits": 1,
       "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
     },
     {
       "name": "Arte Beauty EPFL",
       "visits": 1,
       "last": "2025-07-16",
-      "last_pretty": "16 july 2025"
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

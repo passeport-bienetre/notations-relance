@@ -7,19 +7,22 @@
       "name": "Flaventino coiffure Aubonne",
       "visits": 1,
       "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
     },
     {
       "name": "Anita Coiffure",
       "visits": 1,
       "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
     },
     {
       "name": "Salon Privé Ecublens",
       "visits": 1,
       "last": "2025-10-30",
-      "last_pretty": "30 october 2025"
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
     }
   ]
 }

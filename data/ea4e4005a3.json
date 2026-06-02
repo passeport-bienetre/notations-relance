@@ -7,7 +7,8 @@
       "name": "Belle et Naturelle",
       "visits": 1,
       "last": "2026-05-19",
-      "last_pretty": "19 may 2026"
+      "last_pretty": "19 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
     },
     {
       "name": "Bhumi",
@@ -19,43 +20,50 @@
       "name": "Institut Osmose",
       "visits": 1,
       "last": "2026-02-11",
-      "last_pretty": "11 february 2026"
+      "last_pretty": "11 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "visits": 1,
       "last": "2026-01-06",
-      "last_pretty": "06 january 2026"
+      "last_pretty": "06 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
     },
     {
       "name": "SAKURA LAB",
       "visits": 1,
       "last": "2025-12-11",
-      "last_pretty": "11 december 2025"
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
     },
     {
       "name": "So Hair",
       "visits": 1,
       "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last_pretty": "20 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
     },
     {
       "name": "NUANCES NATURE",
       "visits": 1,
       "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last_pretty": "20 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
     },
     {
       "name": "Guinot Art of Beauty",
       "visits": 1,
       "last": "2025-10-14",
-      "last_pretty": "14 october 2025"
+      "last_pretty": "14 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
       "visits": 1,
       "last": "2025-09-20",
-      "last_pretty": "20 september 2025"
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
     }
   ]
 }

@@ -14,7 +14,8 @@
       "name": "Hôtel &#038; Spa Le National",
       "visits": 1,
       "last": "2026-04-19",
-      "last_pretty": "19 april 2026"
+      "last_pretty": "19 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/"
     },
     {
       "name": "Le Passage",
@@ -48,7 +49,8 @@
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-08-08",
-      "last_pretty": "08 august 2025"
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Experimental Chalet",

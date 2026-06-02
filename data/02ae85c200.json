@@ -28,13 +28,15 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-06-18",
-      "last_pretty": "18 june 2025"
+      "last_pretty": "18 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

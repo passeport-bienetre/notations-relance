@@ -7,7 +7,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-12-08",
-      "last_pretty": "08 december 2025"
+      "last_pretty": "08 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "W Verbier",
@@ -19,7 +20,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-10-19",
-      "last_pretty": "19 october 2025"
+      "last_pretty": "19 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     }
   ]
 }

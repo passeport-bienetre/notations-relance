@@ -7,19 +7,22 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-04-22",
-      "last_pretty": "22 april 2026"
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
       "visits": 1,
       "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last_pretty": "10 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/"
     }
   ]
 }

@@ -7,7 +7,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Swiss Aesthetica",
@@ -41,7 +42,8 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-07-09",
-      "last_pretty": "09 july 2025"
+      "last_pretty": "09 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

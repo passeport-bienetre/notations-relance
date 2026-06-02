@@ -13,13 +13,15 @@
       "name": "Le Cabinet de Beauté",
       "visits": 1,
       "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
+      "last_pretty": "10 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
     },
     {
       "name": "BL Institut",
       "visits": 1,
       "last": "2025-08-26",
-      "last_pretty": "26 august 2025"
+      "last_pretty": "26 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
     }
   ]
 }

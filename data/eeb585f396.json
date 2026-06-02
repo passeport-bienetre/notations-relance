@@ -7,7 +7,8 @@
       "name": "Naïda Massothérapie",
       "visits": 1,
       "last": "2026-03-24",
-      "last_pretty": "24 march 2026"
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -19,7 +20,8 @@
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2026-01-09",
-      "last_pretty": "09 january 2026"
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     }
   ]
 }

@@ -13,13 +13,15 @@
       "name": "LE CENTRE GENÈVE BY CHARLINE",
       "visits": 1,
       "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     },
     {
       "name": "Belle et Naturelle",
       "visits": 1,
       "last": "2026-01-29",
-      "last_pretty": "29 january 2026"
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
     }
   ]
 }

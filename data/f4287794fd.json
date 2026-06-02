@@ -7,7 +7,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Beauty Concept Vevey",
@@ -19,19 +20,22 @@
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "Skin Solution",
       "visits": 1,
       "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
     },
     {
       "name": "Le Beausquet Genève",
       "visits": 1,
       "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     }
   ]
 }

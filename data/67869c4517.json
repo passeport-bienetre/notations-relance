@@ -14,13 +14,15 @@
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-12-17",
-      "last_pretty": "17 december 2025"
+      "last_pretty": "17 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

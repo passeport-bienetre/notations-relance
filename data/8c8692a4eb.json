@@ -7,13 +7,15 @@
       "name": "Bains d&rsquo;Ovronnaz",
       "visits": 1,
       "last": "2026-03-15",
-      "last_pretty": "15 march 2026"
+      "last_pretty": "15 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/"
     },
     {
       "name": "Europe Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-28",
-      "last_pretty": "28 february 2026"
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/europe-hotel-spa/"
     }
   ]
 }

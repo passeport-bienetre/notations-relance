@@ -7,19 +7,22 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-01-28",
-      "last_pretty": "28 january 2026"
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Vogue La Coiffure",
       "visits": 1,
       "last": "2026-01-26",
-      "last_pretty": "26 january 2026"
+      "last_pretty": "26 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
     },
     {
       "name": "LES BAINS PUBLICS",
       "visits": 1,
       "last": "2025-11-22",
-      "last_pretty": "22 november 2025"
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
     }
   ]
 }

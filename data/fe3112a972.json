@@ -7,19 +7,22 @@
       "name": "Sawatdee Delices",
       "visits": 1,
       "last": "2026-05-20",
-      "last_pretty": "20 may 2026"
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
     },
     {
       "name": "Skin Solution",
       "visits": 1,
       "last": "2026-05-05",
-      "last_pretty": "05 may 2026"
+      "last_pretty": "05 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
     },
     {
       "name": "LA SUITE COIFFURE",
       "visits": 1,
       "last": "2026-03-16",
-      "last_pretty": "16 march 2026"
+      "last_pretty": "16 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/"
     },
     {
       "name": "ÂM SOEURS",
@@ -31,7 +34,8 @@
       "name": "SAKURA LAB",
       "visits": 1,
       "last": "2025-12-22",
-      "last_pretty": "22 december 2025"
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
     }
   ]
 }

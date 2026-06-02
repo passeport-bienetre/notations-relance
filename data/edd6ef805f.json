@@ -7,7 +7,8 @@
       "name": "Anzère SPA &#038; Wellness",
       "visits": 1,
       "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/"
     },
     {
       "name": "Crans Ambassador Spa",
@@ -19,19 +20,22 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Serenityblue",
       "visits": 1,
       "last": "2025-10-25",
-      "last_pretty": "25 october 2025"
+      "last_pretty": "25 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-07-19",
-      "last_pretty": "19 july 2025"
+      "last_pretty": "19 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     }
   ]
 }

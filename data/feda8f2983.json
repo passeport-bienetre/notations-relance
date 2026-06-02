@@ -7,13 +7,15 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2026-05-03",
-      "last_pretty": "03 may 2026"
+      "last_pretty": "03 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
       "visits": 1,
       "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
     }
   ]
 }

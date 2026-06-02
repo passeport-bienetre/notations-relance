@@ -7,19 +7,22 @@
       "name": "Les Vagabondes",
       "visits": 1,
       "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
     },
     {
       "name": "Hairmania",
       "visits": 1,
       "last": "2025-08-21",
-      "last_pretty": "21 august 2025"
+      "last_pretty": "21 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
     },
     {
       "name": "Luna aesthetic",
       "visits": 1,
       "last": "2025-06-10",
-      "last_pretty": "10 june 2025"
+      "last_pretty": "10 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
     }
   ]
 }

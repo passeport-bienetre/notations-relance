@@ -7,19 +7,22 @@
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2026-04-17",
-      "last_pretty": "17 april 2026"
+      "last_pretty": "17 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
       "visits": 1,
       "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
     },
     {
       "name": "Luna aesthetic",
       "visits": 1,
       "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last_pretty": "19 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
     }
   ]
 }

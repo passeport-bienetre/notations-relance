@@ -7,13 +7,15 @@
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-09-30",
-      "last_pretty": "30 september 2025"
+      "last_pretty": "30 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
       "visits": 1,
       "last": "2025-06-28",
-      "last_pretty": "28 june 2025"
+      "last_pretty": "28 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
     }
   ]
 }

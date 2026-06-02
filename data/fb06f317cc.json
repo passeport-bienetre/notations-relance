@@ -7,19 +7,22 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-12-21",
-      "last_pretty": "21 december 2025"
+      "last_pretty": "21 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2025-11-08",
-      "last_pretty": "08 november 2025"
+      "last_pretty": "08 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     },
     {
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     },
     {
       "name": "Spa Baron Tavernier",
@@ -37,13 +40,15 @@
       "name": "Nail Café",
       "visits": 1,
       "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "visits": 1,
       "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
     }
   ]
 }

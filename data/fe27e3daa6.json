@@ -7,37 +7,43 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Institut Osmose",
       "visits": 1,
       "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last_pretty": "02 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
     },
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
       "visits": 1,
       "last": "2026-03-06",
-      "last_pretty": "06 march 2026"
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "visits": 1,
       "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
     },
     {
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2025-09-16",
-      "last_pretty": "16 september 2025"
+      "last_pretty": "16 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     },
     {
       "name": "Damien &#038; Co",
       "visits": 1,
       "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/damien-co-3/"
     }
   ]
 }

@@ -7,7 +7,8 @@
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-03-23",
-      "last_pretty": "23 march 2026"
+      "last_pretty": "23 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Fjacco Coiffure",
@@ -20,7 +21,8 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-11-21",
-      "last_pretty": "21 november 2025"
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Le Grand Bellevue",
@@ -33,7 +35,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "ALEX COIFFURE SARL",
@@ -46,7 +49,8 @@
       "name": "Hôtel de Rougemont &#038; Spa",
       "visits": 1,
       "last": "2025-06-06",
-      "last_pretty": "06 june 2025"
+      "last_pretty": "06 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/"
     }
   ]
 }

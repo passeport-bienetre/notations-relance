@@ -21,7 +21,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-03-25",
-      "last_pretty": "25 march 2026"
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "1er Acte Coiffure",
@@ -61,13 +62,15 @@
       "name": "Institut Bienitude &#038; Bienitude Natura",
       "visits": 1,
       "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last_pretty": "20 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Noemi Spataro Esthétique",

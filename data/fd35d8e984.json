@@ -7,31 +7,36 @@
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2026-04-16",
-      "last_pretty": "16 april 2026"
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     },
     {
       "name": "LES BAINS PUBLICS",
       "visits": 1,
       "last": "2026-04-14",
-      "last_pretty": "14 april 2026"
+      "last_pretty": "14 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last_pretty": "19 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-11-22",
-      "last_pretty": "22 november 2025"
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "1er Acte Coiffure",
       "visits": 1,
       "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     }
   ]
 }

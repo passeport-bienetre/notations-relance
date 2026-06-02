@@ -20,7 +20,8 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Organik Beauty",
@@ -40,7 +41,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-10-31",
-      "last_pretty": "31 october 2025"
+      "last_pretty": "31 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
@@ -53,13 +55,15 @@
       "name": "Centre de bien-être J&#038;J",
       "visits": 1,
       "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last_pretty": "20 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-07-22",
-      "last_pretty": "22 july 2025"
+      "last_pretty": "22 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Spa Baron Tavernier",

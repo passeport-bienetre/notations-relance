@@ -13,13 +13,15 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last_pretty": "29 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
+      "last_pretty": "04 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

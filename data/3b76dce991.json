@@ -35,7 +35,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Signature Coiffure",
@@ -61,13 +62,15 @@
       "name": "Institut Bienitude &#038; Bienitude Natura",
       "visits": 1,
       "last": "2025-08-13",
-      "last_pretty": "13 august 2025"
+      "last_pretty": "13 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-07-16",
-      "last_pretty": "16 july 2025"
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     }
   ]
 }

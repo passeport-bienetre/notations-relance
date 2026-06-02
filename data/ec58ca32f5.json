@@ -13,19 +13,22 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-10-13",
-      "last_pretty": "13 october 2025"
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Tête à Clak",
       "visits": 1,
       "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last_pretty": "17 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
     },
     {
       "name": "Organik Beauty",
       "visits": 1,
       "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last_pretty": "17 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
     }
   ]
 }

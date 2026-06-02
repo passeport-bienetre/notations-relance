@@ -7,7 +7,8 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-11-27",
-      "last_pretty": "27 november 2025"
+      "last_pretty": "27 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Nirvana Spa",
@@ -19,7 +20,8 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last_pretty": "29 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Grand Hôtel du Lac",
@@ -32,7 +34,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-07-04",
-      "last_pretty": "04 july 2025"
+      "last_pretty": "04 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     }
   ]
 }

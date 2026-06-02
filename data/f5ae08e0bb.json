@@ -7,13 +7,15 @@
       "name": "Institut Osmose",
       "visits": 1,
       "last": "2025-11-11",
-      "last_pretty": "11 november 2025"
+      "last_pretty": "11 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
     },
     {
       "name": "Thai Corner",
       "visits": 1,
       "last": "2025-08-21",
-      "last_pretty": "21 august 2025"
+      "last_pretty": "21 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
     }
   ]
 }

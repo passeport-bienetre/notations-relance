@@ -7,7 +7,8 @@
       "name": "Maison Perle",
       "visits": 1,
       "last": "2026-02-06",
-      "last_pretty": "06 february 2026"
+      "last_pretty": "06 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -19,7 +20,8 @@
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     }
   ]
 }

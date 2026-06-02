@@ -7,7 +7,8 @@
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2026-05-30",
-      "last_pretty": "30 may 2026"
+      "last_pretty": "30 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     },
     {
       "name": "Spa Baron Tavernier",
@@ -19,13 +20,15 @@
       "name": "LES TRESOMS",
       "visits": 1,
       "last": "2025-08-17",
-      "last_pretty": "17 august 2025"
+      "last_pretty": "17 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
     },
     {
       "name": "Signature Coiffure",
       "visits": 1,
       "last": "2025-08-08",
-      "last_pretty": "08 august 2025"
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
     }
   ]
 }

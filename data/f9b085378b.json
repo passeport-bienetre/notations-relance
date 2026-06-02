@@ -7,43 +7,50 @@
       "name": "Arte Beauty Lutry",
       "visits": 1,
       "last": "2026-03-19",
-      "last_pretty": "19 march 2026"
+      "last_pretty": "19 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     },
     {
       "name": "Serenityblue",
       "visits": 1,
       "last": "2026-01-28",
-      "last_pretty": "28 january 2026"
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
     },
     {
       "name": "COMME SUR UN NUAGE",
       "visits": 1,
       "last": "2026-01-22",
-      "last_pretty": "22 january 2026"
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-10-28",
-      "last_pretty": "28 october 2025"
+      "last_pretty": "28 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-09-26",
-      "last_pretty": "26 september 2025"
+      "last_pretty": "26 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
       "visits": 1,
       "last": "2025-09-21",
-      "last_pretty": "21 september 2025"
+      "last_pretty": "21 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
       "visits": 1,
       "last": "2025-07-13",
-      "last_pretty": "13 july 2025"
+      "last_pretty": "13 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/"
     }
   ]
 }

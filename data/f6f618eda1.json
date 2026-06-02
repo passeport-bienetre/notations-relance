@@ -7,25 +7,29 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-05-01",
-      "last_pretty": "01 may 2026"
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
       "visits": 1,
       "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
     },
     {
       "name": "Tête à Clak",
       "visits": 1,
       "last": "2026-02-21",
-      "last_pretty": "21 february 2026"
+      "last_pretty": "21 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-12-05",
-      "last_pretty": "05 december 2025"
+      "last_pretty": "05 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

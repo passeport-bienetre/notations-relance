@@ -7,13 +7,15 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-03-16",
-      "last_pretty": "16 march 2026"
+      "last_pretty": "16 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Atmosp&rsquo;hair",
       "visits": 1,
       "last": "2026-02-10",
-      "last_pretty": "10 february 2026"
+      "last_pretty": "10 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/atmosphair/"
     }
   ]
 }

@@ -14,7 +14,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-11-05",
-      "last_pretty": "05 november 2025"
+      "last_pretty": "05 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Fairmont le Montreux Palace",
@@ -26,7 +27,8 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

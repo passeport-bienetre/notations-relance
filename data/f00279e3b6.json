@@ -7,13 +7,15 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Les Sources des Alpes",
       "visits": 1,
       "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last_pretty": "20 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
     }
   ]
 }

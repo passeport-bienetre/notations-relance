@@ -7,13 +7,15 @@
       "name": "Signature Coiffure",
       "visits": 1,
       "last": "2026-05-07",
-      "last_pretty": "07 may 2026"
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
     },
     {
       "name": "MYO Style",
       "visits": 1,
       "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -25,25 +27,29 @@
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     },
     {
       "name": "Salon Privé Ecublens",
       "visits": 1,
       "last": "2025-11-08",
-      "last_pretty": "08 november 2025"
+      "last_pretty": "08 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
     },
     {
       "name": "Flaventino coiffure Aubonne",
       "visits": 1,
       "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last_pretty": "23 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
     },
     {
       "name": "Anita Coiffure",
       "visits": 1,
       "last": "2025-07-30",
-      "last_pretty": "30 july 2025"
+      "last_pretty": "30 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
     }
   ]
 }

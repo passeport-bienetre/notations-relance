@@ -7,31 +7,36 @@
       "name": "Nail Café",
       "visits": 1,
       "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
     },
     {
       "name": "Arte Beauty Lutry",
       "visits": 1,
       "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     },
     {
       "name": "Arte Beauty EPFL",
       "visits": 1,
       "last": "2025-06-28",
-      "last_pretty": "28 june 2025"
+      "last_pretty": "28 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     },
     {
       "name": "Institut ZenSkin",
       "visits": 1,
       "last": "2025-06-27",
-      "last_pretty": "27 june 2025"
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
     },
     {
       "name": "Institut Beauté Bertmans",
       "visits": 1,
       "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
     }
   ]
 }

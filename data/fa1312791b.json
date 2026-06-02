@@ -7,13 +7,15 @@
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "visits": 1,
       "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last_pretty": "28 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
       "visits": 1,
       "last": "2025-09-06",
-      "last_pretty": "06 september 2025"
+      "last_pretty": "06 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
     }
   ]
 }

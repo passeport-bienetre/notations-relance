@@ -7,19 +7,22 @@
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-10-13",
-      "last_pretty": "13 october 2025"
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-07-29",
-      "last_pretty": "29 july 2025"
+      "last_pretty": "29 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

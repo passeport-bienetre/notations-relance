@@ -7,31 +7,36 @@
       "name": "L&rsquo;Atelier du Visage",
       "visits": 1,
       "last": "2026-05-13",
-      "last_pretty": "13 may 2026"
+      "last_pretty": "13 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/"
     },
     {
       "name": "Signature Coiffure",
       "visits": 1,
       "last": "2026-05-09",
-      "last_pretty": "09 may 2026"
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
     },
     {
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     },
     {
       "name": "CJ Coiffure",
       "visits": 1,
       "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
     },
     {
       "name": "Nail Café",
       "visits": 1,
       "last": "2026-01-14",
-      "last_pretty": "14 january 2026"
+      "last_pretty": "14 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
     }
   ]
 }

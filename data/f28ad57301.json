@@ -7,25 +7,29 @@
       "name": "Les Vagabondes",
       "visits": 1,
       "last": "2026-05-23",
-      "last_pretty": "23 may 2026"
+      "last_pretty": "23 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
       "visits": 1,
       "last": "2026-03-06",
-      "last_pretty": "06 march 2026"
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
     },
     {
       "name": "La VILLA Kobido et Massage",
       "visits": 1,
       "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
     },
     {
       "name": "EssenCiel Institut",
       "visits": 1,
       "last": "2025-08-28",
-      "last_pretty": "28 august 2025"
+      "last_pretty": "28 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/"
     }
   ]
 }

@@ -7,19 +7,22 @@
       "name": "Le Bal des Créateurs",
       "visits": 1,
       "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
+      "last_pretty": "10 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
     },
     {
       "name": "Le Beausquet Genève",
       "visits": 1,
       "last": "2025-12-04",
-      "last_pretty": "04 december 2025"
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     },
     {
       "name": "Origin Float Spa",
       "visits": 1,
       "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
+      "last_pretty": "03 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -31,25 +34,29 @@
       "name": "BL Institut",
       "visits": 1,
       "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
     },
     {
       "name": "Institut Energie Zen",
       "visits": 1,
       "last": "2025-08-28",
-      "last_pretty": "28 august 2025"
+      "last_pretty": "28 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-energie-zen/"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "visits": 1,
       "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last_pretty": "23 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
     },
     {
       "name": "So Beauty Home",
       "visits": 1,
       "last": "2025-07-12",
-      "last_pretty": "12 july 2025"
+      "last_pretty": "12 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
     }
   ]
 }

@@ -7,19 +7,22 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last_pretty": "20 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-10-22",
-      "last_pretty": "22 october 2025"
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Anzère SPA &#038; Wellness",
       "visits": 1,
       "last": "2025-09-28",
-      "last_pretty": "28 september 2025"
+      "last_pretty": "28 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/"
     }
   ]
 }

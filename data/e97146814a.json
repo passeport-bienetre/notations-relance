@@ -7,19 +7,22 @@
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
       "visits": 1,
       "last": "2026-03-10",
-      "last_pretty": "10 march 2026"
+      "last_pretty": "10 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
     },
     {
       "name": "Institut ZenSkin",
       "visits": 1,
       "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
     }
   ]
 }

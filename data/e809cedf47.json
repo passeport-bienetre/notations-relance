@@ -7,13 +7,15 @@
       "name": "Chandolin Boutique Hôtel",
       "visits": 1,
       "last": "2026-02-06",
-      "last_pretty": "06 february 2026"
+      "last_pretty": "06 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-11-21",
-      "last_pretty": "21 november 2025"
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     }
   ]
 }

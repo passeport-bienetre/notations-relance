@@ -7,13 +7,15 @@
       "name": "RUBIS SPA",
       "visits": 1,
       "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last_pretty": "17 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
       "visits": 1,
       "last": "2026-02-17",
-      "last_pretty": "17 february 2026"
+      "last_pretty": "17 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/"
     }
   ]
 }

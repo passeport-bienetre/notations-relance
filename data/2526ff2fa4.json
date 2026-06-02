@@ -14,7 +14,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -26,7 +27,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-06-23",
-      "last_pretty": "23 june 2025"
+      "last_pretty": "23 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

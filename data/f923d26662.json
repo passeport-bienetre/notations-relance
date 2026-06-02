@@ -7,13 +7,15 @@
       "name": "Nail Café",
       "visits": 1,
       "last": "2026-05-23",
-      "last_pretty": "23 may 2026"
+      "last_pretty": "23 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
     },
     {
       "name": "Naïda Massothérapie",
       "visits": 1,
       "last": "2026-05-12",
-      "last_pretty": "12 may 2026"
+      "last_pretty": "12 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
     }
   ]
 }

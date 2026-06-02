@@ -7,25 +7,29 @@
       "name": "Altitude by Garance",
       "visits": 1,
       "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
     },
     {
       "name": "FLEUR D’EPIDERME",
       "visits": 1,
       "last": "2026-03-30",
-      "last_pretty": "30 march 2026"
+      "last_pretty": "30 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-01-17",
-      "last_pretty": "17 january 2026"
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Thai Corner",
       "visits": 1,
       "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
     }
   ]
 }

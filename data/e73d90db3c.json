@@ -7,25 +7,29 @@
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2026-03-18",
-      "last_pretty": "18 march 2026"
+      "last_pretty": "18 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "Thaiotop",
       "visits": 1,
       "last": "2025-10-25",
-      "last_pretty": "25 october 2025"
+      "last_pretty": "25 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "visits": 1,
       "last": "2025-08-09",
-      "last_pretty": "09 august 2025"
+      "last_pretty": "09 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
     },
     {
       "name": "Thai Corner",
       "visits": 1,
       "last": "2025-07-12",
-      "last_pretty": "12 july 2025"
+      "last_pretty": "12 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
     }
   ]
 }

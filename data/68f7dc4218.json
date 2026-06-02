@@ -14,13 +14,15 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last_pretty": "12 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
       "visits": 1,
       "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/"
     },
     {
       "name": "Luna aesthetic",
@@ -33,7 +35,8 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-01-16",
-      "last_pretty": "16 january 2026"
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Grand Hôtel du Lac",
@@ -80,7 +83,8 @@
       "name": "Europe Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/europe-hotel-spa/"
     }
   ]
 }

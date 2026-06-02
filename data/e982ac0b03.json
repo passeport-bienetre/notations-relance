@@ -7,13 +7,15 @@
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last_pretty": "02 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "BL Institut",
       "visits": 1,
       "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
     }
   ]
 }

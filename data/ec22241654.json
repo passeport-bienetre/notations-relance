@@ -7,37 +7,43 @@
       "name": "Espace Beauté Sarah",
       "visits": 1,
       "last": "2025-12-04",
-      "last_pretty": "04 december 2025"
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
     },
     {
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2025-11-13",
-      "last_pretty": "13 november 2025"
+      "last_pretty": "13 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     },
     {
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-10-18",
-      "last_pretty": "18 october 2025"
+      "last_pretty": "18 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Institut Beauté Bertmans",
       "visits": 1,
       "last": "2025-09-05",
-      "last_pretty": "05 september 2025"
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
     },
     {
       "name": "1er Acte Coiffure",
       "visits": 1,
       "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "name": "Maison Perle",
       "visits": 1,
       "last": "2025-07-05",
-      "last_pretty": "05 july 2025"
+      "last_pretty": "05 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
     }
   ]
 }

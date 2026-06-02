@@ -14,7 +14,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-18",
-      "last_pretty": "18 february 2026"
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "So Hair",
@@ -27,7 +28,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-01-16",
-      "last_pretty": "16 january 2026"
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
@@ -47,7 +49,8 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-08-01",
-      "last_pretty": "01 august 2025"
+      "last_pretty": "01 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     }
   ]
 }

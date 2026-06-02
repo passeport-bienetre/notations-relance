@@ -7,13 +7,15 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
       "visits": 1,
       "last": "2025-08-08",
-      "last_pretty": "08 august 2025"
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
     }
   ]
 }

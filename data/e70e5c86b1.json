@@ -7,19 +7,22 @@
       "name": "Sawatdee Delices",
       "visits": 1,
       "last": "2026-05-20",
-      "last_pretty": "20 may 2026"
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "LES TRESOMS",
       "visits": 1,
       "last": "2025-12-01",
-      "last_pretty": "01 december 2025"
+      "last_pretty": "01 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
     }
   ]
 }

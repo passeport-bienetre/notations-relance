@@ -7,13 +7,15 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
       "visits": 1,
       "last": "2025-06-13",
-      "last_pretty": "13 june 2025"
+      "last_pretty": "13 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
     }
   ]
 }

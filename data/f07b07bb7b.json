@@ -7,19 +7,22 @@
       "name": "Les Vagabondes",
       "visits": 1,
       "last": "2026-05-15",
-      "last_pretty": "15 may 2026"
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
     },
     {
       "name": "Flocoon Spa Cinq Mondes",
       "visits": 1,
       "last": "2026-03-28",
-      "last_pretty": "28 march 2026"
+      "last_pretty": "28 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-02",
-      "last_pretty": "02 february 2026"
+      "last_pretty": "02 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ]
 }

@@ -7,13 +7,15 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
       "visits": 1,
       "last": "2025-11-26",
-      "last_pretty": "26 november 2025"
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
     }
   ]
 }

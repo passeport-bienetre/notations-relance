@@ -7,13 +7,15 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Arte Beauty Lutry",
       "visits": 1,
       "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
+      "last_pretty": "15 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     },
     {
       "name": "Beauty Concept Vevey",
@@ -25,13 +27,15 @@
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
+      "last_pretty": "18 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     },
     {
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     }
   ]
 }

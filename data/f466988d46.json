@@ -7,43 +7,50 @@
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     },
     {
       "name": "LA MAISON VALMONT – BONGENIE",
       "visits": 1,
       "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last_pretty": "17 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
     },
     {
       "name": "Salon Privé Ecublens",
       "visits": 1,
       "last": "2026-02-26",
-      "last_pretty": "26 february 2026"
+      "last_pretty": "26 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
     },
     {
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     },
     {
       "name": "Odyssée Santé &#038; Beauté",
       "visits": 1,
       "last": "2025-12-09",
-      "last_pretty": "09 december 2025"
+      "last_pretty": "09 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/"
     },
     {
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2025-11-29",
-      "last_pretty": "29 november 2025"
+      "last_pretty": "29 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     },
     {
       "name": "Karré Long",
       "visits": 1,
       "last": "2025-11-08",
-      "last_pretty": "08 november 2025"
+      "last_pretty": "08 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
     }
   ]
 }

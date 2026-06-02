@@ -7,43 +7,50 @@
       "name": "1er Acte Coiffure",
       "visits": 1,
       "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "name": "Institut ZenSkin",
       "visits": 1,
       "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last_pretty": "12 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-11-17",
-      "last_pretty": "17 november 2025"
+      "last_pretty": "17 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
       "visits": 1,
       "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
+      "last_pretty": "03 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
     },
     {
       "name": "Grand Hôtel du Lac",
       "visits": 1,
       "last": "2025-09-21",
-      "last_pretty": "21 september 2025"
+      "last_pretty": "21 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-09-15",
-      "last_pretty": "15 september 2025"
+      "last_pretty": "15 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
       "visits": 1,
       "last": "2025-08-17",
-      "last_pretty": "17 august 2025"
+      "last_pretty": "17 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/"
     }
   ]
 }

@@ -7,19 +7,22 @@
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2026-05-30",
-      "last_pretty": "30 may 2026"
+      "last_pretty": "30 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     },
     {
       "name": "Arte Beauty EPFL",
       "visits": 1,
       "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     },
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
       "visits": 1,
       "last": "2026-02-21",
-      "last_pretty": "21 february 2026"
+      "last_pretty": "21 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
     }
   ]
 }

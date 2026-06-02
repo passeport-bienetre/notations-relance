@@ -7,13 +7,15 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-05-14",
-      "last_pretty": "14 may 2026"
+      "last_pretty": "14 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Fairmont le Montreux Palace",
@@ -25,7 +27,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-06-27",
-      "last_pretty": "27 june 2025"
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

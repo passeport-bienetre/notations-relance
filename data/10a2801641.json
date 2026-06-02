@@ -28,7 +28,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-08-19",
-      "last_pretty": "19 august 2025"
+      "last_pretty": "19 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
@@ -61,7 +62,8 @@
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
       "visits": 1,
       "last": "2025-06-17",
-      "last_pretty": "17 june 2025"
+      "last_pretty": "17 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
     }
   ]
 }

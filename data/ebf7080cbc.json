@@ -13,19 +13,22 @@
       "name": "Organik Beauty",
       "visits": 1,
       "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
     },
     {
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-10-04",
-      "last_pretty": "04 october 2025"
+      "last_pretty": "04 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-06-06",
-      "last_pretty": "06 june 2025"
+      "last_pretty": "06 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

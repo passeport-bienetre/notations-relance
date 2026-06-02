@@ -7,7 +7,8 @@
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Les Cliniques Matignon",
@@ -32,7 +33,8 @@
       "name": "L&rsquo;Atelier du Visage",
       "visits": 1,
       "last": "2026-01-16",
-      "last_pretty": "16 january 2026"
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/"
     },
     {
       "name": "Amiia Clinique",
@@ -45,7 +47,8 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-10-13",
-      "last_pretty": "13 october 2025"
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

@@ -7,37 +7,43 @@
       "name": "Experimental Chalet",
       "visits": 1,
       "last": "2026-03-14",
-      "last_pretty": "14 march 2026"
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
     },
     {
       "name": "Les Sources du Chéry",
       "visits": 1,
       "last": "2026-02-15",
-      "last_pretty": "15 february 2026"
+      "last_pretty": "15 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
     },
     {
       "name": "SUBLIMEYES",
       "visits": 1,
       "last": "2026-02-07",
-      "last_pretty": "07 february 2026"
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     },
     {
       "name": "Deep Nature Les Granges d&rsquo;en Haut",
       "visits": 1,
       "last": "2026-01-11",
-      "last_pretty": "11 january 2026"
+      "last_pretty": "11 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2025-09-05",
-      "last_pretty": "05 september 2025"
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
       "visits": 1,
       "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last_pretty": "23 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
     }
   ]
 }

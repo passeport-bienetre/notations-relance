@@ -7,7 +7,8 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-02-17",
-      "last_pretty": "17 february 2026"
+      "last_pretty": "17 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Crans Ambassador Spa",
@@ -19,7 +20,8 @@
       "name": "Anzère SPA &#038; Wellness",
       "visits": 1,
       "last": "2025-11-15",
-      "last_pretty": "15 november 2025"
+      "last_pretty": "15 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/"
     },
     {
       "name": "Fairmont le Montreux Palace",
@@ -31,7 +33,8 @@
       "name": "LECRANS HOTEL &#038; SPA",
       "visits": 1,
       "last": "2025-06-13",
-      "last_pretty": "13 june 2025"
+      "last_pretty": "13 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
     }
   ]
 }

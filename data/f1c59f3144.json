@@ -7,25 +7,29 @@
       "name": "Tempête de Calme",
       "visits": 1,
       "last": "2026-05-29",
-      "last_pretty": "29 may 2026"
+      "last_pretty": "29 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
     },
     {
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-09-18",
-      "last_pretty": "18 september 2025"
+      "last_pretty": "18 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

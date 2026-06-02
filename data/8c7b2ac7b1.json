@@ -14,13 +14,15 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2025-10-22",
-      "last_pretty": "22 october 2025"
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-07-31",
-      "last_pretty": "31 july 2025"
+      "last_pretty": "31 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     }
   ]
 }

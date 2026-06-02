@@ -7,7 +7,8 @@
       "name": "Organik Beauty",
       "visits": 1,
       "last": "2026-01-29",
-      "last_pretty": "29 january 2026"
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
     },
     {
       "name": "Beauty Concept Vevey",
@@ -19,31 +20,36 @@
       "name": "1er Acte Coiffure",
       "visits": 1,
       "last": "2026-01-22",
-      "last_pretty": "22 january 2026"
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "name": "Institut ZenSkin",
       "visits": 1,
       "last": "2026-01-17",
-      "last_pretty": "17 january 2026"
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
     },
     {
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-11-22",
-      "last_pretty": "22 november 2025"
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Nueva Luna Yoga",
       "visits": 1,
       "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last_pretty": "10 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
     },
     {
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     }
   ]
 }

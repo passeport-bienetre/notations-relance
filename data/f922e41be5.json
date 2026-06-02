@@ -7,25 +7,29 @@
       "name": "LE CENTRE GENÈVE BY CHARLINE",
       "visits": 1,
       "last": "2026-04-18",
-      "last_pretty": "18 april 2026"
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     },
     {
       "name": "NUANCES NATURE",
       "visits": 1,
       "last": "2025-11-15",
-      "last_pretty": "15 november 2025"
+      "last_pretty": "15 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
     },
     {
       "name": "Studio Beauté",
       "visits": 1,
       "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
     },
     {
       "name": "Thai Corner",
       "visits": 1,
       "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last_pretty": "29 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
     }
   ]
 }

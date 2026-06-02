@@ -7,31 +7,36 @@
       "name": "Vogue La Coiffure",
       "visits": 1,
       "last": "2026-05-30",
-      "last_pretty": "30 may 2026"
+      "last_pretty": "30 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
     },
     {
       "name": "RUBIS SPA",
       "visits": 1,
       "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
     },
     {
       "name": "Le Lokal",
       "visits": 1,
       "last": "2025-09-27",
-      "last_pretty": "27 september 2025"
+      "last_pretty": "27 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-lokal/"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
       "visits": 1,
       "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
     },
     {
       "name": "Experimental Chalet",
       "visits": 1,
       "last": "2025-08-02",
-      "last_pretty": "02 august 2025"
+      "last_pretty": "02 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
     }
   ]
 }

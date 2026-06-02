@@ -7,13 +7,15 @@
       "name": "Flocoon Spa Cinq Mondes",
       "visits": 1,
       "last": "2026-05-09",
-      "last_pretty": "09 may 2026"
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
     },
     {
       "name": "Hôtel Royal",
       "visits": 1,
       "last": "2026-01-24",
-      "last_pretty": "24 january 2026"
+      "last_pretty": "24 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
     }
   ]
 }

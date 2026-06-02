@@ -25,13 +25,15 @@
       "name": "Institut Beauté Bertmans",
       "visits": 1,
       "last": "2025-07-23",
-      "last_pretty": "23 july 2025"
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
     },
     {
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
+      "last_pretty": "18 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     }
   ]
 }

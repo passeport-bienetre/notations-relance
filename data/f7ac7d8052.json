@@ -7,31 +7,36 @@
       "name": "Maison Perle",
       "visits": 1,
       "last": "2026-05-02",
-      "last_pretty": "02 may 2026"
+      "last_pretty": "02 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
     },
     {
       "name": "Centre de bien-être J&#038;J",
       "visits": 1,
       "last": "2026-03-14",
-      "last_pretty": "14 march 2026"
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
     },
     {
       "name": "Institut Beauté Bertmans",
       "visits": 1,
       "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
     },
     {
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2026-01-07",
-      "last_pretty": "07 january 2026"
+      "last_pretty": "07 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last_pretty": "30 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

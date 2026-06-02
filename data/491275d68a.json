@@ -7,7 +7,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-02-05",
-      "last_pretty": "05 february 2026"
+      "last_pretty": "05 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Salon Privé Chailly",
@@ -27,7 +28,8 @@
       "name": "Hôtel &#038; Spa Le National",
       "visits": 1,
       "last": "2025-10-31",
-      "last_pretty": "31 october 2025"
+      "last_pretty": "31 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/"
     }
   ]
 }

@@ -7,13 +7,15 @@
       "name": "Le Beausquet Genève",
       "visits": 1,
       "last": "2026-03-06",
-      "last_pretty": "06 march 2026"
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
       "visits": 1,
       "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -25,13 +27,15 @@
       "name": "Le Bal des Créateurs",
       "visits": 1,
       "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
     },
     {
       "name": "Swiss Beauty Studio",
       "visits": 1,
       "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
+      "last_pretty": "08 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
     }
   ]
 }

@@ -13,19 +13,22 @@
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last_pretty": "28 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     },
     {
       "name": "Organik Beauty",
       "visits": 1,
       "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last_pretty": "14 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
     },
     {
       "name": "Guess What",
       "visits": 1,
       "last": "2025-09-18",
-      "last_pretty": "18 september 2025"
+      "last_pretty": "18 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
     }
   ]
 }

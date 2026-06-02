@@ -7,31 +7,36 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-05-03",
-      "last_pretty": "03 may 2026"
+      "last_pretty": "03 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "Arte Beauty Lutry",
       "visits": 1,
       "last": "2026-05-01",
-      "last_pretty": "01 may 2026"
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     },
     {
       "name": "RUBIS SPA",
       "visits": 1,
       "last": "2026-04-07",
-      "last_pretty": "07 april 2026"
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
     },
     {
       "name": "Centre de bien-être J&#038;J",
       "visits": 1,
       "last": "2026-03-03",
-      "last_pretty": "03 march 2026"
+      "last_pretty": "03 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
       "visits": 1,
       "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
     }
   ]
 }

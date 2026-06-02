@@ -7,7 +7,8 @@
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2026-03-11",
-      "last_pretty": "11 march 2026"
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     },
     {
       "name": "Beauty Concept Vevey",
@@ -19,7 +20,8 @@
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2025-11-26",
-      "last_pretty": "26 november 2025"
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     }
   ]
 }

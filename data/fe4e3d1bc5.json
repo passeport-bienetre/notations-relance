@@ -7,19 +7,22 @@
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     },
     {
       "name": "1er Acte Coiffure",
       "visits": 1,
       "last": "2026-01-22",
-      "last_pretty": "22 january 2026"
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2025-11-10",
-      "last_pretty": "10 november 2025"
+      "last_pretty": "10 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     }
   ]
 }

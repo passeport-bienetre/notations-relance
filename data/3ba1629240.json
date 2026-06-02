@@ -42,19 +42,22 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-07-31",
-      "last_pretty": "31 july 2025"
+      "last_pretty": "31 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
       "visits": 1,
       "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/"
     }
   ]
 }

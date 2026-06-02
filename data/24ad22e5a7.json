@@ -7,7 +7,8 @@
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
       "visits": 1,
       "last": "2025-11-24",
-      "last_pretty": "24 november 2025"
+      "last_pretty": "24 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
     },
     {
       "name": "Swiss Aesthetica",
@@ -20,7 +21,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-09-19",
-      "last_pretty": "19 september 2025"
+      "last_pretty": "19 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Institut Osmose",
@@ -33,7 +35,8 @@
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-06-27",
-      "last_pretty": "27 june 2025"
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     }
   ]
 }

@@ -7,19 +7,22 @@
       "name": "NUANCES NATURE",
       "visits": 1,
       "last": "2025-11-18",
-      "last_pretty": "18 november 2025"
+      "last_pretty": "18 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
     },
     {
       "name": "Le Beausquet Genève",
       "visits": 1,
       "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     },
     {
       "name": "Blossom Institut",
       "visits": 1,
       "last": "2025-06-17",
-      "last_pretty": "17 june 2025"
+      "last_pretty": "17 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
     }
   ]
 }
