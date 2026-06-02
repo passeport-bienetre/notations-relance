@@ -1,0 +1,19 @@
+{
+  "carte": "31687",
+  "name": "Moy",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "carte": "33355",
+  "name": "Alla",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "Origin Float Spa",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "LA SUITE COIFFURE",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-11-18",
+      "last_pretty": "18 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    }
+  ]
+}

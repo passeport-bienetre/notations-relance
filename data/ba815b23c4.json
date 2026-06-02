@@ -1,0 +1,33 @@
+{
+  "carte": "32275",
+  "name": "Céline",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2026-04-05",
+      "last_pretty": "05 april 2026"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-01",
+      "last_pretty": "01 january 2026"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "carte": "34923",
+  "name": "Sandra",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+    }
+  ]
+}

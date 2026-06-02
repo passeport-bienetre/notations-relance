@@ -1,0 +1,25 @@
+{
+  "carte": "36260",
+  "name": "Guillaume",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
+    }
+  ]
+}

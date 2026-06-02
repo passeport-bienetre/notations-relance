@@ -1,0 +1,58 @@
+{
+  "carte": "34484",
+  "name": "Laura",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-04-04",
+      "last_pretty": "04 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-03-18",
+      "last_pretty": "18 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

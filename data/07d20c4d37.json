@@ -1,0 +1,21 @@
+{
+  "carte": "32304",
+  "name": "Aude",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Sabaidee",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sabaidee/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    }
+  ]
+}

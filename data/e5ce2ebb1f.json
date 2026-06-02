@@ -1,0 +1,21 @@
+{
+  "carte": "30906",
+  "name": "Alexandra",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Institut Sakora",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
+    }
+  ]
+}

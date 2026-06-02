@@ -1,0 +1,26 @@
+{
+  "carte": "36662",
+  "name": "Véronique",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026"
+    }
+  ]
+}

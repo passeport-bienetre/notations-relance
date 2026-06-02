@@ -1,0 +1,38 @@
+{
+  "carte": "31992",
+  "name": "Eleonore",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-11-24",
+      "last_pretty": "24 november 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-09",
+      "last_pretty": "09 october 2025"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
+    }
+  ]
+}

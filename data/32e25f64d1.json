@@ -1,0 +1,40 @@
+{
+  "carte": "33182",
+  "name": "Eileen",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-11",
+      "last_pretty": "11 november 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-09-27",
+      "last_pretty": "27 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-08-30",
+      "last_pretty": "30 august 2025"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

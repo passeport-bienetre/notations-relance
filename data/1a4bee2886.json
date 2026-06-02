@@ -1,0 +1,28 @@
+{
+  "carte": "36401",
+  "name": "M",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-04-03",
+      "last_pretty": "03 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "38934",
+  "name": "Jessica",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

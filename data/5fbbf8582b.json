@@ -1,0 +1,27 @@
+{
+  "carte": "35333",
+  "name": "Alba",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
+    }
+  ]
+}

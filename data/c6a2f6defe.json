@@ -1,0 +1,19 @@
+{
+  "carte": "29100",
+  "name": "Marine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-07-06",
+      "last_pretty": "06 july 2025"
+    }
+  ]
+}

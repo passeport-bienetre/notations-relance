@@ -1,0 +1,27 @@
+{
+  "carte": "33906",
+  "name": "Aude",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

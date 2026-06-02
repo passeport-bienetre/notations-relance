@@ -1,0 +1,21 @@
+{
+  "carte": "36553",
+  "name": "Fumeaux",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "carte": "26982",
+  "name": "Ernesto",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    }
+  ]
+}

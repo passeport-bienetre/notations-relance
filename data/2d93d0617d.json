@@ -1,0 +1,14 @@
+{
+  "carte": "35106",
+  "name": "SARAH",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    }
+  ]
+}

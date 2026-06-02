@@ -1,0 +1,62 @@
+{
+  "carte": "27039",
+  "name": "Sophie",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

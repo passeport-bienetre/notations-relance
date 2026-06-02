@@ -1,0 +1,28 @@
+{
+  "carte": "29109",
+  "name": "Caroline",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    }
+  ]
+}

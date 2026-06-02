@@ -1,0 +1,42 @@
+{
+  "carte": "36229",
+  "name": "Sanjali",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "Origin Float Spa",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
+    },
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

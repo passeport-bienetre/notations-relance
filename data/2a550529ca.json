@@ -1,0 +1,21 @@
+{
+  "carte": "34984",
+  "name": "Andreia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
+}

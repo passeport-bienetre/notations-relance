@@ -1,0 +1,21 @@
+{
+  "carte": "33360",
+  "name": "Dunia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

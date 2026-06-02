@@ -1,0 +1,21 @@
+{
+  "carte": "34928",
+  "name": "Stéphanie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
+}

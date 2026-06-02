@@ -1,0 +1,19 @@
+{
+  "carte": "31216",
+  "name": "Cyrielle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
+    }
+  ]
+}

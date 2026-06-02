@@ -1,0 +1,19 @@
+{
+  "carte": "25936",
+  "name": "Marie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-09",
+      "last_pretty": "09 june 2025"
+    }
+  ]
+}

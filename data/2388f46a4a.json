@@ -1,0 +1,26 @@
+{
+  "carte": "29040",
+  "name": "Antoinette",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-17",
+      "last_pretty": "17 november 2025"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
+    }
+  ]
+}

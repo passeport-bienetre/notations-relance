@@ -1,0 +1,20 @@
+{
+  "carte": "35019",
+  "name": "Lindsey",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2026-03-29",
+      "last_pretty": "29 march 2026"
+    }
+  ]
+}

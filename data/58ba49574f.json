@@ -1,0 +1,19 @@
+{
+  "carte": "27089",
+  "name": "Romain",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "25464",
+  "name": "Agnès",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
+    },
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    }
+  ]
+}

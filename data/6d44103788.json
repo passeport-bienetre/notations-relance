@@ -1,0 +1,27 @@
+{
+  "carte": "29522",
+  "name": "Aurélie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
+    }
+  ]
+}

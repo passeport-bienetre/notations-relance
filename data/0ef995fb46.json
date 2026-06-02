@@ -1,0 +1,33 @@
+{
+  "carte": "36247",
+  "name": "Karim",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
+    },
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-03-18",
+      "last_pretty": "18 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
+}

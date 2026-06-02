@@ -1,0 +1,55 @@
+{
+  "carte": "34278",
+  "name": "Florian",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Maison B",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
+    },
+    {
+      "name": "Chandolin Boutique Hôtel",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026"
+    },
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2026-01-20",
+      "last_pretty": "20 january 2026"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
+    }
+  ]
+}

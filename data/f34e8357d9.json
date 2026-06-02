@@ -1,0 +1,13 @@
+{
+  "carte": "33856",
+  "name": "france",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    }
+  ]
+}

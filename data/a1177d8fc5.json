@@ -1,0 +1,28 @@
+{
+  "carte": "34457",
+  "name": "isaline",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

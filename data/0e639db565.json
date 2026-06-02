@@ -1,0 +1,13 @@
+{
+  "carte": "36200",
+  "name": "Maelenn",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
+    }
+  ]
+}

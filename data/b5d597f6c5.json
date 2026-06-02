@@ -1,0 +1,27 @@
+{
+  "carte": "26020",
+  "name": "Christine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
+}

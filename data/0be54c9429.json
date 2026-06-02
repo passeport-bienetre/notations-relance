@@ -1,0 +1,34 @@
+{
+  "carte": "33120",
+  "name": "Nathalie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-06-28",
+      "last_pretty": "28 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    }
+  ]
+}

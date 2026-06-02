@@ -1,0 +1,54 @@
+{
+  "carte": "34651",
+  "name": "Petar",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    },
+    {
+      "name": "Institut Beauté d&rsquo;Or",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
+    },
+    {
+      "name": "Institut Energie Zen",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-energie-zen/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    }
+  ]
+}

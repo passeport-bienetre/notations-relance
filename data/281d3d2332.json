@@ -1,0 +1,134 @@
+{
+  "carte": "33119",
+  "name": "Sonia",
+  "nb_estabs": 19,
+  "estabs": [
+    {
+      "name": "Lumen Spa &#038; Wellness",
+      "visits": 1,
+      "last": "2026-05-14",
+      "last_pretty": "14 may 2026"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "Vogue La Coiffure",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
+    },
+    {
+      "name": "Tempête de Calme",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
+    },
+    {
+      "name": "Corps et Sons",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/corps-et-sons/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/"
+    },
+    {
+      "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
+    },
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-01-10",
+      "last_pretty": "10 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-12-31",
+      "last_pretty": "31 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
+    }
+  ]
+}

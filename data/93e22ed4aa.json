@@ -1,0 +1,33 @@
+{
+  "carte": "34949",
+  "name": "Anne",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026"
+    }
+  ]
+}

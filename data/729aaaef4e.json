@@ -1,0 +1,79 @@
+{
+  "carte": "34547",
+  "name": "David",
+  "nb_estabs": 11,
+  "estabs": [
+    {
+      "name": "INTUITIVE JESS",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-07-27",
+      "last_pretty": "27 july 2025"
+    }
+  ]
+}

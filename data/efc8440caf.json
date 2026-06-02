@@ -1,0 +1,25 @@
+{
+  "carte": "35936",
+  "name": "Murielle",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
+    }
+  ]
+}

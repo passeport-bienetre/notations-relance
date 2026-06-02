@@ -1,0 +1,21 @@
+{
+  "carte": "30659",
+  "name": "Caroline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
+    }
+  ]
+}

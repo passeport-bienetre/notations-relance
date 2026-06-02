@@ -1,0 +1,28 @@
+{
+  "carte": "33482",
+  "name": "Barbara",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    }
+  ]
+}

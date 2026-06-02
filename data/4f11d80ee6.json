@@ -1,0 +1,26 @@
+{
+  "carte": "33217",
+  "name": "D",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-04-04",
+      "last_pretty": "04 april 2026"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

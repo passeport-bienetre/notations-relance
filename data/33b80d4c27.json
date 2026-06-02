@@ -1,0 +1,14 @@
+{
+  "carte": "35082",
+  "name": "Martine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "26059",
+  "name": "Christian",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-08-11",
+      "last_pretty": "11 august 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
+    }
+  ]
+}

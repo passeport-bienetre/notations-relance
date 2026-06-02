@@ -1,0 +1,21 @@
+{
+  "carte": "35996",
+  "name": "Nadège",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    }
+  ]
+}

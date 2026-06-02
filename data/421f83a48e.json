@@ -1,0 +1,14 @@
+{
+  "carte": "25955",
+  "name": "victoria",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

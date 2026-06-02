@@ -1,0 +1,49 @@
+{
+  "carte": "30597",
+  "name": "Claude",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    },
+    {
+      "name": "MYO Style",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
+    }
+  ]
+}

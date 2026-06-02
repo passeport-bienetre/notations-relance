@@ -1,0 +1,19 @@
+{
+  "carte": "32322",
+  "name": "Maud",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    }
+  ]
+}

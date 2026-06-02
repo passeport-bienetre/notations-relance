@@ -1,0 +1,13 @@
+{
+  "carte": "30619",
+  "name": "Sandra",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    }
+  ]
+}

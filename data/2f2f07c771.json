@@ -1,0 +1,41 @@
+{
+  "carte": "33114",
+  "name": "Debora",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "INTUITIVE JESS",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    }
+  ]
+}

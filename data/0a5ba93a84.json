@@ -1,0 +1,19 @@
+{
+  "carte": "35907",
+  "name": "Christa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    }
+  ]
+}

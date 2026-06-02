@@ -1,0 +1,25 @@
+{
+  "carte": "32381",
+  "name": "Catia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
+    },
+    {
+      "name": "Damien &#038; Co",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
+    }
+  ]
+}

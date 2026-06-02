@@ -1,0 +1,28 @@
+{
+  "carte": "30428",
+  "name": "Roberta",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    }
+  ]
+}

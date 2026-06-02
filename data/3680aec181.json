@@ -1,0 +1,41 @@
+{
+  "carte": "34994",
+  "name": "Laura",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "Damien &#038; Co",
+      "visits": 1,
+      "last": "2025-07-31",
+      "last_pretty": "31 july 2025"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    }
+  ]
+}

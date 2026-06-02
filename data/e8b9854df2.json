@@ -1,0 +1,25 @@
+{
+  "carte": "34694",
+  "name": "Linda",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
+    }
+  ]
+}

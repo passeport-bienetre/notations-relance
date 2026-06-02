@@ -1,0 +1,13 @@
+{
+  "carte": "29043",
+  "name": "Marc",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    }
+  ]
+}

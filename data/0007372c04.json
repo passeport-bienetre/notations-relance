@@ -1,0 +1,14 @@
+{
+  "carte": "36113",
+  "name": "Gisela",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

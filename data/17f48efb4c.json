@@ -1,0 +1,14 @@
+{
+  "carte": "35218",
+  "name": "charlène",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-05-11",
+      "last_pretty": "11 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

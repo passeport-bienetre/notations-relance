@@ -1,0 +1,20 @@
+{
+  "carte": "34549",
+  "name": "Elise",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-09-23",
+      "last_pretty": "23 september 2025"
+    }
+  ]
+}

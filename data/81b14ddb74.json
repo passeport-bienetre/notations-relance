@@ -1,0 +1,35 @@
+{
+  "carte": "34968",
+  "name": "Desiree",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-12-06",
+      "last_pretty": "06 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

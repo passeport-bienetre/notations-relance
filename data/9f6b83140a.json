@@ -1,0 +1,14 @@
+{
+  "carte": "36001",
+  "name": "Deborah",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    }
+  ]
+}

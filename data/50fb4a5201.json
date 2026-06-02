@@ -1,0 +1,27 @@
+{
+  "carte": "33034",
+  "name": "Stephanie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-08-18",
+      "last_pretty": "18 august 2025"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    }
+  ]
+}

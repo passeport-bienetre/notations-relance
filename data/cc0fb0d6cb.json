@@ -1,0 +1,35 @@
+{
+  "carte": "36230",
+  "name": "Audrey",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

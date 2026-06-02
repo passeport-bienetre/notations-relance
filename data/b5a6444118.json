@@ -1,0 +1,25 @@
+{
+  "carte": "29691",
+  "name": "Pierre-Alain",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-21",
+      "last_pretty": "21 december 2025"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
+    }
+  ]
+}

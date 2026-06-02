@@ -1,0 +1,34 @@
+{
+  "carte": "33264",
+  "name": "Suzanne",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

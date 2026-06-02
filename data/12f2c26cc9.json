@@ -1,0 +1,35 @@
+{
+  "carte": "33309",
+  "name": "Jamila",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

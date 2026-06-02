@@ -1,0 +1,27 @@
+{
+  "carte": "35221",
+  "name": "Marielle",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
+    }
+  ]
+}

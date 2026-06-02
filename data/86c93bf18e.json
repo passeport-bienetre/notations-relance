@@ -1,0 +1,35 @@
+{
+  "carte": "28863",
+  "name": "Joel",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

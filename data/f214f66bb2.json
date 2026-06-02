@@ -1,0 +1,19 @@
+{
+  "carte": "33115",
+  "name": "Cindy",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-11",
+      "last_pretty": "11 may 2026"
+    },
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2026-01-20",
+      "last_pretty": "20 january 2026"
+    }
+  ]
+}

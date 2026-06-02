@@ -1,0 +1,21 @@
+{
+  "carte": "39311",
+  "name": "Soraya",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

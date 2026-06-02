@@ -1,0 +1,14 @@
+{
+  "carte": "32376",
+  "name": "Lucille",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

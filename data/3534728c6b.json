@@ -1,0 +1,20 @@
+{
+  "carte": "36724",
+  "name": "Lucie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
+    }
+  ]
+}

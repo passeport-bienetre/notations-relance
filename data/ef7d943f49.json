@@ -1,0 +1,19 @@
+{
+  "carte": "35483",
+  "name": "julia/arnaud",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
+    }
+  ]
+}

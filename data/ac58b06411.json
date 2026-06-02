@@ -1,0 +1,20 @@
+{
+  "carte": "35837",
+  "name": "Daphné",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "carte": "31741",
+  "name": "Pascale",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026"
+    },
+    {
+      "name": "Eveil des Sens",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/eveil-des-sens-3/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025"
+    }
+  ]
+}

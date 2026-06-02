@@ -1,0 +1,54 @@
+{
+  "carte": "35213",
+  "name": "Océane",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "carte": "36085",
+  "name": "Pia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    }
+  ]
+}

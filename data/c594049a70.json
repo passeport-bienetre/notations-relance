@@ -1,0 +1,33 @@
+{
+  "carte": "30281",
+  "name": "Melissa",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-11-02",
+      "last_pretty": "02 november 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    }
+  ]
+}

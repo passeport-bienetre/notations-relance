@@ -1,0 +1,14 @@
+{
+  "carte": "36810",
+  "name": "Susanne",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
+}

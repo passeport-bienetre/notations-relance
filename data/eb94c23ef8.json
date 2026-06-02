@@ -1,0 +1,19 @@
+{
+  "carte": "31031",
+  "name": "Nathalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
+    }
+  ]
+}

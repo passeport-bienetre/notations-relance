@@ -1,0 +1,26 @@
+{
+  "carte": "34920",
+  "name": "Sandie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
+    }
+  ]
+}

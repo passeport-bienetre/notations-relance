@@ -1,0 +1,13 @@
+{
+  "carte": "33848",
+  "name": "Lucile",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
+    }
+  ]
+}

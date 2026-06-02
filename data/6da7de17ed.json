@@ -1,0 +1,40 @@
+{
+  "carte": "33325",
+  "name": "Margo",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Damien &#038; Co",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025"
+    }
+  ]
+}

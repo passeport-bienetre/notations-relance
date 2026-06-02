@@ -1,0 +1,25 @@
+{
+  "carte": "35450",
+  "name": "Sara",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
+    }
+  ]
+}

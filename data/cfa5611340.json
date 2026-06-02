@@ -1,0 +1,13 @@
+{
+  "carte": "25379",
+  "name": "Lili",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
+      "visits": 1,
+      "last": "2025-05-30"
+    }
+  ]
+}

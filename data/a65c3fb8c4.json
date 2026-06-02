@@ -1,0 +1,21 @@
+{
+  "carte": "36233",
+  "name": "Anne-Laure",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    }
+  ]
+}

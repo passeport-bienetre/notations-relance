@@ -1,0 +1,20 @@
+{
+  "carte": "33155",
+  "name": "Fabienne",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    }
+  ]
+}

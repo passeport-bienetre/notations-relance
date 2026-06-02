@@ -1,0 +1,41 @@
+{
+  "carte": "35474",
+  "name": "Valentine",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    }
+  ]
+}

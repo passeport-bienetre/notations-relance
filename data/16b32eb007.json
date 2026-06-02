@@ -1,0 +1,35 @@
+{
+  "carte": "29716",
+  "name": "Laura",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "31098",
+  "name": "Christina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

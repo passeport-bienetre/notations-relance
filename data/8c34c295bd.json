@@ -1,0 +1,14 @@
+{
+  "carte": "34724",
+  "name": "Stefania",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
+    }
+  ]
+}

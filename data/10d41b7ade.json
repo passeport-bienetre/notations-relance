@@ -1,0 +1,34 @@
+{
+  "carte": "36172",
+  "name": "Martine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Tifenn",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "INTUITIVE JESS",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+    }
+  ]
+}

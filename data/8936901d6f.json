@@ -1,0 +1,19 @@
+{
+  "carte": "33864",
+  "name": "Maëlig",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
+      "visits": 1,
+      "last": "2025-05-31"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
+      "visits": 1,
+      "last": "2025-05-23"
+    }
+  ]
+}

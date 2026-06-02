@@ -1,0 +1,21 @@
+{
+  "carte": "32290",
+  "name": "Claire",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    }
+  ]
+}

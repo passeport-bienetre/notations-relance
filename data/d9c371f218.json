@@ -1,0 +1,35 @@
+{
+  "carte": "39270",
+  "name": "Isabelle",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "NUTRITION SANTE JULIETTE",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nutrition-sante-juliette/"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

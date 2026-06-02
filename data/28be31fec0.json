@@ -1,0 +1,21 @@
+{
+  "carte": "30722",
+  "name": "Florence",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    }
+  ]
+}

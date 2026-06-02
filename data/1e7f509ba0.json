@@ -1,0 +1,35 @@
+{
+  "carte": "31850",
+  "name": "Sabrina",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-12-25",
+      "last_pretty": "25 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    }
+  ]
+}

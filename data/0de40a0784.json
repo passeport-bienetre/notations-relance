@@ -1,0 +1,13 @@
+{
+  "carte": "34569",
+  "name": "Jean-Marc",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2026-01-04",
+      "last_pretty": "04 january 2026"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "31405",
+  "name": "Fanny",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

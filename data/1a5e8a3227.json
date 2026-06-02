@@ -1,0 +1,33 @@
+{
+  "carte": "34687",
+  "name": "Raytrallen",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    }
+  ]
+}

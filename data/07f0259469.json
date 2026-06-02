@@ -1,0 +1,27 @@
+{
+  "carte": "31954",
+  "name": "Ben",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
+    }
+  ]
+}

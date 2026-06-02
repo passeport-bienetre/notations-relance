@@ -1,0 +1,55 @@
+{
+  "carte": "34775",
+  "name": "David",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

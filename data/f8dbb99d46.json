@@ -1,0 +1,25 @@
+{
+  "carte": "31875",
+  "name": "Muge",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    }
+  ]
+}

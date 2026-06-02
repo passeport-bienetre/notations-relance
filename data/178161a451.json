@@ -1,0 +1,48 @@
+{
+  "carte": "33385",
+  "name": "Audrey",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "31597",
+  "name": "Morgane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-07-27",
+      "last_pretty": "27 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

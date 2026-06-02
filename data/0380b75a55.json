@@ -1,0 +1,34 @@
+{
+  "carte": "34747",
+  "name": "Elisabeth",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
+    },
+    {
+      "name": "INTUITIVE JESS",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

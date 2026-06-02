@@ -1,0 +1,20 @@
+{
+  "carte": "32333",
+  "name": "Eleanor",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

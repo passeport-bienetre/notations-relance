@@ -1,0 +1,13 @@
+{
+  "carte": "38372",
+  "name": "Jennifer",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-03-16",
+      "last_pretty": "16 march 2026"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "31997",
+  "name": "Cécile",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    }
+  ]
+}

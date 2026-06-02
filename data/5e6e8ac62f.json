@@ -1,0 +1,38 @@
+{
+  "carte": "31066",
+  "name": "Aurore",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025"
+    }
+  ]
+}

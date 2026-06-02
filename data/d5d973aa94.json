@@ -1,0 +1,20 @@
+{
+  "carte": "30025",
+  "name": "Isabelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-11-19",
+      "last_pretty": "19 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

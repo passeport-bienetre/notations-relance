@@ -1,0 +1,54 @@
+{
+  "carte": "34800",
+  "name": "Sandrine",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-19",
+      "last_pretty": "19 november 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    }
+  ]
+}

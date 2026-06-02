@@ -1,0 +1,21 @@
+{
+  "carte": "35692",
+  "name": "Monica",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2026-01-11",
+      "last_pretty": "11 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "carte": "30521",
+  "name": "Kim",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-08-09",
+      "last_pretty": "09 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-06-28",
+      "last_pretty": "28 june 2025"
+    }
+  ]
+}

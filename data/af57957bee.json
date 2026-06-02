@@ -1,0 +1,19 @@
+{
+  "carte": "31269",
+  "name": "Capel",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025"
+    }
+  ]
+}

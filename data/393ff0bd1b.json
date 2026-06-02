@@ -1,0 +1,82 @@
+{
+  "carte": "30329",
+  "name": "Laetitia",
+  "nb_estabs": 11,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "Vogue La Coiffure",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-01-11",
+      "last_pretty": "11 january 2026"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-01-10",
+      "last_pretty": "10 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
+    },
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
+    }
+  ]
+}

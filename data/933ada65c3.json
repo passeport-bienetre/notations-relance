@@ -1,0 +1,35 @@
+{
+  "carte": "31740",
+  "name": "Juliette",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    }
+  ]
+}

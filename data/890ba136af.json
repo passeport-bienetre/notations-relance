@@ -1,0 +1,20 @@
+{
+  "carte": "30670",
+  "name": "Julie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    }
+  ]
+}

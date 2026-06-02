@@ -1,0 +1,40 @@
+{
+  "carte": "30105",
+  "name": "Fabienne",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "carte": "29381",
+  "name": "Aisha",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-07-28",
+      "last_pretty": "28 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

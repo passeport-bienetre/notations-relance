@@ -1,0 +1,14 @@
+{
+  "carte": "29225",
+  "name": "Emine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

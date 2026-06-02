@@ -1,0 +1,33 @@
+{
+  "carte": "28254",
+  "name": "Svetlana",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "INSTITUT NATURALPE",
+      "visits": 1,
+      "last": "2025-12-01",
+      "last_pretty": "01 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-naturalpe/"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

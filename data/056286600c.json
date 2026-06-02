@@ -1,0 +1,19 @@
+{
+  "carte": "33124",
+  "name": "Sylvie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    }
+  ]
+}

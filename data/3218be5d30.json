@@ -1,0 +1,28 @@
+{
+  "carte": "39891",
+  "name": "Nogueira",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BORROMEO COIFFURE",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/borromeo-coiffure/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    }
+  ]
+}

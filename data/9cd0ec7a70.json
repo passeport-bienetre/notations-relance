@@ -1,0 +1,19 @@
+{
+  "carte": "33980",
+  "name": "Patricia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
+    }
+  ]
+}

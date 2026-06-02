@@ -1,0 +1,31 @@
+{
+  "carte": "25620",
+  "name": "Elise",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "carte": "31024",
+  "name": "Eliane",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

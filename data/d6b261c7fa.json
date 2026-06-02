@@ -1,0 +1,21 @@
+{
+  "carte": "25109",
+  "name": "Betul",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    }
+  ]
+}

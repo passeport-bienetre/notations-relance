@@ -1,0 +1,53 @@
+{
+  "carte": "29687",
+  "name": "Catherine",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-01-20",
+      "last_pretty": "20 january 2026"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-21",
+      "last_pretty": "21 december 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    }
+  ]
+}

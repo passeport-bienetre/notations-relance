@@ -1,0 +1,14 @@
+{
+  "carte": "34970",
+  "name": "Chantal",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    }
+  ]
+}

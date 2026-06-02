@@ -1,0 +1,13 @@
+{
+  "carte": "32480",
+  "name": "Valentine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "carte": "25429",
+  "name": "P",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-14",
+      "last_pretty": "14 may 2026"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-25",
+      "last_pretty": "25 december 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-03",
+      "last_pretty": "03 august 2025"
+    }
+  ]
+}

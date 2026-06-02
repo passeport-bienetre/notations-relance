@@ -1,0 +1,67 @@
+{
+  "carte": "33750",
+  "name": "Smi",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
+    },
+    {
+      "name": "Les Petits Pieds du Bonheur",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-12-17",
+      "last_pretty": "17 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    },
+    {
+      "name": "Guinot Art of Beauty",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
+    }
+  ]
+}

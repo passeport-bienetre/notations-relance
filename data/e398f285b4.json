@@ -1,0 +1,26 @@
+{
+  "carte": "31811",
+  "name": "Ilaria",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "36046",
+  "name": "Annick",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    },
+    {
+      "name": "Damien &#038; Co",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

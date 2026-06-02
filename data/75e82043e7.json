@@ -1,0 +1,20 @@
+{
+  "carte": "38253",
+  "name": "Aline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    }
+  ]
+}

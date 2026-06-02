@@ -1,0 +1,14 @@
+{
+  "carte": "31957",
+  "name": "Natacha",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hairstudio",
+      "visits": 1,
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairstudio/"
+    }
+  ]
+}

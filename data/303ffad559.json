@@ -1,0 +1,21 @@
+{
+  "carte": "39388",
+  "name": "Carol",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

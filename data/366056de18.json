@@ -1,0 +1,48 @@
+{
+  "carte": "28425",
+  "name": "Daniela",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

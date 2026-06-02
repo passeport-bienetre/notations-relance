@@ -1,0 +1,27 @@
+{
+  "carte": "36147",
+  "name": "Anne",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-03-16",
+      "last_pretty": "16 march 2026"
+    },
+    {
+      "name": "Institut Sakora",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
+    }
+  ]
+}

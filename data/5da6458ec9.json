@@ -1,0 +1,20 @@
+{
+  "carte": "30056",
+  "name": "Julie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
+    },
+    {
+      "name": "ALEX COIFFURE SARL",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "carte": "31496",
+  "name": "Karine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-08-05",
+      "last_pretty": "05 august 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
+    }
+  ]
+}

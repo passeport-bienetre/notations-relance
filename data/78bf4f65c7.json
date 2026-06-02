@@ -1,0 +1,42 @@
+{
+  "carte": "30591",
+  "name": "Zelia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-08-02",
+      "last_pretty": "02 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    }
+  ]
+}

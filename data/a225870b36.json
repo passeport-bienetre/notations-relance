@@ -1,0 +1,14 @@
+{
+  "carte": "38739",
+  "name": "Julia",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
+}

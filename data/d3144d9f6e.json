@@ -1,0 +1,40 @@
+{
+  "carte": "29695",
+  "name": "Lilya",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "MK PILATES",
+      "visits": 1,
+      "last": "2025-11-22",
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/mk-pilates/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
+    }
+  ]
+}

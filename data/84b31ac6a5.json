@@ -1,0 +1,40 @@
+{
+  "carte": "34576",
+  "name": "Nathalie",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Chandolin Boutique Hôtel",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    }
+  ]
+}

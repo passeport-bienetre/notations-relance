@@ -1,0 +1,68 @@
+{
+  "carte": "31894",
+  "name": "Céline",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
+    },
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-24",
+      "last_pretty": "24 november 2025"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    }
+  ]
+}

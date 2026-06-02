@@ -1,0 +1,33 @@
+{
+  "carte": "31845",
+  "name": "Anne-Sophie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-11-30",
+      "last_pretty": "30 november 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

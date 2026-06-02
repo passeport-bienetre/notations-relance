@@ -1,0 +1,14 @@
+{
+  "carte": "35100",
+  "name": "Tiphaine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Sakora",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
+    }
+  ]
+}

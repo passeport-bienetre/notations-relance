@@ -1,0 +1,20 @@
+{
+  "carte": "31609",
+  "name": "Morgan",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2025-11-02",
+      "last_pretty": "02 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    }
+  ]
+}

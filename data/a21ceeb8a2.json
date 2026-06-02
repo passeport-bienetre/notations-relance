@@ -1,0 +1,21 @@
+{
+  "carte": "31324",
+  "name": "Delia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "Vogue La Coiffure",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
+    }
+  ]
+}

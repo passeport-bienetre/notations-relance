@@ -1,0 +1,14 @@
+{
+  "carte": "28449",
+  "name": "Lila",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

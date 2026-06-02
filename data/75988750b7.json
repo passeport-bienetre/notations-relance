@@ -1,0 +1,35 @@
+{
+  "carte": "31733",
+  "name": "Maruschka",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

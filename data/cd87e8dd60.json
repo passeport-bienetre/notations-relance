@@ -1,0 +1,14 @@
+{
+  "carte": "30571",
+  "name": "Amina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "ALEX COIFFURE SARL",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    }
+  ]
+}

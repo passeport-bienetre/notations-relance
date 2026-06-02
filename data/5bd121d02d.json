@@ -1,0 +1,19 @@
+{
+  "carte": "27035",
+  "name": "Kristin",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    }
+  ]
+}

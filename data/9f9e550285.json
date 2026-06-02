@@ -1,0 +1,20 @@
+{
+  "carte": "38396",
+  "name": "Devy",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "carte": "30593",
+  "name": "Amandine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
+    },
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
+    }
+  ]
+}

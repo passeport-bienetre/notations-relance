@@ -1,0 +1,34 @@
+{
+  "carte": "30454",
+  "name": "Neda",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-06-29",
+      "last_pretty": "29 june 2025"
+    }
+  ]
+}

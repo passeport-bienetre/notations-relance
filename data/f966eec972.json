@@ -1,0 +1,19 @@
+{
+  "carte": "30853",
+  "name": "Fanny",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026"
+    }
+  ]
+}

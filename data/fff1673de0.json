@@ -1,0 +1,49 @@
+{
+  "carte": "34855",
+  "name": "Lucile",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
+    }
+  ]
+}

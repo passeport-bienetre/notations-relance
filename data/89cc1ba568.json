@@ -1,0 +1,40 @@
+{
+  "carte": "34162",
+  "name": "Alessia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    }
+  ]
+}

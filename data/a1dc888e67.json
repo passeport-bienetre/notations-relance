@@ -1,0 +1,20 @@
+{
+  "carte": "33995",
+  "name": "Isabelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    }
+  ]
+}

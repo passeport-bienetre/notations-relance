@@ -1,0 +1,37 @@
+{
+  "carte": "30475",
+  "name": "Gaélane",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    }
+  ]
+}

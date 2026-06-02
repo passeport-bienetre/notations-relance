@@ -1,0 +1,68 @@
+{
+  "carte": "33343",
+  "name": "Gabriela",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

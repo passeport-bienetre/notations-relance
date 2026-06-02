@@ -1,0 +1,47 @@
+{
+  "carte": "31448",
+  "name": "Eva",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    }
+  ]
+}

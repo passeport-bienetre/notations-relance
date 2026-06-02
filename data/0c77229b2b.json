@@ -1,0 +1,91 @@
+{
+  "carte": "27029",
+  "name": "Anne",
+  "nb_estabs": 13,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-12-01",
+      "last_pretty": "01 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025"
+    }
+  ]
+}

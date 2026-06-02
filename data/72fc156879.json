@@ -1,0 +1,27 @@
+{
+  "carte": "28294",
+  "name": "Leina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Institut Orphée",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
+    }
+  ]
+}

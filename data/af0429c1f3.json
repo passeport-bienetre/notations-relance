@@ -1,0 +1,28 @@
+{
+  "carte": "33999",
+  "name": "Chloé",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

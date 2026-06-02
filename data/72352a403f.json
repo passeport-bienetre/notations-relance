@@ -1,0 +1,41 @@
+{
+  "carte": "34990",
+  "name": "christiane",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
+    },
+    {
+      "name": "Espace Beauté Harmonie",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/"
+    }
+  ]
+}

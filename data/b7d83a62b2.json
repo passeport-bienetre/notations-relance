@@ -1,0 +1,21 @@
+{
+  "carte": "26645",
+  "name": "Chantal",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    }
+  ]
+}

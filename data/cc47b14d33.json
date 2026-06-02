@@ -1,0 +1,19 @@
+{
+  "carte": "36195",
+  "name": "Elsa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Tifenn",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
+    }
+  ]
+}

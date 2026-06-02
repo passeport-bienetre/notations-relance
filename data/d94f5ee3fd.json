@@ -1,0 +1,21 @@
+{
+  "carte": "35592",
+  "name": "Nadine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2026-04-20",
+      "last_pretty": "20 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
+}

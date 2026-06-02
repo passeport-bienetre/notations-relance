@@ -1,0 +1,21 @@
+{
+  "carte": "36700",
+  "name": "Justine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    }
+  ]
+}

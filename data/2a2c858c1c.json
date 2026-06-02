@@ -1,0 +1,69 @@
+{
+  "carte": "34890",
+  "name": "Akhilesh",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-01-05",
+      "last_pretty": "05 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    }
+  ]
+}

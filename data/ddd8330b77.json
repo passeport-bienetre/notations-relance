@@ -1,0 +1,35 @@
+{
+  "carte": "30666",
+  "name": "Christiane",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "Institut Sakora",
+      "visits": 1,
+      "last": "2025-10-09",
+      "last_pretty": "09 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "32482",
+  "name": "Yura",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    }
+  ]
+}

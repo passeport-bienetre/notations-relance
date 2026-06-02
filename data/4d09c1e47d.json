@@ -1,0 +1,14 @@
+{
+  "carte": "30929",
+  "name": "marina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    }
+  ]
+}

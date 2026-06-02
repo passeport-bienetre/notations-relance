@@ -1,0 +1,20 @@
+{
+  "carte": "29091",
+  "name": "Laure",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-12-17",
+      "last_pretty": "17 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    }
+  ]
+}

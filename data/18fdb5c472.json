@@ -1,0 +1,27 @@
+{
+  "carte": "33523",
+  "name": "cindy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
+}

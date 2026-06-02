@@ -1,0 +1,39 @@
+{
+  "carte": "30386",
+  "name": "Benjamin",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-07-28",
+      "last_pretty": "28 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-07-01",
+      "last_pretty": "01 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

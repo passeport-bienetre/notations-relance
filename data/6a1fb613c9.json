@@ -1,0 +1,32 @@
+{
+  "carte": "30374",
+  "name": "Laetitia",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    }
+  ]
+}

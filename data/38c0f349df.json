@@ -1,0 +1,34 @@
+{
+  "carte": "33554",
+  "name": "Juliana",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    }
+  ]
+}

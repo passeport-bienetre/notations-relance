@@ -1,0 +1,21 @@
+{
+  "carte": "35750",
+  "name": "SILVIA",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    }
+  ]
+}

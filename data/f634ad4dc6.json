@@ -1,0 +1,19 @@
+{
+  "carte": "25769",
+  "name": "Fanny",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
+    }
+  ]
+}

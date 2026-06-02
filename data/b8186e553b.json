@@ -1,0 +1,13 @@
+{
+  "carte": "31034",
+  "name": "Daniela",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    }
+  ]
+}

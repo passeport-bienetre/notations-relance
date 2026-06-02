@@ -1,0 +1,27 @@
+{
+  "carte": "34573",
+  "name": "Dominique",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-08-30",
+      "last_pretty": "30 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

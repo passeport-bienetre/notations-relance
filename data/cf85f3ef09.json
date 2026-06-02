@@ -1,0 +1,21 @@
+{
+  "carte": "35151",
+  "name": "Gaël",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-02-16",
+      "last_pretty": "16 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    }
+  ]
+}

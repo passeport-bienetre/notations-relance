@@ -1,0 +1,19 @@
+{
+  "carte": "30503",
+  "name": "Marion",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025"
+    }
+  ]
+}

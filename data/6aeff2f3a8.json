@@ -1,0 +1,35 @@
+{
+  "carte": "31177",
+  "name": "Adam",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "Chalet-Hôtel la Marmotte",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-06-23",
+      "last_pretty": "23 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

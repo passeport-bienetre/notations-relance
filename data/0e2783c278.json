@@ -1,0 +1,27 @@
+{
+  "carte": "34845",
+  "name": "Monique",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
+    }
+  ]
+}

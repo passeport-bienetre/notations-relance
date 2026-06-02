@@ -1,0 +1,19 @@
+{
+  "carte": "29071",
+  "name": "Irene",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    }
+  ]
+}

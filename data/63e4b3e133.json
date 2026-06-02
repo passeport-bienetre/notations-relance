@@ -1,0 +1,35 @@
+{
+  "carte": "35301",
+  "name": "Martine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "carte": "25016",
+  "name": "Gabrielle",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

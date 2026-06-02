@@ -1,0 +1,21 @@
+{
+  "carte": "32280",
+  "name": "Marion",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "27202",
+  "name": "Nathalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chandolin Boutique Hôtel",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-07-06",
+      "last_pretty": "06 july 2025"
+    }
+  ]
+}

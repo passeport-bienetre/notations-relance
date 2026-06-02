@@ -1,0 +1,34 @@
+{
+  "carte": "32213",
+  "name": "Sally",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
+    },
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
+    },
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "31032",
+  "name": "Nathalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
+    }
+  ]
+}

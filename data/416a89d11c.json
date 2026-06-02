@@ -1,0 +1,61 @@
+{
+  "carte": "30630",
+  "name": "Anaïd",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2025-11-17",
+      "last_pretty": "17 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

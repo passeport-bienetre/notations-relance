@@ -1,0 +1,21 @@
+{
+  "carte": "38800",
+  "name": "Nathalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "39190",
+  "name": "Francine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "35016",
+  "name": "Florian",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    }
+  ]
+}

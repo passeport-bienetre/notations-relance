@@ -1,0 +1,14 @@
+{
+  "carte": "30779",
+  "name": "Sadije",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    }
+  ]
+}

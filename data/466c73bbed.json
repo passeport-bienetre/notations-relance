@@ -1,0 +1,34 @@
+{
+  "carte": "33288",
+  "name": "Karen",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

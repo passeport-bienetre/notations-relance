@@ -1,0 +1,19 @@
+{
+  "carte": "31353",
+  "name": "Isabelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
+    }
+  ]
+}

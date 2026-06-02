@@ -1,0 +1,68 @@
+{
+  "carte": "35988",
+  "name": "Zeina",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2026-04-20",
+      "last_pretty": "20 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

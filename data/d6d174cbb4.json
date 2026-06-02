@@ -1,0 +1,40 @@
+{
+  "carte": "27318",
+  "name": "Stefania",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2025-11-02",
+      "last_pretty": "02 november 2025"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "Guinot Art of Beauty",
+      "visits": 1,
+      "last": "2025-09-27",
+      "last_pretty": "27 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
+    },
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    }
+  ]
+}

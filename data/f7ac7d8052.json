@@ -1,0 +1,37 @@
+{
+  "carte": "35064",
+  "name": "Joanne",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    }
+  ]
+}

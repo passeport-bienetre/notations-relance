@@ -1,0 +1,43 @@
+{
+  "carte": "30012",
+  "name": "Samanta",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
+    },
+    {
+      "name": "Guinot Art of Beauty",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
+    }
+  ]
+}

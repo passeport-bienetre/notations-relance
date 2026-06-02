@@ -1,0 +1,14 @@
+{
+  "carte": "30467",
+  "name": "Cécile",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
+    }
+  ]
+}

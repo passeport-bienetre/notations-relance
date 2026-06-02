@@ -1,0 +1,25 @@
+{
+  "carte": "34432",
+  "name": "Cathy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-16",
+      "last_pretty": "16 february 2026"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    }
+  ]
+}

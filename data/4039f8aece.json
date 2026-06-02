@@ -1,0 +1,26 @@
+{
+  "carte": "30544",
+  "name": "Nora",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "carte": "33195",
+  "name": "Elisa",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-17",
+      "last_pretty": "17 december 2025"
+    },
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

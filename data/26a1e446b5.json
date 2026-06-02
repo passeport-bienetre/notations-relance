@@ -1,0 +1,21 @@
+{
+  "carte": "36082",
+  "name": "Jennifer",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    }
+  ]
+}

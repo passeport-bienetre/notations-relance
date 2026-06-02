@@ -1,0 +1,14 @@
+{
+  "carte": "33536",
+  "name": "Raluca",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    }
+  ]
+}

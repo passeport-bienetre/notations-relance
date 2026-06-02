@@ -1,0 +1,27 @@
+{
+  "carte": "38482",
+  "name": "Josée",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    }
+  ]
+}

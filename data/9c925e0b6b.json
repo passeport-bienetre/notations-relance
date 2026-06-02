@@ -1,0 +1,31 @@
+{
+  "carte": "30159",
+  "name": "Nathalie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025"
+    },
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
+    }
+  ]
+}

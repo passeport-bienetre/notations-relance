@@ -1,0 +1,19 @@
+{
+  "carte": "34847",
+  "name": "Anissa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    }
+  ]
+}

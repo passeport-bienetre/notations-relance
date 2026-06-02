@@ -1,0 +1,21 @@
+{
+  "carte": "34354",
+  "name": "Inès",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-03-16",
+      "last_pretty": "16 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

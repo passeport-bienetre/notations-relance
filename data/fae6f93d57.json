@@ -1,0 +1,19 @@
+{
+  "carte": "31381",
+  "name": "Caroline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
+    }
+  ]
+}

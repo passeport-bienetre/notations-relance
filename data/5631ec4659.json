@@ -1,0 +1,21 @@
+{
+  "carte": "31130",
+  "name": "Patrizia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

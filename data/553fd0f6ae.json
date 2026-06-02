@@ -1,0 +1,26 @@
+{
+  "carte": "32212",
+  "name": "Stéphanie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    }
+  ]
+}

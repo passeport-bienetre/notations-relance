@@ -1,0 +1,20 @@
+{
+  "carte": "30236",
+  "name": "Julie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
+    }
+  ]
+}

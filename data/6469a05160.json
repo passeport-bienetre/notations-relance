@@ -1,0 +1,27 @@
+{
+  "carte": "34559",
+  "name": "Martine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-06-28",
+      "last_pretty": "28 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Guinot Art of Beauty",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
+    }
+  ]
+}

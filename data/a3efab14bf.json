@@ -1,0 +1,41 @@
+{
+  "carte": "34647",
+  "name": "Nicola",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    }
+  ]
+}

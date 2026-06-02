@@ -1,0 +1,56 @@
+{
+  "carte": "30652",
+  "name": "Leeilah",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    },
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-02-16",
+      "last_pretty": "16 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "36268",
+  "name": "Veronica",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    }
+  ]
+}

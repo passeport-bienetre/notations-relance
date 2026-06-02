@@ -1,0 +1,37 @@
+{
+  "carte": "30050",
+  "name": "Patrick",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025"
+    },
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    }
+  ]
+}

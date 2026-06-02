@@ -1,0 +1,72 @@
+{
+  "carte": "30776",
+  "name": "Christa",
+  "nb_estabs": 10,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026"
+    },
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    },
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2025-09-10",
+      "last_pretty": "10 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

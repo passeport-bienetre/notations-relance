@@ -1,0 +1,25 @@
+{
+  "carte": "30361",
+  "name": "Olivier",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
+    }
+  ]
+}

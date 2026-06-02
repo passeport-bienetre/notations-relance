@@ -1,0 +1,31 @@
+{
+  "carte": "39147",
+  "name": "Mario",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-12-25",
+      "last_pretty": "25 december 2025"
+    },
+    {
+      "name": "ERINGER HÔTEL",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
+    }
+  ]
+}

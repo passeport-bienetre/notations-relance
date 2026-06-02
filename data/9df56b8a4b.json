@@ -1,0 +1,21 @@
+{
+  "carte": "35047",
+  "name": "patricia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    }
+  ]
+}

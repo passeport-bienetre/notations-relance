@@ -1,0 +1,27 @@
+{
+  "carte": "31131",
+  "name": "Laura",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BEAUTY CONCEPT PULLY",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
+    },
+    {
+      "name": "NUTRITION SANTE JULIETTE",
+      "visits": 1,
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nutrition-sante-juliette/"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2025-09-18",
+      "last_pretty": "18 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

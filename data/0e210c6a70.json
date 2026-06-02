@@ -1,0 +1,20 @@
+{
+  "carte": "36097",
+  "name": "Isabela",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    }
+  ]
+}

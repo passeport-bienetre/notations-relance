@@ -1,0 +1,13 @@
+{
+  "carte": "27504",
+  "name": "Cédric",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
+    }
+  ]
+}

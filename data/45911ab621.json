@@ -1,0 +1,14 @@
+{
+  "carte": "35707",
+  "name": "Yelena",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    }
+  ]
+}

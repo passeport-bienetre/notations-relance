@@ -1,0 +1,13 @@
+{
+  "carte": "32674",
+  "name": "Biondina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
+    }
+  ]
+}

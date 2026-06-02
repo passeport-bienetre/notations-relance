@@ -1,0 +1,19 @@
+{
+  "carte": "31407",
+  "name": "Valentine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
+    },
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
+    }
+  ]
+}

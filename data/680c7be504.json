@@ -1,0 +1,27 @@
+{
+  "carte": "30794",
+  "name": "Patricia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    }
+  ]
+}

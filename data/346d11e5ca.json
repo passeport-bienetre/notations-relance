@@ -1,0 +1,14 @@
+{
+  "carte": "34947",
+  "name": "Jenny-Lyne",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

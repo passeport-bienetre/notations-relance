@@ -1,0 +1,19 @@
+{
+  "carte": "33125",
+  "name": "Célia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-09",
+      "last_pretty": "09 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "25234",
+  "name": "CJ",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    }
+  ]
+}

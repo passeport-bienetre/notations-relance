@@ -1,0 +1,14 @@
+{
+  "carte": "39600",
+  "name": "Nathalie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

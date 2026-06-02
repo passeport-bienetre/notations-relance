@@ -1,0 +1,27 @@
+{
+  "carte": "26951",
+  "name": "Christiane",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

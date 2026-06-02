@@ -1,0 +1,14 @@
+{
+  "carte": "39321",
+  "name": "Sévin",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "ALEX COIFFURE SARL",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    }
+  ]
+}

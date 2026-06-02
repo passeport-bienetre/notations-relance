@@ -1,0 +1,14 @@
+{
+  "carte": "34044",
+  "name": "Monica",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
+    }
+  ]
+}

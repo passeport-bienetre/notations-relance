@@ -1,0 +1,19 @@
+{
+  "carte": "29080",
+  "name": "Marie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-01",
+      "last_pretty": "01 september 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
+    }
+  ]
+}

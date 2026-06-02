@@ -1,0 +1,21 @@
+{
+  "carte": "35943",
+  "name": "Ludovic",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    }
+  ]
+}

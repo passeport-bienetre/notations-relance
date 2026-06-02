@@ -1,0 +1,14 @@
+{
+  "carte": "24739",
+  "name": "Anysia",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    }
+  ]
+}

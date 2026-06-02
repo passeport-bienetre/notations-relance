@@ -1,0 +1,14 @@
+{
+  "carte": "35233",
+  "name": "Gabriela",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    }
+  ]
+}

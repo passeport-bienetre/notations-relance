@@ -1,0 +1,27 @@
+{
+  "carte": "30741",
+  "name": "Ilaria",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
+    }
+  ]
+}

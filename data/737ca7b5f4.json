@@ -1,0 +1,26 @@
+{
+  "carte": "27081",
+  "name": "Fernand",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025"
+    }
+  ]
+}

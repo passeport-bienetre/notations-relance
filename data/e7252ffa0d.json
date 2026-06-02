@@ -1,0 +1,25 @@
+{
+  "carte": "39874",
+  "name": "Sandrine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026"
+    }
+  ]
+}

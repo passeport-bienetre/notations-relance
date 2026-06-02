@@ -1,0 +1,19 @@
+{
+  "carte": "39274",
+  "name": "Helena",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    }
+  ]
+}

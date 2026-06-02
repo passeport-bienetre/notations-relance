@@ -1,0 +1,33 @@
+{
+  "carte": "31768",
+  "name": "Justine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-07-20",
+      "last_pretty": "20 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "34106",
+  "name": "Pierre-Marie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    }
+  ]
+}

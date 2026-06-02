@@ -1,0 +1,20 @@
+{
+  "carte": "32210",
+  "name": "Zélie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "35473",
+  "name": "Zeline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

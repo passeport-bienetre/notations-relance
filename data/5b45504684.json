@@ -1,0 +1,21 @@
+{
+  "carte": "29247",
+  "name": "Maud",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-06-16",
+      "last_pretty": "16 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "33907",
+  "name": "Delphine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
+    }
+  ]
+}

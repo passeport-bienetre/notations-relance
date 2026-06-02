@@ -1,0 +1,19 @@
+{
+  "carte": "30523",
+  "name": "Carole",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "31140",
+  "name": "Marianne",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
+    }
+  ]
+}

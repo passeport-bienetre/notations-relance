@@ -1,0 +1,55 @@
+{
+  "carte": "31860",
+  "name": "Céline",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
+    }
+  ]
+}

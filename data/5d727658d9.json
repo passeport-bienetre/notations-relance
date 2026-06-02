@@ -1,0 +1,27 @@
+{
+  "carte": "39262",
+  "name": "Stephanie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
+    },
+    {
+      "name": "BEAUTY CONCEPT PULLY",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
+    }
+  ]
+}

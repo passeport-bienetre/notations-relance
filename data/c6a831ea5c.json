@@ -1,0 +1,21 @@
+{
+  "carte": "36393",
+  "name": "Fanny",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

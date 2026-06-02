@@ -1,0 +1,37 @@
+{
+  "carte": "29580",
+  "name": "Stephanie",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-06-28",
+      "last_pretty": "28 june 2025"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    }
+  ]
+}

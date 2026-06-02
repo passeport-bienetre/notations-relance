@@ -1,0 +1,21 @@
+{
+  "carte": "32500",
+  "name": "Dalila",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

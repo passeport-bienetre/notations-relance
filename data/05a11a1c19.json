@@ -1,0 +1,27 @@
+{
+  "carte": "35762",
+  "name": "emeline",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2026-03-29",
+      "last_pretty": "29 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
+    }
+  ]
+}

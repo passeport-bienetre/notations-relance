@@ -1,0 +1,14 @@
+{
+  "carte": "29533",
+  "name": "Amal",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    }
+  ]
+}

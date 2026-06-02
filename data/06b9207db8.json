@@ -1,0 +1,27 @@
+{
+  "carte": "34993",
+  "name": "Régine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025"
+    }
+  ]
+}

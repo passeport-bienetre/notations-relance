@@ -1,0 +1,40 @@
+{
+  "carte": "36277",
+  "name": "Lorena",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Tempête de Calme",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    }
+  ]
+}

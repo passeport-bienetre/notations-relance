@@ -1,0 +1,13 @@
+{
+  "carte": "25066",
+  "name": "Adriane",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
+    }
+  ]
+}

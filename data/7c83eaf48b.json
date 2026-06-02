@@ -1,0 +1,38 @@
+{
+  "carte": "32778",
+  "name": "Héloïse",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
+    }
+  ]
+}

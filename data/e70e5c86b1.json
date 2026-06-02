@@ -1,0 +1,25 @@
+{
+  "carte": "30764",
+  "name": "Huguette",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-12-01",
+      "last_pretty": "01 december 2025"
+    }
+  ]
+}

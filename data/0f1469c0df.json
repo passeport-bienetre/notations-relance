@@ -1,0 +1,62 @@
+{
+  "carte": "34789",
+  "name": "Sandra",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    }
+  ]
+}

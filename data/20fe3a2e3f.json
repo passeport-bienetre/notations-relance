@@ -1,0 +1,20 @@
+{
+  "carte": "36159",
+  "name": "Gian-Luigi",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
+    }
+  ]
+}

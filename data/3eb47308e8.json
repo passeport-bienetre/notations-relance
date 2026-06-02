@@ -1,0 +1,55 @@
+{
+  "carte": "34887",
+  "name": "Erica",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    },
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2026-02-08",
+      "last_pretty": "08 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "carte": "31356",
+  "name": "Emilie",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-18",
+      "last_pretty": "18 may 2026"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025"
+    }
+  ]
+}

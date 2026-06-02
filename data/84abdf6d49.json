@@ -1,0 +1,14 @@
+{
+  "carte": "36034",
+  "name": "Anastasia",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    }
+  ]
+}

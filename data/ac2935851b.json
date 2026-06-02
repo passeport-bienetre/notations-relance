@@ -1,0 +1,54 @@
+{
+  "carte": "34772",
+  "name": "Laila",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    }
+  ]
+}

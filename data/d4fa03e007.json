@@ -1,0 +1,28 @@
+{
+  "carte": "34849",
+  "name": "Damien",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

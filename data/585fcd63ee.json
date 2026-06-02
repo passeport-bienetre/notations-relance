@@ -1,0 +1,25 @@
+{
+  "carte": "30362",
+  "name": "Christine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "carte": "34303",
+  "name": "Laure",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2026-01-10",
+      "last_pretty": "10 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-11-19",
+      "last_pretty": "19 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-11-15",
+      "last_pretty": "15 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

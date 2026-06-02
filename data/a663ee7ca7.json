@@ -1,0 +1,40 @@
+{
+  "carte": "39051",
+  "name": "Charlene",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
+    },
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    }
+  ]
+}

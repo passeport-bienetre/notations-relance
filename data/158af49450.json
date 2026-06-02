@@ -1,0 +1,19 @@
+{
+  "carte": "35492",
+  "name": "Charlotte",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-16",
+      "last_pretty": "16 march 2026"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026"
+    }
+  ]
+}

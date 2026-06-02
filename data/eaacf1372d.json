@@ -1,0 +1,19 @@
+{
+  "carte": "36115",
+  "name": "Gaylene",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "28526",
+  "name": "Estelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025"
+    }
+  ]
+}

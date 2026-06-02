@@ -1,0 +1,14 @@
+{
+  "carte": "33570",
+  "name": "Bremtane",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    }
+  ]
+}

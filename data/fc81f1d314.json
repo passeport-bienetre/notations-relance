@@ -1,0 +1,19 @@
+{
+  "carte": "25680",
+  "name": "Catalina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "carte": "34828",
+  "name": "Liliane",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-07-20",
+      "last_pretty": "20 july 2025"
+    }
+  ]
+}

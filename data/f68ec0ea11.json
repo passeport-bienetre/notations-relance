@@ -1,0 +1,19 @@
+{
+  "carte": "36767",
+  "name": "Cynthia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
+    }
+  ]
+}

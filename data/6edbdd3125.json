@@ -1,0 +1,19 @@
+{
+  "carte": "33623",
+  "name": "MELANIE",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
+    }
+  ]
+}

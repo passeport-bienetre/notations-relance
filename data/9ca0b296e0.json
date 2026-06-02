@@ -1,0 +1,27 @@
+{
+  "carte": "31142",
+  "name": "Emma",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    }
+  ]
+}

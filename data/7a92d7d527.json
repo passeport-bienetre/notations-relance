@@ -1,0 +1,20 @@
+{
+  "carte": "27231",
+  "name": "Jessica",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    }
+  ]
+}

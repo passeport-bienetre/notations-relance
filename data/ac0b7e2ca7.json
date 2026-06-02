@@ -1,0 +1,69 @@
+{
+  "carte": "34472",
+  "name": "Andra",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-23",
+      "last_pretty": "23 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-06-02",
+      "last_pretty": "02 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "34572",
+  "name": "Vera",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-09-14",
+      "last_pretty": "14 september 2025"
+    }
+  ]
+}

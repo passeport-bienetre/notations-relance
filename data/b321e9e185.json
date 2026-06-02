@@ -1,0 +1,19 @@
+{
+  "carte": "29231",
+  "name": "Ritsuko",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
+    }
+  ]
+}

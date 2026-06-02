@@ -1,0 +1,19 @@
+{
+  "carte": "31739",
+  "name": "Romane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025"
+    }
+  ]
+}

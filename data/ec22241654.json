@@ -1,0 +1,43 @@
+{
+  "carte": "33684",
+  "name": "Jéromine",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025"
+    }
+  ]
+}

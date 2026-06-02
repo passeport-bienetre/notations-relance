@@ -1,0 +1,21 @@
+{
+  "carte": "30702",
+  "name": "Marine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    }
+  ]
+}

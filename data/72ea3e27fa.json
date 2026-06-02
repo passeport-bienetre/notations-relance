@@ -1,0 +1,27 @@
+{
+  "carte": "35587",
+  "name": "Antonia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-04-02",
+      "last_pretty": "02 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
+    }
+  ]
+}

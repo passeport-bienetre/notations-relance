@@ -1,0 +1,28 @@
+{
+  "carte": "39416",
+  "name": "Nancy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    }
+  ]
+}

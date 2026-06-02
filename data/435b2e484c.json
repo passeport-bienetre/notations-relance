@@ -1,0 +1,28 @@
+{
+  "carte": "29606",
+  "name": "Mélanie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    }
+  ]
+}

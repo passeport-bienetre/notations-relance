@@ -1,0 +1,20 @@
+{
+  "carte": "35445",
+  "name": "Celine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    }
+  ]
+}

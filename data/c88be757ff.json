@@ -1,0 +1,19 @@
+{
+  "carte": "35056",
+  "name": "Jacques",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    }
+  ]
+}

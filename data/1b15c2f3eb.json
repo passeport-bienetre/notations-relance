@@ -1,0 +1,33 @@
+{
+  "carte": "36217",
+  "name": "Laura",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "BEAUTY CONCEPT PULLY",
+      "visits": 1,
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    }
+  ]
+}

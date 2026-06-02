@@ -1,0 +1,49 @@
+{
+  "carte": "33361",
+  "name": "Anouk",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "BORROMEO COIFFURE",
+      "visits": 1,
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/borromeo-coiffure/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
+}

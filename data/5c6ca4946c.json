@@ -1,0 +1,26 @@
+{
+  "carte": "34802",
+  "name": "Christophe",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025"
+    }
+  ]
+}

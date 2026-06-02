@@ -1,0 +1,21 @@
+{
+  "carte": "35058",
+  "name": "Nathalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    }
+  ]
+}

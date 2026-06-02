@@ -1,0 +1,41 @@
+{
+  "carte": "32251",
+  "name": "Camille",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-09-18",
+      "last_pretty": "18 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    }
+  ]
+}

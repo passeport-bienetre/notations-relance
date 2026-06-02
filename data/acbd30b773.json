@@ -1,0 +1,14 @@
+{
+  "carte": "30902",
+  "name": "Rosemary",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    }
+  ]
+}

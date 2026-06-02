@@ -1,0 +1,13 @@
+{
+  "carte": "39825",
+  "name": "Cecile",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
+    }
+  ]
+}

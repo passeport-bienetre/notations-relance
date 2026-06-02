@@ -1,0 +1,54 @@
+{
+  "carte": "34880",
+  "name": "Valentine",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Lumen Spa &#038; Wellness",
+      "visits": 1,
+      "last": "2026-05-14",
+      "last_pretty": "14 may 2026"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-04-06",
+      "last_pretty": "06 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Corps et Sons",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/corps-et-sons/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-12-31",
+      "last_pretty": "31 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    }
+  ]
+}

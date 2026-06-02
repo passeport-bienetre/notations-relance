@@ -1,0 +1,14 @@
+{
+  "carte": "31349",
+  "name": "Anais",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    }
+  ]
+}

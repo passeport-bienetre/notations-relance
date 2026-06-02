@@ -1,0 +1,20 @@
+{
+  "carte": "31212",
+  "name": "Monique",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025"
+    }
+  ]
+}

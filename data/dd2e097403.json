@@ -1,0 +1,27 @@
+{
+  "carte": "26939",
+  "name": "Delphine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "carte": "31962",
+  "name": "Sabrina",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-07-28",
+      "last_pretty": "28 july 2025"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    }
+  ]
+}

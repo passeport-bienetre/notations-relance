@@ -1,0 +1,40 @@
+{
+  "carte": "29186",
+  "name": "Celia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-07-26",
+      "last_pretty": "26 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025"
+    }
+  ]
+}

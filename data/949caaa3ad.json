@@ -1,0 +1,26 @@
+{
+  "carte": "32328",
+  "name": "Fanette",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026"
+    },
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    }
+  ]
+}

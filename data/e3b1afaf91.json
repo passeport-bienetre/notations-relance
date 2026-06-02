@@ -1,0 +1,14 @@
+{
+  "carte": "36304",
+  "name": "Omar",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    }
+  ]
+}

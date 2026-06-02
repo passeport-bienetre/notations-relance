@@ -1,0 +1,13 @@
+{
+  "carte": "33787",
+  "name": "Emilie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "carte": "39012",
+  "name": "Stéphanie",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "ERINGER HÔTEL",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
+    }
+  ]
+}

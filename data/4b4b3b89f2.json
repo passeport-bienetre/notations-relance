@@ -1,0 +1,25 @@
+{
+  "carte": "31107",
+  "name": "Camille",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2026-04-04",
+      "last_pretty": "04 april 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
+    }
+  ]
+}

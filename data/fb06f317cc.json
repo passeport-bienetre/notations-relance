@@ -1,0 +1,49 @@
+{
+  "carte": "34386",
+  "name": "Helene",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-21",
+      "last_pretty": "21 december 2025"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "29796",
+  "name": "Denise",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "PURE BREATH ANNECY",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/pure-breath/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-02",
+      "last_pretty": "02 august 2025"
+    }
+  ]
+}

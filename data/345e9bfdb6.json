@@ -1,0 +1,45 @@
+{
+  "carte": "34554",
+  "name": "Nathalie",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025"
+    }
+  ]
+}

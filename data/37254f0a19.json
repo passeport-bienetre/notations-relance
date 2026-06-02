@@ -1,0 +1,20 @@
+{
+  "carte": "31589",
+  "name": "Melissa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-09-30",
+      "last_pretty": "30 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
+    }
+  ]
+}

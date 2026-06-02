@@ -1,0 +1,26 @@
+{
+  "carte": "25946",
+  "name": "Laurianne",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026"
+    },
+    {
+      "name": "Chanelle and Co.",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
+    },
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
+    }
+  ]
+}

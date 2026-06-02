@@ -1,0 +1,13 @@
+{
+  "carte": "34657",
+  "name": "Sarantsetseg",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    }
+  ]
+}

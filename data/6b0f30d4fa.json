@@ -1,0 +1,40 @@
+{
+  "carte": "34722",
+  "name": "alexandra",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-01-18",
+      "last_pretty": "18 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-05",
+      "last_pretty": "05 january 2026"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    }
+  ]
+}

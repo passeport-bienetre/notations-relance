@@ -1,0 +1,21 @@
+{
+  "carte": "38891",
+  "name": "Melodie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-03-22",
+      "last_pretty": "22 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    }
+  ]
+}

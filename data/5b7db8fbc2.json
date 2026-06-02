@@ -1,0 +1,76 @@
+{
+  "carte": "30318",
+  "name": "Simmi",
+  "nb_estabs": 10,
+  "estabs": [
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    }
+  ]
+}

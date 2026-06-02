@@ -1,0 +1,13 @@
+{
+  "carte": "29629",
+  "name": "Victoria",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-16",
+      "last_pretty": "16 june 2025"
+    }
+  ]
+}

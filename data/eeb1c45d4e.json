@@ -1,0 +1,13 @@
+{
+  "carte": "29980",
+  "name": "Bahtije",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025"
+    }
+  ]
+}

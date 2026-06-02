@@ -1,0 +1,28 @@
+{
+  "carte": "34960",
+  "name": "Mila",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    }
+  ]
+}

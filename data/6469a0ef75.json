@@ -1,0 +1,41 @@
+{
+  "carte": "36262",
+  "name": "Tina",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "L&rsquo;Atelier du Visage",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

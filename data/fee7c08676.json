@@ -1,0 +1,19 @@
+{
+  "carte": "34019",
+  "name": "solange",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
+    },
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
+    }
+  ]
+}

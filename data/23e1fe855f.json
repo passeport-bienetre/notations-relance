@@ -1,0 +1,14 @@
+{
+  "carte": "36717",
+  "name": "Larissa",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    }
+  ]
+}

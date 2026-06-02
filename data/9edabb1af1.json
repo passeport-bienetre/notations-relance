@@ -1,0 +1,19 @@
+{
+  "carte": "24950",
+  "name": "Camille",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
+    }
+  ]
+}

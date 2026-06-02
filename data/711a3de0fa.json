@@ -1,0 +1,19 @@
+{
+  "carte": "38202",
+  "name": "Thomas",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
+    }
+  ]
+}

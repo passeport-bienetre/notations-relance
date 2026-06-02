@@ -1,0 +1,27 @@
+{
+  "carte": "31122",
+  "name": "Barbara",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    }
+  ]
+}

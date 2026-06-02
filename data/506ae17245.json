@@ -1,0 +1,20 @@
+{
+  "carte": "35328",
+  "name": "MYRIAM",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    }
+  ]
+}

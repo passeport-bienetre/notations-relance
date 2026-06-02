@@ -1,0 +1,67 @@
+{
+  "carte": "32282",
+  "name": "Mona",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    },
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

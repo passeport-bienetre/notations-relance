@@ -1,0 +1,21 @@
+{
+  "carte": "35753",
+  "name": "Clementine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "carte": "35793",
+  "name": "Coralie",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
+    }
+  ]
+}

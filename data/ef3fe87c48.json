@@ -1,0 +1,19 @@
+{
+  "carte": "31469",
+  "name": "Jennifer",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
+    },
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025"
+    }
+  ]
+}

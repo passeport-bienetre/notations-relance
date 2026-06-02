@@ -1,0 +1,20 @@
+{
+  "carte": "36469",
+  "name": "Jin",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    },
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026"
+    }
+  ]
+}

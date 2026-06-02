@@ -1,0 +1,66 @@
+{
+  "carte": "34476",
+  "name": "Nadia",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
+    }
+  ]
+}

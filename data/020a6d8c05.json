@@ -1,0 +1,27 @@
+{
+  "carte": "34858",
+  "name": "Cendrine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    },
+    {
+      "name": "Institut Beauté d&rsquo;Or",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    }
+  ]
+}

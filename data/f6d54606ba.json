@@ -1,0 +1,19 @@
+{
+  "carte": "33332",
+  "name": "Marine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-07",
+      "last_pretty": "07 july 2025"
+    }
+  ]
+}

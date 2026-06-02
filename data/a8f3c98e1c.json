@@ -1,0 +1,21 @@
+{
+  "carte": "31825",
+  "name": "Carolin",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "32320",
+  "name": "Monika",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    }
+  ]
+}

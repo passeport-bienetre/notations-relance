@@ -1,0 +1,27 @@
+{
+  "carte": "35183",
+  "name": "Salina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
+    },
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    }
+  ]
+}

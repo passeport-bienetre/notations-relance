@@ -1,0 +1,27 @@
+{
+  "carte": "34105",
+  "name": "Pierre-Marie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2025-12-17",
+      "last_pretty": "17 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    },
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-06-23",
+      "last_pretty": "23 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "carte": "27115",
+  "name": "Peggy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-07-26",
+      "last_pretty": "26 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    }
+  ]
+}

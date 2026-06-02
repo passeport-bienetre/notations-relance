@@ -1,0 +1,21 @@
+{
+  "carte": "30775",
+  "name": "Sara",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "BORROMEO COIFFURE",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/borromeo-coiffure/"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    }
+  ]
+}

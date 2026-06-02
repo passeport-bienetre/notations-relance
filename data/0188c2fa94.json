@@ -1,0 +1,74 @@
+{
+  "carte": "34273",
+  "name": "TATIANA",
+  "nb_estabs": 10,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2025-08-04",
+      "last_pretty": "04 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

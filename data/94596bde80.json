@@ -1,0 +1,54 @@
+{
+  "carte": "34851",
+  "name": "Lily",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
+    },
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "Institut Energie Zen",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-energie-zen/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-05",
+      "last_pretty": "05 october 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    }
+  ]
+}

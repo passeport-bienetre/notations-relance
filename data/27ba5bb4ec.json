@@ -1,0 +1,20 @@
+{
+  "carte": "31205",
+  "name": "Alex",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
+    }
+  ]
+}

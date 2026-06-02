@@ -1,0 +1,25 @@
+{
+  "carte": "33422",
+  "name": "Amélie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    }
+  ]
+}

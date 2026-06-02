@@ -1,0 +1,13 @@
+{
+  "carte": "30078",
+  "name": "Lucile",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025"
+    }
+  ]
+}

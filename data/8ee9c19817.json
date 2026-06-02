@@ -1,0 +1,27 @@
+{
+  "carte": "35529",
+  "name": "Fanny",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Guinot Art of Beauty",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Sabrina",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
+    }
+  ]
+}

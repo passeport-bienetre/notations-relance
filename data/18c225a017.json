@@ -1,0 +1,27 @@
+{
+  "carte": "27282",
+  "name": "M",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Fjacco Coiffure",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/fjacco-coiffure/"
+    },
+    {
+      "name": "Enfants Terribles Bossonnens",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025"
+    }
+  ]
+}

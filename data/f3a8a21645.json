@@ -1,0 +1,25 @@
+{
+  "carte": "30634",
+  "name": "Caroline",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
+    }
+  ]
+}

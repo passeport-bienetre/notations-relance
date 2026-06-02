@@ -1,0 +1,34 @@
+{
+  "carte": "35755",
+  "name": "Anastasia",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "INTUITIVE JESS",
+      "visits": 1,
+      "last": "2026-05-18",
+      "last_pretty": "18 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Tifenn",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-01-19",
+      "last_pretty": "19 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
+}

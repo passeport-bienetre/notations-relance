@@ -1,0 +1,25 @@
+{
+  "carte": "31752",
+  "name": "Juliette",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Eva",
+      "visits": 1,
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025"
+    }
+  ]
+}

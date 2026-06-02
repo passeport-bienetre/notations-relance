@@ -1,0 +1,14 @@
+{
+  "carte": "29085",
+  "name": "Daria",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

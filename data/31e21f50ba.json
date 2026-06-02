@@ -1,0 +1,14 @@
+{
+  "carte": "34470",
+  "name": "Giuseppe",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-08-10",
+      "last_pretty": "10 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    }
+  ]
+}

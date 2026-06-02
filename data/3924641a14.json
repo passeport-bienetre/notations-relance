@@ -1,0 +1,21 @@
+{
+  "carte": "31539",
+  "name": "Nathalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-09-23",
+      "last_pretty": "23 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "29143",
+  "name": "Nazira",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Corps Sains",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "visits": 1,
+      "last": "2025-05-30"
+    }
+  ]
+}

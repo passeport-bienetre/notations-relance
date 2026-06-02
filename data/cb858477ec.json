@@ -1,0 +1,26 @@
+{
+  "carte": "31174",
+  "name": "Emmanuelle",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-08-30",
+      "last_pretty": "30 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025"
+    }
+  ]
+}

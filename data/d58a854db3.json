@@ -1,0 +1,27 @@
+{
+  "carte": "32272",
+  "name": "Tatiana",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
+    }
+  ]
+}

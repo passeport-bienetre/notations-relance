@@ -1,0 +1,13 @@
+{
+  "carte": "32324",
+  "name": "Ana",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026"
+    }
+  ]
+}

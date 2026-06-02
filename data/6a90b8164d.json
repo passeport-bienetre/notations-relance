@@ -1,0 +1,19 @@
+{
+  "carte": "38743",
+  "name": "Catherine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
+    }
+  ]
+}

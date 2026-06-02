@@ -1,0 +1,13 @@
+{
+  "carte": "39580",
+  "name": "Joel",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026"
+    }
+  ]
+}

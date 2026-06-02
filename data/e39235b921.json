@@ -1,0 +1,28 @@
+{
+  "carte": "34756",
+  "name": "Joy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

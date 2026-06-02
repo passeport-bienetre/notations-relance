@@ -1,0 +1,19 @@
+{
+  "carte": "35066",
+  "name": "Laurence",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-04-03",
+      "last_pretty": "03 april 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
+    }
+  ]
+}

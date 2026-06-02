@@ -1,0 +1,13 @@
+{
+  "carte": "36510",
+  "name": "Agnes",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
+    }
+  ]
+}

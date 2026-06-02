@@ -1,0 +1,40 @@
+{
+  "carte": "27198",
+  "name": "Stéphane",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-06",
+      "last_pretty": "06 october 2025"
+    },
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-08-04",
+      "last_pretty": "04 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    }
+  ]
+}

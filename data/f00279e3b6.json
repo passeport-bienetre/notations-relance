@@ -1,0 +1,19 @@
+{
+  "carte": "34727",
+  "name": "Fanny",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
+    }
+  ]
+}

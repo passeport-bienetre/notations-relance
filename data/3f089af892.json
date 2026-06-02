@@ -1,0 +1,14 @@
+{
+  "carte": "33181",
+  "name": "Laurence",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Intuition Massage",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuition-massage/"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "carte": "31080",
+  "name": "Simone",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "INSTITUT NATURALPE",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-naturalpe/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    }
+  ]
+}

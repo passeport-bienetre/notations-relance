@@ -1,0 +1,27 @@
+{
+  "carte": "30312",
+  "name": "PETRA",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

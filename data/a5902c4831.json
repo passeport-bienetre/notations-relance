@@ -1,0 +1,21 @@
+{
+  "carte": "34755",
+  "name": "Laure",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    }
+  ]
+}

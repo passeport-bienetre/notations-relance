@@ -1,0 +1,19 @@
+{
+  "carte": "30493",
+  "name": "Diane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
+    }
+  ]
+}

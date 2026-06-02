@@ -1,0 +1,68 @@
+{
+  "carte": "34489",
+  "name": "Alexandra",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-09-01",
+      "last_pretty": "01 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2025-08-02",
+      "last_pretty": "02 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
+    }
+  ]
+}

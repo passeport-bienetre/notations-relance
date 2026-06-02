@@ -1,0 +1,28 @@
+{
+  "carte": "34609",
+  "name": "Juliette",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    }
+  ]
+}

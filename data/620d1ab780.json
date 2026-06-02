@@ -1,0 +1,13 @@
+{
+  "carte": "34548",
+  "name": "Kevin",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025"
+    }
+  ]
+}

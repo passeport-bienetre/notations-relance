@@ -1,0 +1,14 @@
+{
+  "carte": "39046",
+  "name": "Thomas",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "carte": "30207",
+  "name": "Léa",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    },
+    {
+      "name": "NUTRITION SANTE JULIETTE",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nutrition-sante-juliette/"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "30784",
+  "name": "Giulia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    }
+  ]
+}

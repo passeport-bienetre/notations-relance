@@ -1,0 +1,25 @@
+{
+  "carte": "32592",
+  "name": "Daniela",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-11-18",
+      "last_pretty": "18 november 2025"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025"
+    }
+  ]
+}

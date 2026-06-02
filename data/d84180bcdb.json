@@ -1,0 +1,20 @@
+{
+  "carte": "35113",
+  "name": "Chloé",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-15",
+      "last_pretty": "15 november 2025"
+    }
+  ]
+}

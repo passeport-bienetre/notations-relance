@@ -1,0 +1,14 @@
+{
+  "carte": "30180",
+  "name": "Laura",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

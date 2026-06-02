@@ -1,0 +1,19 @@
+{
+  "carte": "35385",
+  "name": "Carolane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026"
+    },
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
+    }
+  ]
+}

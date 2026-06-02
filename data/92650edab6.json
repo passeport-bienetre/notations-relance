@@ -1,0 +1,26 @@
+{
+  "carte": "36674",
+  "name": "samer",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026"
+    }
+  ]
+}

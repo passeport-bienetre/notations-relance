@@ -1,0 +1,19 @@
+{
+  "carte": "35695",
+  "name": "Jeremie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026"
+    }
+  ]
+}

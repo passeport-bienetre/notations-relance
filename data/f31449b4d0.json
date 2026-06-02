@@ -1,0 +1,43 @@
+{
+  "carte": "25652",
+  "name": "Muriel",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-08-30",
+      "last_pretty": "30 august 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025"
+    }
+  ]
+}

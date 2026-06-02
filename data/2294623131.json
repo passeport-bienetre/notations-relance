@@ -1,0 +1,33 @@
+{
+  "carte": "35432",
+  "name": "Mireille",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Altitude by Garance",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2026-01-01",
+      "last_pretty": "01 january 2026"
+    }
+  ]
+}

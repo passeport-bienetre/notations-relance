@@ -1,0 +1,21 @@
+{
+  "carte": "34521",
+  "name": "Daniela",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "35187",
+  "name": "Laura",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "38745",
+  "name": "florence",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

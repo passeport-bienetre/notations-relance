@@ -1,0 +1,60 @@
+{
+  "carte": "34289",
+  "name": "Paulo",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2026-02-16",
+      "last_pretty": "16 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025"
+    },
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    }
+  ]
+}

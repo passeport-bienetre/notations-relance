@@ -1,0 +1,20 @@
+{
+  "carte": "34276",
+  "name": "Coline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-04",
+      "last_pretty": "04 august 2025"
+    }
+  ]
+}

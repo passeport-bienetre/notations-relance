@@ -1,0 +1,28 @@
+{
+  "carte": "35227",
+  "name": "Katy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    }
+  ]
+}

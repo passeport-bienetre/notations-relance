@@ -1,0 +1,62 @@
+{
+  "carte": "33984",
+  "name": "Betty",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    }
+  ]
+}

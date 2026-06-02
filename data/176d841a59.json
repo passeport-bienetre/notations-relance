@@ -1,0 +1,20 @@
+{
+  "carte": "26923",
+  "name": "Josiane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    }
+  ]
+}

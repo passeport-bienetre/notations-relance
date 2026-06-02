@@ -1,0 +1,46 @@
+{
+  "carte": "31207",
+  "name": "Leona",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-06-02",
+      "last_pretty": "02 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
+}

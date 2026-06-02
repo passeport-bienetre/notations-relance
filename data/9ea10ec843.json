@@ -1,0 +1,26 @@
+{
+  "carte": "34015",
+  "name": "Alexandra",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025"
+    }
+  ]
+}

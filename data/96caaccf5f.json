@@ -1,0 +1,21 @@
+{
+  "carte": "36110",
+  "name": "Eulalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    }
+  ]
+}

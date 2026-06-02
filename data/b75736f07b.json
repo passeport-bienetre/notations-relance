@@ -1,0 +1,28 @@
+{
+  "carte": "29544",
+  "name": "Karin",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-04-04",
+      "last_pretty": "04 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-10-06",
+      "last_pretty": "06 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

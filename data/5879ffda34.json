@@ -1,0 +1,27 @@
+{
+  "carte": "31642",
+  "name": "Anais",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-08",
+      "last_pretty": "08 march 2026"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

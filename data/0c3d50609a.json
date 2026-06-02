@@ -1,0 +1,20 @@
+{
+  "carte": "33079",
+  "name": "Maha",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025"
+    }
+  ]
+}

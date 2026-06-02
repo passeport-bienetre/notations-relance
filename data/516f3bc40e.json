@@ -1,0 +1,13 @@
+{
+  "carte": "38498",
+  "name": "Benedicta",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    }
+  ]
+}

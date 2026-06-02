@@ -1,0 +1,21 @@
+{
+  "carte": "34811",
+  "name": "Gabriela",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-10-09",
+      "last_pretty": "09 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    }
+  ]
+}

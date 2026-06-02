@@ -1,0 +1,20 @@
+{
+  "carte": "35556",
+  "name": "Audrey",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    }
+  ]
+}

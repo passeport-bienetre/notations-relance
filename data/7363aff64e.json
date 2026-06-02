@@ -1,0 +1,14 @@
+{
+  "carte": "30558",
+  "name": "Marie-Aude",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    }
+  ]
+}

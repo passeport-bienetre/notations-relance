@@ -1,0 +1,25 @@
+{
+  "carte": "29750",
+  "name": "Nabil",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
+    }
+  ]
+}

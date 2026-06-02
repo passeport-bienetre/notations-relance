@@ -1,0 +1,21 @@
+{
+  "carte": "32707",
+  "name": "Jeanne",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

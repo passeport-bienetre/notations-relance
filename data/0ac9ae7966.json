@@ -1,0 +1,28 @@
+{
+  "carte": "35574",
+  "name": "Margot",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    }
+  ]
+}

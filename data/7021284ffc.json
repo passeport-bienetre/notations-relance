@@ -1,0 +1,28 @@
+{
+  "carte": "38489",
+  "name": "Cynthia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
+    }
+  ]
+}

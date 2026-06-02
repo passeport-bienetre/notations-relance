@@ -1,0 +1,21 @@
+{
+  "carte": "32337",
+  "name": "Jennifer",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    }
+  ]
+}

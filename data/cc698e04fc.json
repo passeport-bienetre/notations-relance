@@ -1,0 +1,21 @@
+{
+  "carte": "35944",
+  "name": "Manon",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-02-22",
+      "last_pretty": "22 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    }
+  ]
+}

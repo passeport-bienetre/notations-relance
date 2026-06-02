@@ -1,0 +1,27 @@
+{
+  "carte": "34872",
+  "name": "Marina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025"
+    }
+  ]
+}

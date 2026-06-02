@@ -1,0 +1,20 @@
+{
+  "carte": "35377",
+  "name": "Laura",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "JOIA NEUCHATEL",
+      "visits": 1,
+      "last": "2025-11-24",
+      "last_pretty": "24 november 2025"
+    }
+  ]
+}

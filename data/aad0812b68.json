@@ -1,0 +1,19 @@
+{
+  "carte": "30418",
+  "name": "Virginie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-05",
+      "last_pretty": "05 august 2025"
+    }
+  ]
+}

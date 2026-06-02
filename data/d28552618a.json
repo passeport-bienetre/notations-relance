@@ -1,0 +1,21 @@
+{
+  "carte": "26353",
+  "name": "Marion",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

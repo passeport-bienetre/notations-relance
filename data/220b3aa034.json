@@ -1,0 +1,13 @@
+{
+  "carte": "29558",
+  "name": "Nadège",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    }
+  ]
+}

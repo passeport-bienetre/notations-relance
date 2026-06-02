@@ -1,0 +1,25 @@
+{
+  "carte": "33027",
+  "name": "Chloe",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 2,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025"
+    }
+  ]
+}

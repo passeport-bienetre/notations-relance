@@ -1,0 +1,39 @@
+{
+  "carte": "30197",
+  "name": "Sonia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
+    },
+    {
+      "name": "Studio Beauté",
+      "visits": 1,
+      "last": "2025-09-10",
+      "last_pretty": "10 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025"
+    }
+  ]
+}

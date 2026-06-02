@@ -1,0 +1,48 @@
+{
+  "carte": "29086",
+  "name": "Vania",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Espace Beauté Harmonie",
+      "visits": 1,
+      "last": "2025-11-18",
+      "last_pretty": "18 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Elvi Haute Coiffure",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

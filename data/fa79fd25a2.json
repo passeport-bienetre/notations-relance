@@ -1,0 +1,19 @@
+{
+  "carte": "34066",
+  "name": "Aurelly",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
+    }
+  ]
+}

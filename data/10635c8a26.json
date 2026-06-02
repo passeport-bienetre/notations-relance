@@ -1,0 +1,34 @@
+{
+  "carte": "27286",
+  "name": "Olivier",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    }
+  ]
+}

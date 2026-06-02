@@ -1,0 +1,34 @@
+{
+  "carte": "30726",
+  "name": "Fabienne",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    }
+  ]
+}

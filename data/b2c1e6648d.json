@@ -1,0 +1,35 @@
+{
+  "carte": "31459",
+  "name": "Helena",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-07-28",
+      "last_pretty": "28 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    }
+  ]
+}

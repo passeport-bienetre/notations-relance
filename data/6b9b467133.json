@@ -1,0 +1,27 @@
+{
+  "carte": "30715",
+  "name": "Nancy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-05-10",
+      "last_pretty": "10 may 2026"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    }
+  ]
+}

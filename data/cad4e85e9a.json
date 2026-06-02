@@ -1,0 +1,27 @@
+{
+  "carte": "33557",
+  "name": "Anouk",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025"
+    },
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

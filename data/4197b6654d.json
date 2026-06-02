@@ -1,0 +1,21 @@
+{
+  "carte": "34500",
+  "name": "Alix",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-08-18",
+      "last_pretty": "18 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "carte": "29242",
+  "name": "Héloïse",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-09-21",
+      "last_pretty": "21 september 2025"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2025-08-31",
+      "last_pretty": "31 august 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-17",
+      "last_pretty": "17 august 2025"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    }
+  ]
+}

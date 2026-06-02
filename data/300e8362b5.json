@@ -1,0 +1,28 @@
+{
+  "carte": "32363",
+  "name": "Pascale-Catherine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

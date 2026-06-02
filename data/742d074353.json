@@ -1,0 +1,21 @@
+{
+  "carte": "25209",
+  "name": "Antonella",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    }
+  ]
+}

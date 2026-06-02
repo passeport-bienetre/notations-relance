@@ -1,0 +1,19 @@
+{
+  "carte": "32396",
+  "name": "Marie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025"
+    }
+  ]
+}

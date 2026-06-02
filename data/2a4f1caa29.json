@@ -1,0 +1,14 @@
+{
+  "carte": "36103",
+  "name": "Lucie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    }
+  ]
+}

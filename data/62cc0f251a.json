@@ -1,0 +1,34 @@
+{
+  "carte": "31038",
+  "name": "Marina",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-12-06",
+      "last_pretty": "06 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-12-06",
+      "last_pretty": "06 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-10-12",
+      "last_pretty": "12 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-06",
+      "last_pretty": "06 october 2025"
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Body Pass — Donnez votre avis</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Source+Sans+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+--cream-deep: #F2EBDF;
+--cream-light: #FBF7F1;
+--burgundy: #A3695B;
+--burgundy-deep: #8B5448;
+--champagne: #C2B59B;
+--champagne-light: #D8CDB6;
+--text-warm: #54504E;
+--text-muted: #7A7470;
+--title: #2C2826;
+--border: #E5DBC8;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+
+body {
+font-family: 'Source Sans Pro', -apple-system, sans-serif;
+background: var(--cream-light);
+color: var(--text-warm);
+line-height: 1.6;
+font-weight: 400;
+-webkit-font-smoothing: antialiased;
+min-height: 100vh;
+padding: 56px 24px;
+}
+
+h1, h2, h3 {
+font-family: 'Playfair Display', Georgia, serif;
+color: var(--title);
+font-weight: 500;
+letter-spacing: -0.01em;
+}
+
+/* ------- WRAPPER ------- */
+.container {
+max-width: 680px;
+margin: 0 auto;
+}
+
+/* ------- INTRO ÉDITORIALE (cream-deep box) ------- */
+.intro {
+background: var(--cream-deep);
+border: 1px solid var(--border);
+padding: 48px 44px 44px;
+margin-bottom: 32px;
+}
+.intro .eyebrow {
+text-transform: uppercase;
+letter-spacing: 0.22em;
+font-size: 11px;
+color: var(--burgundy);
+font-weight: 600;
+margin-bottom: 18px;
+}
+.intro h1 {
+font-size: 36px;
+line-height: 1.15;
+margin-bottom: 18px;
+font-style: italic;
+font-weight: 400;
+}
+.intro h1 .name {
+font-style: italic;
+color: var(--burgundy);
+}
+.intro p {
+font-size: 16px;
+line-height: 1.65;
+color: var(--text-warm);
+margin-bottom: 12px;
+}
+.intro p:last-child { margin-bottom: 0; }
+
+/* ------- SUMMARY (visits count) ------- */
+.summary {
+margin: 28px 0 8px;
+padding-top: 24px;
+border-top: 1px solid var(--border);
+font-size: 14px;
+color: var(--text-muted);
+letter-spacing: 0.02em;
+}
+.summary strong {
+font-family: 'Playfair Display', serif;
+color: var(--burgundy);
+font-size: 17px;
+font-weight: 500;
+}
+
+/* ------- CARD PAR ÉTABLISSEMENT ------- */
+.estab {
+background: white;
+border: 1px solid var(--border);
+margin-bottom: 20px;
+overflow: hidden;
+transition: border-color 0.2s ease;
+}
+.estab:hover {
+border-color: var(--champagne);
+}
+.estab-photo {
+width: 100%;
+aspect-ratio: 16 / 9;
+object-fit: cover;
+display: block;
+background: var(--cream-deep);
+}
+.estab-body {
+padding: 36px 40px 32px;
+}
+.estab-head {
+margin-bottom: 28px;
+padding-bottom: 18px;
+border-bottom: 1px solid var(--border);
+}
+.estab-name {
+font-family: 'Playfair Display', serif;
+font-size: 24px;
+line-height: 1.2;
+color: var(--title);
+margin-bottom: 6px;
+font-weight: 500;
+}
+.estab-name .estab-link {
+color: inherit;
+text-decoration: none;
+border-bottom: 1px solid transparent;
+transition: border-color 0.2s ease;
+}
+.estab-name .estab-link:hover {
+border-bottom-color: var(--burgundy);
+}
+
+.estab-meta {
+font-size: 13px;
+color: var(--text-muted);
+letter-spacing: 0.04em;
+}
+.estab-meta .dot {
+color: var(--champagne);
+margin: 0 8px;
+}
+
+/* ------- RATING ROWS ------- */
+.rating-row {
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 12px 0;
+border-bottom: 1px dashed var(--border);
+}
+.rating-row:last-of-type { border-bottom: 0; padding-bottom: 18px; }
+.rating-label {
+font-size: 14px;
+color: var(--text-warm);
+font-weight: 500;
+letter-spacing: 0.01em;
+}
+
+/* ------- STARS (hover-fill UX) ------- */
+.stars {
+display: inline-flex;
+flex-direction: row-reverse;
+gap: 4px;
+}
+.stars input { display: none; }
+.stars label {
+cursor: pointer;
+font-size: 26px;
+color: var(--champagne-light);
+line-height: 1;
+transition: color 0.15s ease, transform 0.15s ease;
+user-select: none;
+}
+/* When hovering a label OR any label after it (since flex is reversed, this fills left-to-right visually) */
+.stars label:hover,
+.stars label:hover ~ label {
+color: var(--burgundy);
+transform: scale(1.05);
+}
+/* When a star is checked, fill it and all stars before it (after in DOM since reversed) */
+.stars input:checked ~ label {
+color: var(--burgundy);
+}
+/* Hover override : while hovering, the hover state should win even if something is already checked */
+.stars:hover input:checked ~ label {
+color: var(--champagne-light);
+}
+.stars:hover label:hover,
+.stars:hover label:hover ~ label {
+color: var(--burgundy);
+}
+
+/* ------- COMMENT FIELD ------- */
+.comment {
+margin-top: 18px;
+}
+.comment label {
+display: block;
+font-size: 12px;
+text-transform: uppercase;
+letter-spacing: 0.18em;
+color: var(--text-muted);
+margin-bottom: 8px;
+font-weight: 600;
+}
+.comment textarea {
+width: 100%;
+min-height: 76px;
+padding: 14px 16px;
+background: var(--cream-light);
+border: 1px solid var(--border);
+font-family: inherit;
+font-size: 15px;
+color: var(--text-warm);
+resize: vertical;
+line-height: 1.55;
+transition: border-color 0.18s;
+}
+.comment textarea:focus {
+outline: none;
+border-color: var(--burgundy);
+background: white;
+}
+.comment textarea::placeholder {
+color: #B5AFA8;
+font-style: italic;
+}
+
+/* ------- SUBMIT ------- */
+.actions {
+text-align: center;
+margin: 40px 0 32px;
+}
+.submit {
+display: inline-block;
+padding: 18px 48px;
+background: var(--burgundy);
+color: white;
+border: none;
+cursor: pointer;
+font-family: inherit;
+font-size: 13px;
+font-weight: 600;
+letter-spacing: 0.18em;
+text-transform: uppercase;
+transition: background-color 0.2s ease, transform 0.15s ease;
+}
+.submit:hover {
+background: var(--burgundy-deep);
+transform: translateY(-1px);
+}
+.submit:active { transform: translateY(0); }
+
+/* ------- FOOTER SIGNATURE ------- */
+.signature {
+text-align: center;
+padding: 32px 0 8px;
+border-top: 1px solid var(--border);
+color: var(--text-muted);
+font-size: 13px;
+}
+.signature .sign-name {
+font-family: 'Playfair Display', serif;
+font-style: italic;
+color: var(--text-warm);
+font-size: 16px;
+margin-bottom: 4px;
+display: block;
+}
+
+/* ------- THANK YOU STATE ------- */
+.thanks {
+display: none;
+text-align: center;
+padding: 80px 40px;
+background: var(--cream-deep);
+border: 1px solid var(--border);
+}
+.thanks h2 {
+font-size: 32px;
+margin-bottom: 16px;
+font-style: italic;
+font-weight: 400;
+}
+.thanks p { font-size: 16px; color: var(--text-warm); }
+.thanks .eyebrow {
+text-transform: uppercase;
+letter-spacing: 0.22em;
+font-size: 11px;
+color: var(--burgundy);
+font-weight: 600;
+margin-bottom: 18px;
+}
+
+/* ------- MOBILE ------- */
+@media (max-width: 600px) {
+body { padding: 24px 16px; }
+.intro { padding: 32px 24px 28px; }
+.intro h1 { font-size: 28px; }
+.estab-body { padding: 24px 22px 22px; }
+.estab-name { font-size: 20px; }
+.stars label { font-size: 22px; }
+.rating-row {
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+}
+}
+</style>
+</head>
+<body>
+
+<!-- ============ LOADING / ERROR STATES ============ -->
+<div class="container" id="loading-screen" style="display:none; text-align:center; padding-top:120px;">
+<p style="font-family:'Playfair Display',serif; font-style:italic; color:var(--text-muted); font-size:18px;">Chargement de votre page personnelle...</p>
+</div>
+
+<div class="container" id="error-screen" style="display:none;">
+<section class="intro" style="text-align:center;">
+<div class="eyebrow">Oups</div>
+<h1 style="font-style:italic; font-weight:400;">Lien invalide ou expiré.</h1>
+<p>Le lien sur lequel vous avez cliqué n'a pas pu charger vos données. Vérifiez qu'il est bien complet, ou contactez-nous à info@bodypass.ch et on vous renverra votre lien personnel.</p>
+</section>
+</div>
+
+<div class="container" id="form-wrapper" style="display:none;">
+
+<!-- ============ INTRO ÉDITORIALE ============ -->
+<section class="intro">
+<div class="eyebrow">Body Pass · Notation annuelle</div>
+<h1>Bonjour <span class="name" id="porteur-name">Marie</span>, merci d'être là.</h1>
+<p>Au fil de l'année, vous avez profité de plusieurs expériences Body Pass.</p>
+<p>Nous aimerions recueillir votre avis sur les établissements que vous avez visités, afin de continuer à vous proposer des expériences toujours mémorables pour vos prochaines découvertes.</p>
+<p>Quelques minutes suffisent pour partager votre expérience. Votre regard compte.</p>
+<div class="summary">
+<strong id="porteur-count">— établissements</strong> visités sur les 12 derniers mois
+</div>
+</section>
+
+<!-- ============ LISTE DES ÉTABLISSEMENTS (rendue dynamiquement) ============ -->
+<div id="estab-list"></div>
+
+<!-- ============ SUBMIT ============ -->
+<div class="actions">
+<button class="submit" onclick="handleSubmit()">Envoyer mon avis</button>
+</div>
+
+<!-- ============ SIGNATURE ============ -->
+<footer class="signature">
+<span class="sign-name">Encore merci, <span id="signature-name">vous</span>.</span>
+<span>Avec gratitude, l'équipe Body Pass</span>
+</footer>
+</div>
+
+<!-- ============ THANK YOU SCREEN (hidden) ============ -->
+<div class="container" id="thanks-screen" style="display:none;">
+<section class="thanks" style="display:block;">
+<div class="eyebrow">Body Pass</div>
+<h2>Merci infiniment, <span id="thanks-name">vous</span>.</h2>
+<p>Votre avis vient d'arriver chez nous. Il aidera vos établissements préférés à grandir, et nous à mieux choisir ceux qui rejoindront le réseau.</p>
+
+<!-- ============ RENEWAL CTA (reactivation campaign) ============ -->
+<div style="margin-top:40px; padding:28px 24px; background:#f8f3ec; border-radius:12px; border:1px solid #e6dccd; text-align:center;">
+<div style="font-family:'Playfair Display',serif; font-size:22px; color:var(--text-strong); margin-bottom:8px;">Envie de continuer l'aventure&nbsp;?</div>
+<p style="margin:0 0 22px; font-size:15px; color:var(--text-warm); line-height:1.5;">Votre carte est arrivée à expiration. Reprenez votre passeport bien-être là où vous l'aviez laissé.</p>
+<a href="https://www.bodypass.ch/commande/" style="display:inline-block; padding:14px 32px; background:var(--brand); color:#fff; text-decoration:none; border-radius:8px; font-weight:600; font-size:15px; letter-spacing:0.3px;">Renouveler ma carte</a>
+</div>
+
+<p style="margin-top:32px;">À très vite chez l'un de nos partenaires.</p>
+<div style="margin-top:24px; font-family:'Playfair Display',serif; font-style:italic; color:var(--text-warm);">L'équipe Body Pass</div>
+</section>
+</div>
+
+<script>
+// ================== CHARGEMENT DES DONNÉES PORTEUR ==================
+const FORMATEUR_MOIS = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+
+function formatDateFR(isoDate) {
+const d = new Date(isoDate);
+return d.getDate() + ' ' + FORMATEUR_MOIS[d.getMonth()] + ' ' + d.getFullYear();
+}
+
+function showLoading() { document.getElementById('loading-screen').style.display = 'block'; }
+function hideLoading() { document.getElementById('loading-screen').style.display = 'none'; }
+function showError() { hideLoading(); document.getElementById('error-screen').style.display = 'block'; }
+function showForm() { hideLoading(); document.getElementById('form-wrapper').style.display = 'block'; }
+
+const PHOTO_BASE = 'https://bodypass-ch.github.io/bodypass-assets/etablissements/';
+const PHOTO_DEFAULT = PHOTO_BASE + '_default.jpg';
+
+function slugFromUrl(url) {
+if (!url) return null;
+// url like https://www.bodypass.ch/etablissements/{slug}/ (slug may contain a '/' for chain children)
+const m = String(url).match(/\/etablissements\/(.+?)\/?$/);
+if (!m) return null;
+return m[1]; // may include "/" for nested chain entries
+}
+
+function photoUrlFromSlug(slug) {
+if (!slug) return PHOTO_DEFAULT;
+// Convention: "/" in slug becomes "--" in the asset filename
+return PHOTO_BASE + slug.replace(/\//g, '--') + '.jpg';
+}
+
+function renderEstab(estab, idx) {
+const key = 'estab' + idx;
+const slug = slugFromUrl(estab.url);
+const photo = photoUrlFromSlug(slug);
+return `
+<section class="estab">
+<img class="estab-photo" src="${escapeHtml(photo)}" alt="${escapeHtml(decodeEntities(estab.name))}" loading="lazy" onerror="this.onerror=null;this.src='${PHOTO_DEFAULT}';">
+<div class="estab-body">
+<div class="estab-head">
+<div class="estab-name"><a href="${escapeHtml(estab.url || "https://www.bodypass.ch/?s=" + encodeURIComponent(decodeEntities(estab.name)))}" target="_blank" rel="noopener" class="estab-link">${escapeHtml(decodeEntities(estab.name))}</a></div>
+<div class="estab-meta">${estab.visits} visite${estab.visits>1?'s':''} <span class="dot">·</span> Dernière le ${formatDateFR(estab.last)}</div>
+</div>
+${renderStarsRow(key, 'beauty', "Beauté du lieu")}
+${renderStarsRow(key, 'welcome', "Qualité de l'accueil")}
+${renderStarsRow(key, 'care', "Qualité des soins")}
+<div class="comment">
+<label for="${key}_comment">Un mot à partager ? <span style="text-transform:none; letter-spacing:0; color:#B5AFA8; font-weight:400;">(optionnel)</span></label>
+<textarea id="${key}_comment" name="${key}_comment" placeholder="Une attention particulière, un soin qui vous a marquée, quelque chose à améliorer..."></textarea>
+</div>
+</div>
+</section>`;
+}
+
+function renderStarsRow(key, axis, label) {
+const name = key + '_' + axis;
+let stars = '';
+for (let v = 5; v >= 1; v--) {
+const id = name + '_' + v;
+stars += `<input type="radio" name="${name}" id="${id}" value="${v}"><label for="${id}">★</label>`;
+}
+return `
+<div class="rating-row">
+<div class="rating-label">${label}</div>
+<div class="stars">${stars}</div>
+</div>`;
+}
+
+function decodeEntities(s) {
+const txt = document.createElement('textarea');
+txt.innerHTML = String(s);
+return txt.value;
+}
+
+function escapeHtml(s) {
+return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+async function loadPorteurData() {
+const params = new URLSearchParams(window.location.search);
+const token = params.get('t');
+if (!token || !/^[a-f0-9]{6,20}$/.test(token)) {
+showError();
+return;
+}
+showLoading();
+try {
+const response = await fetch(`review-data/${token}.json`);
+if (!response.ok) throw new Error('not found');
+const data = await response.json();
+hydrateForm(data);
+showForm();
+} catch (e) {
+showError();
+}
+}
+
+let _porteurData = null;
+
+function hydrateForm(data) {
+_porteurData = data;
+// Set name placeholders
+document.getElementById('porteur-name').textContent = data.name || 'vous';
+document.getElementById('signature-name').textContent = data.name || 'vous';
+document.getElementById('thanks-name').textContent = data.name || 'vous';
+
+// Set count
+const nb = data.nb_estabs;
+document.getElementById('porteur-count').textContent = nb + ' établissement' + (nb > 1 ? 's' : '');
+
+// Render establishments
+const listEl = document.getElementById('estab-list');
+listEl.innerHTML = data.estabs.map((e, i) => renderEstab(e, i+1)).join('');
+}
+
+// ================== SUBMIT ==================
+const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbx3QL3Rh91clskYLMhPRgzv3QJQA3ggg6unLGl5e0g19XRlhZJweZ3Hw2TqHzawC2yT/exec';
+
+function getRadio(name) {
+const el = document.querySelector(`input[name="${name}"]:checked`);
+return el ? Number(el.value) : '';
+}
+
+async function handleSubmit() {
+if (!_porteurData) return;
+const btn = document.querySelector('.submit');
+btn.disabled = true;
+btn.textContent = 'Envoi en cours...';
+
+const ratings = _porteurData.estabs.map((e, i) => {
+const key = 'estab' + (i + 1);
+return {
+etablissement: e.name,
+beaute: getRadio(key + '_beauty'),
+accueil: getRadio(key + '_welcome'),
+soins: getRadio(key + '_care'),
+commentaire: document.getElementById(key + '_comment').value || ''
+};
+});
+
+const payload = {
+carte: _porteurData.carte,
+prenom: _porteurData.name,
+ratings: ratings
+};
+
+try {
+// text/plain bypass CORS preflight; Apps Script reads e.postData.contents
+await fetch(WEBHOOK_URL, {
+method: 'POST',
+mode: 'no-cors',
+headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+body: JSON.stringify(payload)
+});
+document.getElementById('form-wrapper').style.display = 'none';
+document.getElementById('thanks-screen').style.display = 'block';
+window.scrollTo({ top: 0, behavior: 'smooth' });
+} catch (err) {
+btn.disabled = false;
+btn.textContent = 'Envoyer mon avis';
+alert('Une erreur est survenue, merci de réessayer.');
+}
+}
+
+// Lance au chargement
+loadPorteurData();
+</script>
+
+</body>
+</html>

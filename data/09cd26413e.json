@@ -1,0 +1,21 @@
+{
+  "carte": "33569",
+  "name": "Loriane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "39276",
+  "name": "Delphine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "Chalet-Hôtel la Marmotte",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-01-05",
+      "last_pretty": "05 january 2026"
+    }
+  ]
+}

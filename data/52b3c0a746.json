@@ -1,0 +1,57 @@
+{
+  "carte": "30254",
+  "name": "Adrien",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-09",
+      "last_pretty": "09 march 2026"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-19",
+      "last_pretty": "19 november 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025"
+    }
+  ]
+}

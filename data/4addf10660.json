@@ -1,0 +1,21 @@
+{
+  "carte": "30899",
+  "name": "Selma",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    }
+  ]
+}

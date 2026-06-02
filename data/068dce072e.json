@@ -1,0 +1,41 @@
+{
+  "carte": "31488",
+  "name": "Emma",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025"
+    },
+    {
+      "name": "MYO Style",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/"
+    }
+  ]
+}

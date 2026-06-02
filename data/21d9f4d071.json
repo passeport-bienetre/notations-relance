@@ -1,0 +1,32 @@
+{
+  "carte": "29321",
+  "name": "Carole",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2026-01-04",
+      "last_pretty": "04 january 2026"
+    },
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    }
+  ]
+}

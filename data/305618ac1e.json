@@ -1,0 +1,33 @@
+{
+  "carte": "34769",
+  "name": "Amaury",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    }
+  ]
+}

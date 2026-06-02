@@ -1,0 +1,21 @@
+{
+  "carte": "38612",
+  "name": "Marie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

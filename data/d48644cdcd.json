@@ -1,0 +1,19 @@
+{
+  "carte": "34395",
+  "name": "Clothilde",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
+    }
+  ]
+}

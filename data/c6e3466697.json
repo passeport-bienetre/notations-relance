@@ -1,0 +1,27 @@
+{
+  "carte": "35744",
+  "name": "Alexandra",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-05-14",
+      "last_pretty": "14 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-01-10",
+      "last_pretty": "10 january 2026"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

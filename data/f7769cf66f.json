@@ -1,0 +1,19 @@
+{
+  "carte": "25910",
+  "name": "Corinne",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
+    }
+  ]
+}

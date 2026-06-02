@@ -1,0 +1,27 @@
+{
+  "carte": "38473",
+  "name": "Alyzée",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026"
+    },
+    {
+      "name": "Origin Float Spa",
+      "visits": 1,
+      "last": "2026-01-19",
+      "last_pretty": "19 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

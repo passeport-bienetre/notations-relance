@@ -1,0 +1,37 @@
+{
+  "carte": "26010",
+  "name": "Ashley",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "Elvi Haute Coiffure",
+      "visits": 1,
+      "last": "2025-08-02",
+      "last_pretty": "02 august 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
+    }
+  ]
+}

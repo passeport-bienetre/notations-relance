@@ -1,0 +1,35 @@
+{
+  "carte": "35627",
+  "name": "Laura",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    }
+  ]
+}

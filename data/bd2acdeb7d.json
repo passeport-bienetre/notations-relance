@@ -1,0 +1,20 @@
+{
+  "carte": "34263",
+  "name": "Katia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-11-19",
+      "last_pretty": "19 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    }
+  ]
+}

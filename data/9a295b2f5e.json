@@ -1,0 +1,13 @@
+{
+  "carte": "26290",
+  "name": "Anouck",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-06-21",
+      "last_pretty": "21 june 2025"
+    }
+  ]
+}

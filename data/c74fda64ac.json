@@ -1,0 +1,47 @@
+{
+  "carte": "33283",
+  "name": "Fanny",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026"
+    },
+    {
+      "name": "BORROMEO COIFFURE",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/borromeo-coiffure/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
+    }
+  ]
+}

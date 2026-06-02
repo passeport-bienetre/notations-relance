@@ -1,0 +1,14 @@
+{
+  "carte": "33657",
+  "name": "Johanne",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "carte": "34688",
+  "name": "David",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-09",
+      "last_pretty": "09 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-08-30",
+      "last_pretty": "30 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    }
+  ]
+}

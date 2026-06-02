@@ -1,0 +1,21 @@
+{
+  "carte": "29686",
+  "name": "Sandra",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-07-26",
+      "last_pretty": "26 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "32379",
+  "name": "Lou",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
+}

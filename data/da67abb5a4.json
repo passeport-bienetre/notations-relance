@@ -1,0 +1,20 @@
+{
+  "carte": "30908",
+  "name": "Priscilla",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
+    },
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+    }
+  ]
+}

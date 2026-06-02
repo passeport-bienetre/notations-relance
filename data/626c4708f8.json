@@ -1,0 +1,27 @@
+{
+  "carte": "34782",
+  "name": "Florence",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-17",
+      "last_pretty": "17 august 2025"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
+}

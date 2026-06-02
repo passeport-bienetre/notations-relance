@@ -1,0 +1,27 @@
+{
+  "carte": "32343",
+  "name": "Andréa",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
+    },
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "27586",
+  "name": "Viviane",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
+    }
+  ]
+}

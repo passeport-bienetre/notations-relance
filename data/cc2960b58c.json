@@ -1,0 +1,14 @@
+{
+  "carte": "35013",
+  "name": "Lise-Marie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+    }
+  ]
+}

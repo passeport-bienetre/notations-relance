@@ -1,0 +1,21 @@
+{
+  "carte": "31698",
+  "name": "Anais",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "36716",
+  "name": "Laurence",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    }
+  ]
+}

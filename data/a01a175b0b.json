@@ -1,0 +1,14 @@
+{
+  "carte": "36016",
+  "name": "Giuseppina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    }
+  ]
+}

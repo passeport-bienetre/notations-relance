@@ -1,0 +1,21 @@
+{
+  "carte": "35660",
+  "name": "Roberta",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-05-21",
+      "last_pretty": "21 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "30850",
+  "name": "Soma",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "POWERCUBE",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/powercube/"
+    }
+  ]
+}

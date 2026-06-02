@@ -1,0 +1,25 @@
+{
+  "carte": "35603",
+  "name": "Louis-Philippe",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-17",
+      "last_pretty": "17 may 2026"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2026-02-01",
+      "last_pretty": "01 february 2026"
+    }
+  ]
+}

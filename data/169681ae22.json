@@ -1,0 +1,34 @@
+{
+  "carte": "28798",
+  "name": "Margaux",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-06-21",
+      "last_pretty": "21 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

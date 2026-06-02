@@ -1,0 +1,33 @@
+{
+  "carte": "35950",
+  "name": "Daniela",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "Institut Sakora",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
+    }
+  ]
+}

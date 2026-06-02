@@ -1,0 +1,25 @@
+{
+  "carte": "33002",
+  "name": "Edouard",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-23",
+      "last_pretty": "23 september 2025"
+    }
+  ]
+}

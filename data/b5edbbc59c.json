@@ -1,0 +1,42 @@
+{
+  "carte": "32660",
+  "name": "Nathalie",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    }
+  ]
+}

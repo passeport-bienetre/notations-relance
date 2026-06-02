@@ -1,0 +1,33 @@
+{
+  "carte": "31478",
+  "name": "Laure-Anne",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025"
+    },
+    {
+      "name": "NUTRITION SANTE JULIETTE",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nutrition-sante-juliette/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    }
+  ]
+}

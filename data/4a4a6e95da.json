@@ -1,0 +1,33 @@
+{
+  "carte": "35104",
+  "name": "Nadège",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Tempête de Calme",
+      "visits": 1,
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
+    },
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
+    }
+  ]
+}

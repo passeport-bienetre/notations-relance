@@ -1,0 +1,19 @@
+{
+  "carte": "30057",
+  "name": "Pierre-Alain",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025"
+    }
+  ]
+}

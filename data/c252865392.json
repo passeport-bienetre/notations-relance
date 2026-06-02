@@ -1,0 +1,21 @@
+{
+  "carte": "36055",
+  "name": "Beata",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

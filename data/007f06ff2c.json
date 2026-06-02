@@ -1,0 +1,26 @@
+{
+  "carte": "33654",
+  "name": "Vania",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    }
+  ]
+}

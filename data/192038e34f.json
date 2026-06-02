@@ -1,0 +1,20 @@
+{
+  "carte": "35464",
+  "name": "Margaret",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
+    }
+  ]
+}

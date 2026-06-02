@@ -1,0 +1,14 @@
+{
+  "carte": "33573",
+  "name": "Lyn",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "34907",
+  "name": "Lara",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
+    }
+  ]
+}

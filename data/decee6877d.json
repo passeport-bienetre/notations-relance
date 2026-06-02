@@ -1,0 +1,20 @@
+{
+  "carte": "27141",
+  "name": "Rachelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-09-21",
+      "last_pretty": "21 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    }
+  ]
+}

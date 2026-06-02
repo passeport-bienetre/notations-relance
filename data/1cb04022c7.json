@@ -1,0 +1,19 @@
+{
+  "carte": "31913",
+  "name": "Sandra",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
+    }
+  ]
+}

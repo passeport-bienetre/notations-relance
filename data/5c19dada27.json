@@ -1,0 +1,33 @@
+{
+  "carte": "31171",
+  "name": "Alicia",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
+    }
+  ]
+}

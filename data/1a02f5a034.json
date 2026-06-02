@@ -1,0 +1,14 @@
+{
+  "carte": "33908",
+  "name": "Laurent",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

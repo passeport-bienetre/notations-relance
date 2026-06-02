@@ -1,0 +1,19 @@
+{
+  "carte": "34441",
+  "name": "Marie-Andrée",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "JOIA NEUCHATEL",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
+    }
+  ]
+}

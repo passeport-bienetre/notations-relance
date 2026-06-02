@@ -1,0 +1,21 @@
+{
+  "carte": "33689",
+  "name": "Isabel",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    }
+  ]
+}

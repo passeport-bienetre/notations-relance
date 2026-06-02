@@ -1,0 +1,19 @@
+{
+  "carte": "39113",
+  "name": "Cléo",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026"
+    },
+    {
+      "name": "Institut Sabaidee",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
+    }
+  ]
+}

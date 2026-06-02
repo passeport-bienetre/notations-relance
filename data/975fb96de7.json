@@ -1,0 +1,13 @@
+{
+  "carte": "33790",
+  "name": "Pauline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    }
+  ]
+}

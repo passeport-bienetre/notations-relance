@@ -1,0 +1,13 @@
+{
+  "carte": "31197",
+  "name": "Li",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "L&rsquo;Atelier du Visage",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    }
+  ]
+}

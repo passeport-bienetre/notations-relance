@@ -1,0 +1,61 @@
+{
+  "carte": "34875",
+  "name": "Clotilde",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
+    },
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2026-03-15",
+      "last_pretty": "15 march 2026"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
+}

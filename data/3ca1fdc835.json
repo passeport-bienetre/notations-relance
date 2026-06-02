@@ -1,0 +1,14 @@
+{
+  "carte": "36408",
+  "name": "Meylan",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

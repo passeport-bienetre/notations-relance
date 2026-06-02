@@ -1,0 +1,21 @@
+{
+  "carte": "35773",
+  "name": "Valérie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    }
+  ]
+}

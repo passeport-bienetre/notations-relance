@@ -1,0 +1,26 @@
+{
+  "carte": "35775",
+  "name": "Elia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026"
+    },
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
+    }
+  ]
+}

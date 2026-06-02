@@ -1,0 +1,48 @@
+{
+  "carte": "30847",
+  "name": "Chiara",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Altitude by Garance",
+      "visits": 1,
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
+    },
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    },
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-17",
+      "last_pretty": "17 november 2025"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    }
+  ]
+}

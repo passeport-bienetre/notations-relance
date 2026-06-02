@@ -1,0 +1,21 @@
+{
+  "carte": "30647",
+  "name": "Catia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "name": "Les Petits Pieds du Bonheur",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/"
+    }
+  ]
+}

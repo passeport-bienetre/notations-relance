@@ -1,0 +1,19 @@
+{
+  "carte": "30487",
+  "name": "Isabelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
+    }
+  ]
+}

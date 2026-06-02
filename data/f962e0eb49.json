@@ -1,0 +1,19 @@
+{
+  "carte": "35697",
+  "name": "Muriel",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Belle et Naturelle",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026"
+    }
+  ]
+}

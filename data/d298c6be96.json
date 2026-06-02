@@ -1,0 +1,28 @@
+{
+  "carte": "38766",
+  "name": "Marie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    }
+  ]
+}

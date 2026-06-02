@@ -1,0 +1,60 @@
+{
+  "carte": "31143",
+  "name": "Popovic",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-05",
+      "last_pretty": "05 january 2026"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
+    }
+  ]
+}

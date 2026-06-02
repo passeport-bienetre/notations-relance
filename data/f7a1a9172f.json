@@ -1,0 +1,13 @@
+{
+  "carte": "36162",
+  "name": "Caroline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
+    }
+  ]
+}

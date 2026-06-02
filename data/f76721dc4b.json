@@ -1,0 +1,25 @@
+{
+  "carte": "25361",
+  "name": "Rute",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025"
+    },
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025"
+    }
+  ]
+}

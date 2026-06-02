@@ -1,0 +1,53 @@
+{
+  "carte": "36007",
+  "name": "Franco",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-03-01",
+      "last_pretty": "01 march 2026"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

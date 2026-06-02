@@ -1,0 +1,14 @@
+{
+  "carte": "38638",
+  "name": "Brigitte",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "carte": "27027",
+  "name": "Clelia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    }
+  ]
+}

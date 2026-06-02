@@ -1,0 +1,19 @@
+{
+  "carte": "32442",
+  "name": "Fanny",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "BEAUTY CONCEPT PULLY",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025"
+    }
+  ]
+}

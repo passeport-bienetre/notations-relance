@@ -1,0 +1,13 @@
+{
+  "carte": "28610",
+  "name": "Anne",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026"
+    }
+  ]
+}

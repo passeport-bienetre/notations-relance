@@ -1,0 +1,14 @@
+{
+  "carte": "30080",
+  "name": "Claire",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-06-16",
+      "last_pretty": "16 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

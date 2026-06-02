@@ -1,0 +1,14 @@
+{
+  "carte": "39232",
+  "name": "Alice",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

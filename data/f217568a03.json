@@ -1,0 +1,25 @@
+{
+  "carte": "33717",
+  "name": "Elsa",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    }
+  ]
+}

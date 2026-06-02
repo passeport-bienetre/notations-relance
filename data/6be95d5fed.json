@@ -1,0 +1,34 @@
+{
+  "carte": "29296",
+  "name": "Loane",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-09-24",
+      "last_pretty": "24 september 2025"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

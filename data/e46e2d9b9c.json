@@ -1,0 +1,55 @@
+{
+  "carte": "31866",
+  "name": "S",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-12-06",
+      "last_pretty": "06 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Institut Orphée",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    }
+  ]
+}

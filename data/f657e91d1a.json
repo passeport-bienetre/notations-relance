@@ -1,0 +1,37 @@
+{
+  "carte": "33295",
+  "name": "Laetitia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-09-16",
+      "last_pretty": "16 september 2025"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "35162",
+  "name": "Sandra",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026"
+    }
+  ]
+}

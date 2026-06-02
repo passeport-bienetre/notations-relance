@@ -1,0 +1,19 @@
+{
+  "carte": "38295",
+  "name": "Stephanie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
+    }
+  ]
+}

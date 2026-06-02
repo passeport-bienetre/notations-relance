@@ -1,0 +1,21 @@
+{
+  "carte": "27620",
+  "name": "Lise",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-08-03",
+      "last_pretty": "03 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "35429",
+  "name": "Valérie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-14",
+      "last_pretty": "14 may 2026"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
+    }
+  ]
+}

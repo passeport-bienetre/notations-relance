@@ -1,0 +1,27 @@
+{
+  "carte": "33020",
+  "name": "Martine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-12-01",
+      "last_pretty": "01 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "Origin Float Spa &#8211; Soins thérapeutiques",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    }
+  ]
+}

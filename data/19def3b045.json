@@ -1,0 +1,21 @@
+{
+  "carte": "36385",
+  "name": "Mariuccia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    }
+  ]
+}

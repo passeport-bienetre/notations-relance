@@ -1,0 +1,41 @@
+{
+  "carte": "32237",
+  "name": "Margarita",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Eveil des Sens",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/eveil-des-sens-3/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "COMME SUR UN NUAGE",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-10-06",
+      "last_pretty": "06 october 2025"
+    }
+  ]
+}

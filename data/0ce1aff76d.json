@@ -1,0 +1,33 @@
+{
+  "carte": "36098",
+  "name": "Veronica",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-05-11",
+      "last_pretty": "11 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "Studio Beauté",
+      "visits": 1,
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026"
+    }
+  ]
+}

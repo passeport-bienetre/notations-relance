@@ -1,0 +1,21 @@
+{
+  "carte": "32749",
+  "name": "Milène",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

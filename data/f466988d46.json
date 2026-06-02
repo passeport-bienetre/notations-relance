@@ -1,0 +1,49 @@
+{
+  "carte": "31009",
+  "name": "Tara",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
+    }
+  ]
+}

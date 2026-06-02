@@ -1,0 +1,19 @@
+{
+  "carte": "24931",
+  "name": "Rachel",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "carte": "29119",
+  "name": "Kaethlin",
+  "nb_estabs": 10,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+    },
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-27",
+      "last_pretty": "27 july 2025"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Skin &#038; Body Studio",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    }
+  ]
+}

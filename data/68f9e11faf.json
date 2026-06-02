@@ -1,0 +1,21 @@
+{
+  "carte": "33966",
+  "name": "Naomi",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-09-10",
+      "last_pretty": "10 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    }
+  ]
+}

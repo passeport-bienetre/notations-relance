@@ -1,0 +1,14 @@
+{
+  "carte": "35712",
+  "name": "Diana",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    }
+  ]
+}

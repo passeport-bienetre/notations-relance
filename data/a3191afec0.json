@@ -1,0 +1,14 @@
+{
+  "carte": "35170",
+  "name": "Carola",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    }
+  ]
+}

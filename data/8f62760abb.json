@@ -1,0 +1,19 @@
+{
+  "carte": "29072",
+  "name": "Corinne",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    }
+  ]
+}

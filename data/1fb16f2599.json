@@ -1,0 +1,13 @@
+{
+  "carte": "34684",
+  "name": "William",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
+    }
+  ]
+}

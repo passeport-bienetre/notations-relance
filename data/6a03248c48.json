@@ -1,0 +1,13 @@
+{
+  "carte": "33873",
+  "name": "Zach",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    }
+  ]
+}

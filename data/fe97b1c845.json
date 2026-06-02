@@ -1,0 +1,19 @@
+{
+  "carte": "35634",
+  "name": "Jennifer",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-02-02",
+      "last_pretty": "02 february 2026"
+    }
+  ]
+}

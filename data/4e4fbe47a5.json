@@ -1,0 +1,45 @@
+{
+  "carte": "25948",
+  "name": "Sylvie",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
+    },
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
+    },
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
+    }
+  ]
+}

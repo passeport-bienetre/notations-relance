@@ -1,0 +1,33 @@
+{
+  "carte": "27275",
+  "name": "Elodie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
+    }
+  ]
+}

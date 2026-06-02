@@ -1,0 +1,13 @@
+{
+  "carte": "29076",
+  "name": "Nikola",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-06-09",
+      "last_pretty": "09 june 2025"
+    }
+  ]
+}

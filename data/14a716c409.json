@@ -1,0 +1,19 @@
+{
+  "carte": "24954",
+  "name": "Josiane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025"
+    }
+  ]
+}

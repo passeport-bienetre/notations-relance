@@ -1,0 +1,13 @@
+{
+  "carte": "33655",
+  "name": "Maude",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
+    }
+  ]
+}

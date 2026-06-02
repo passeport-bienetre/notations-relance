@@ -1,0 +1,43 @@
+{
+  "carte": "30267",
+  "name": "sabine",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Altitude by Garance",
+      "visits": 1,
+      "last": "2026-03-29",
+      "last_pretty": "29 march 2026"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "36664",
+  "name": "Isabella",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
+    }
+  ]
+}

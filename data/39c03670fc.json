@@ -1,0 +1,26 @@
+{
+  "carte": "34175",
+  "name": "Noa",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-11",
+      "last_pretty": "11 november 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2025-06-08",
+      "last_pretty": "08 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    }
+  ]
+}

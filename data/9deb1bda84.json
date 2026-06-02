@@ -1,0 +1,13 @@
+{
+  "carte": "31668",
+  "name": "Sylviane",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
+    }
+  ]
+}

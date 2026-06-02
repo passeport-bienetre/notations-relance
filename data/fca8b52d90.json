@@ -1,0 +1,61 @@
+{
+  "carte": "34951",
+  "name": "Michèle",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025"
+    },
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "MK PILATES",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    }
+  ]
+}

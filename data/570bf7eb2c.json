@@ -1,0 +1,28 @@
+{
+  "carte": "28265",
+  "name": "Alexandra",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-06-16",
+      "last_pretty": "16 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

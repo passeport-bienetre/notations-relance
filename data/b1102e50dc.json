@@ -1,0 +1,28 @@
+{
+  "carte": "36383",
+  "name": "Isabelle",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-04-02",
+      "last_pretty": "02 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "carte": "33540",
+  "name": "Caroline",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
+    },
+    {
+      "name": "MK PILATES",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/mk-pilates/"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

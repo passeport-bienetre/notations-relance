@@ -1,0 +1,33 @@
+{
+  "carte": "35726",
+  "name": "Neda",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

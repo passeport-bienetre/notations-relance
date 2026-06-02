@@ -1,0 +1,19 @@
+{
+  "carte": "33076",
+  "name": "Véronique",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
+    }
+  ]
+}

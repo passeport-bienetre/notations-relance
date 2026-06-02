@@ -1,0 +1,19 @@
+{
+  "carte": "25571",
+  "name": "Helga",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
+    }
+  ]
+}

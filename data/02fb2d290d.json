@@ -1,0 +1,73 @@
+{
+  "carte": "31511",
+  "name": "Cynthia",
+  "nb_estabs": 10,
+  "estabs": [
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-03-01",
+      "last_pretty": "01 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "INTUITIVE JESS",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-01-04",
+      "last_pretty": "04 january 2026"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-06",
+      "last_pretty": "06 december 2025"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-06-21",
+      "last_pretty": "21 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

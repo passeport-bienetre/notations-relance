@@ -1,0 +1,13 @@
+{
+  "carte": "30091",
+  "name": "Cristina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
+    }
+  ]
+}

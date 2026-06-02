@@ -1,0 +1,19 @@
+{
+  "carte": "30046",
+  "name": "Lola",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "32474",
+  "name": "Romy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-08-31",
+      "last_pretty": "31 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    }
+  ]
+}

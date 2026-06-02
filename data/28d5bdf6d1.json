@@ -1,0 +1,14 @@
+{
+  "carte": "39253",
+  "name": "Emma",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

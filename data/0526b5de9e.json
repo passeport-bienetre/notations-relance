@@ -1,0 +1,26 @@
+{
+  "carte": "39156",
+  "name": "Mireille",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    },
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026"
+    }
+  ]
+}

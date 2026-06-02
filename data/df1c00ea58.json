@@ -1,0 +1,21 @@
+{
+  "carte": "35948",
+  "name": "Aline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "INTUITIVE JESS",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/"
+    }
+  ]
+}

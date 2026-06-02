@@ -1,0 +1,34 @@
+{
+  "carte": "31264",
+  "name": "Sarah",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "The Wax Bar Genève",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/"
+    }
+  ]
+}

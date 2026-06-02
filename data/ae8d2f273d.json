@@ -1,0 +1,21 @@
+{
+  "carte": "36426",
+  "name": "Chiara",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-03-08",
+      "last_pretty": "08 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

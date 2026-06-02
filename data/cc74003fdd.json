@@ -1,0 +1,14 @@
+{
+  "carte": "27283",
+  "name": "Cristina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    }
+  ]
+}

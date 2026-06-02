@@ -1,0 +1,21 @@
+{
+  "carte": "26901",
+  "name": "Valérie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
+}

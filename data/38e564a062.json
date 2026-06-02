@@ -1,0 +1,19 @@
+{
+  "carte": "27253",
+  "name": "Julien",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "carte": "34957",
+  "name": "Neila",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-05-25",
+      "last_pretty": "25 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2026-04-04",
+      "last_pretty": "04 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-11-17",
+      "last_pretty": "17 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

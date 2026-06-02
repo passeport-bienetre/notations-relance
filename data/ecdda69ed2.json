@@ -1,0 +1,43 @@
+{
+  "carte": "30255",
+  "name": "Severin",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
+    },
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2026-02-15",
+      "last_pretty": "15 february 2026"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
+    },
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2026-01-11",
+      "last_pretty": "11 january 2026"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025"
+    }
+  ]
+}

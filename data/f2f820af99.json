@@ -1,0 +1,19 @@
+{
+  "carte": "35623",
+  "name": "Stéphanie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
+    }
+  ]
+}

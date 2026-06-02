@@ -1,0 +1,19 @@
+{
+  "carte": "31677",
+  "name": "rachel",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026"
+    },
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    }
+  ]
+}

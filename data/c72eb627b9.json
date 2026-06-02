@@ -1,0 +1,14 @@
+{
+  "carte": "27697",
+  "name": "Vincent",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-08-16",
+      "last_pretty": "16 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "34204",
+  "name": "Emma",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
+    }
+  ]
+}

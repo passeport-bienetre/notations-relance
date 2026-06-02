@@ -1,0 +1,28 @@
+{
+  "carte": "35677",
+  "name": "Maria",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2026-02-16",
+      "last_pretty": "16 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    }
+  ]
+}

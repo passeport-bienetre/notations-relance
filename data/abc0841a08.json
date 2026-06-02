@@ -1,0 +1,21 @@
+{
+  "carte": "34930",
+  "name": "Andreia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    }
+  ]
+}

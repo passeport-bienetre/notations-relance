@@ -1,0 +1,14 @@
+{
+  "carte": "34167",
+  "name": "Magali",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "38581",
+  "name": "Andreia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-03-15",
+      "last_pretty": "15 march 2026"
+    },
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "29581",
+  "name": "François",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "34815",
+  "name": "Geraldine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    }
+  ]
+}

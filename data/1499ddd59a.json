@@ -1,0 +1,28 @@
+{
+  "carte": "38734",
+  "name": "Felicina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    }
+  ]
+}

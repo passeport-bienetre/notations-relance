@@ -1,0 +1,19 @@
+{
+  "carte": "35275",
+  "name": "Philippe",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "31033",
+  "name": "Celine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "COMME SUR UN NUAGE",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+    },
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    }
+  ]
+}

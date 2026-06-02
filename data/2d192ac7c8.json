@@ -1,0 +1,13 @@
+{
+  "carte": "33872",
+  "name": "Brigide",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    }
+  ]
+}

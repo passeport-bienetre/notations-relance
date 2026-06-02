@@ -1,0 +1,20 @@
+{
+  "carte": "32223",
+  "name": "Ludivine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "JOIA NEUCHATEL",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
+    }
+  ]
+}

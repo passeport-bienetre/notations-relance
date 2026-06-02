@@ -1,0 +1,21 @@
+{
+  "carte": "35422",
+  "name": "MANUEL",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
+}

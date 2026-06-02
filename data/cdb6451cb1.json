@@ -1,0 +1,53 @@
+{
+  "carte": "33491",
+  "name": "Sabrina",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-10-07",
+      "last_pretty": "07 october 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
+    },
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    }
+  ]
+}

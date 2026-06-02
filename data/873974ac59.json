@@ -1,0 +1,39 @@
+{
+  "carte": "27241",
+  "name": "Gaylene",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    }
+  ]
+}

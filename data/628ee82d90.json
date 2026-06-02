@@ -1,0 +1,20 @@
+{
+  "carte": "33751",
+  "name": "Nadia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    }
+  ]
+}

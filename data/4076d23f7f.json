@@ -1,0 +1,27 @@
+{
+  "carte": "31797",
+  "name": "Aline",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-05-18",
+      "last_pretty": "18 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025"
+    }
+  ]
+}

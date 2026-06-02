@@ -1,0 +1,13 @@
+{
+  "carte": "32479",
+  "name": "Delphine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
+    }
+  ]
+}

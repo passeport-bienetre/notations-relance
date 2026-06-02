@@ -1,0 +1,21 @@
+{
+  "carte": "31694",
+  "name": "Titia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "33481",
+  "name": "Emmanuel",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-07-31",
+      "last_pretty": "31 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "carte": "32468",
+  "name": "Catherine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026"
+    },
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-11-11",
+      "last_pretty": "11 november 2025"
+    }
+  ]
+}

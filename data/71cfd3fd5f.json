@@ -1,0 +1,42 @@
+{
+  "carte": "34507",
+  "name": "Paula",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2025-12-15",
+      "last_pretty": "15 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    }
+  ]
+}

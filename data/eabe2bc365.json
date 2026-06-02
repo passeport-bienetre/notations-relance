@@ -1,0 +1,31 @@
+{
+  "carte": "29318",
+  "name": "Adeline",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
+    },
+    {
+      "name": "Simple Passion",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-11-11",
+      "last_pretty": "11 november 2025"
+    },
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
+    }
+  ]
+}

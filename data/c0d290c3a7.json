@@ -1,0 +1,28 @@
+{
+  "carte": "30485",
+  "name": "Sara",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    }
+  ]
+}

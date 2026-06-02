@@ -1,0 +1,27 @@
+{
+  "carte": "34454",
+  "name": "Vanessa",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

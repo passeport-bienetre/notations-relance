@@ -1,0 +1,54 @@
+{
+  "carte": "34961",
+  "name": "Myriam",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025"
+    },
+    {
+      "name": "Le Passage",
+      "visits": 1,
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

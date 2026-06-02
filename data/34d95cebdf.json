@@ -1,0 +1,31 @@
+{
+  "carte": "27195",
+  "name": "Olga",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025"
+    },
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
+    }
+  ]
+}

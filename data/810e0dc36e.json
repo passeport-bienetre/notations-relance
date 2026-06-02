@@ -1,0 +1,21 @@
+{
+  "carte": "30307",
+  "name": "Fatima",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-01-05",
+      "last_pretty": "05 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    }
+  ]
+}

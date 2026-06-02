@@ -1,0 +1,47 @@
+{
+  "carte": "34885",
+  "name": "Pareesa",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-05-11",
+      "last_pretty": "11 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-09-18",
+      "last_pretty": "18 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-08-11",
+      "last_pretty": "11 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    }
+  ]
+}

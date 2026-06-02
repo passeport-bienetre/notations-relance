@@ -1,0 +1,20 @@
+{
+  "carte": "35004",
+  "name": "Sandra",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    }
+  ]
+}

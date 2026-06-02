@@ -1,0 +1,20 @@
+{
+  "carte": "35381",
+  "name": "Romina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-05-25",
+      "last_pretty": "25 may 2026"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    }
+  ]
+}

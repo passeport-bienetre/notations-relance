@@ -1,0 +1,13 @@
+{
+  "carte": "38645",
+  "name": "Arline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
+    }
+  ]
+}

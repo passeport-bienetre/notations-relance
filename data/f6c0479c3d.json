@@ -1,0 +1,19 @@
+{
+  "carte": "35289",
+  "name": "Aurore",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026"
+    }
+  ]
+}

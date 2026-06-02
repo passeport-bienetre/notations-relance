@@ -1,0 +1,19 @@
+{
+  "carte": "34809",
+  "name": "Jovana",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
+    }
+  ]
+}

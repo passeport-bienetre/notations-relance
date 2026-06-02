@@ -1,0 +1,68 @@
+{
+  "carte": "30603",
+  "name": "Coralie",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "MK PILATES",
+      "visits": 1,
+      "last": "2025-11-22",
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/mk-pilates/"
+    },
+    {
+      "name": "MYO Style",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

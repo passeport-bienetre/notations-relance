@@ -1,0 +1,20 @@
+{
+  "carte": "30217",
+  "name": "Pierre",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-09-27",
+      "last_pretty": "27 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
+    }
+  ]
+}

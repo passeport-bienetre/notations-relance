@@ -1,0 +1,27 @@
+{
+  "carte": "34729",
+  "name": "ana",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-23",
+      "last_pretty": "23 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

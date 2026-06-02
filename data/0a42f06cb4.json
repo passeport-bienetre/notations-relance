@@ -1,0 +1,21 @@
+{
+  "carte": "34257",
+  "name": "Audrey",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    }
+  ]
+}

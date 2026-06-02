@@ -1,0 +1,20 @@
+{
+  "carte": "36071",
+  "name": "Margot",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "34728",
+  "name": "Cristina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    }
+  ]
+}

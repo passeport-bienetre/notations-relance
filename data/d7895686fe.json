@@ -1,0 +1,14 @@
+{
+  "carte": "36381",
+  "name": "Elizabeth",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    }
+  ]
+}

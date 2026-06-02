@@ -1,0 +1,26 @@
+{
+  "carte": "34602",
+  "name": "Daniela",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    }
+  ]
+}

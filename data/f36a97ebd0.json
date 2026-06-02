@@ -1,0 +1,25 @@
+{
+  "carte": "30601",
+  "name": "Flora",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-09-16",
+      "last_pretty": "16 september 2025"
+    }
+  ]
+}

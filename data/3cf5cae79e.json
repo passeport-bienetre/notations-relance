@@ -1,0 +1,33 @@
+{
+  "carte": "35243",
+  "name": "Sophie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "BEAUTY CONCEPT PULLY",
+      "visits": 1,
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
+    },
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
+    }
+  ]
+}

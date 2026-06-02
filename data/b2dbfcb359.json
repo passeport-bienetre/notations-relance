@@ -1,0 +1,14 @@
+{
+  "carte": "38711",
+  "name": "Coline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    }
+  ]
+}

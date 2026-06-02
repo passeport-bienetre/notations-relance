@@ -1,0 +1,13 @@
+{
+  "carte": "36811",
+  "name": "Amalia",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Lumen Spa &#038; Wellness",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
+    }
+  ]
+}

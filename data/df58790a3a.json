@@ -1,0 +1,21 @@
+{
+  "carte": "26952",
+  "name": "Christine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    }
+  ]
+}

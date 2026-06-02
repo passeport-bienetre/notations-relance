@@ -1,0 +1,54 @@
+{
+  "carte": "25454",
+  "name": "Jessica",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
+    },
+    {
+      "name": "Les Petits Pieds du Bonheur",
+      "visits": 1,
+      "last": "2025-11-23",
+      "last_pretty": "23 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025"
+    },
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
+}

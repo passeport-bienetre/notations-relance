@@ -1,0 +1,20 @@
+{
+  "carte": "26335",
+  "name": "Marie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025"
+    }
+  ]
+}

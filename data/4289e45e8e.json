@@ -1,0 +1,14 @@
+{
+  "carte": "32788",
+  "name": "Anne",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
+}

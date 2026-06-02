@@ -1,0 +1,20 @@
+{
+  "carte": "32751",
+  "name": "Stéphane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
+    }
+  ]
+}

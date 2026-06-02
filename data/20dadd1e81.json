@@ -1,0 +1,14 @@
+{
+  "carte": "34766",
+  "name": "Margaux",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    }
+  ]
+}

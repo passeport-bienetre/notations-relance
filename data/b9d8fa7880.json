@@ -1,0 +1,19 @@
+{
+  "carte": "30077",
+  "name": "Virginie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
+    }
+  ]
+}

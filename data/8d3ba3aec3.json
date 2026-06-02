@@ -1,0 +1,21 @@
+{
+  "carte": "32391",
+  "name": "Bettina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    }
+  ]
+}

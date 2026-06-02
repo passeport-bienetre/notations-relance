@@ -1,0 +1,26 @@
+{
+  "carte": "25887",
+  "name": "Fernanda",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+    }
+  ]
+}

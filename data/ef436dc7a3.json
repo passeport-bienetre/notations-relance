@@ -1,0 +1,19 @@
+{
+  "carte": "35919",
+  "name": "Romain",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    }
+  ]
+}

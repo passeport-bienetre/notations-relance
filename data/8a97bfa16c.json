@@ -1,0 +1,26 @@
+{
+  "carte": "33779",
+  "name": "Chantal",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-07-01",
+      "last_pretty": "01 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "carte": "26469",
+  "name": "Garima",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
+    }
+  ]
+}

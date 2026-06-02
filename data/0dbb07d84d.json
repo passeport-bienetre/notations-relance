@@ -1,0 +1,13 @@
+{
+  "carte": "33585",
+  "name": "Sana",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-01-18",
+      "last_pretty": "18 january 2026"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "carte": "30545",
+  "name": "Magali",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-01-10",
+      "last_pretty": "10 january 2026"
+    },
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2025-08-11",
+      "last_pretty": "11 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "name": "19Th Avenue &#8211; Thonex",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    }
+  ]
+}

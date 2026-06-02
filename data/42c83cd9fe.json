@@ -1,0 +1,41 @@
+{
+  "carte": "32314",
+  "name": "Mathilde",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Hairstudio",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairstudio/"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

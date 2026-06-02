@@ -1,0 +1,14 @@
+{
+  "carte": "31583",
+  "name": "Sarah",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "36610",
+  "name": "Nina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    }
+  ]
+}

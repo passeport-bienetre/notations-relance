@@ -1,0 +1,14 @@
+{
+  "carte": "30678",
+  "name": "Sandra",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

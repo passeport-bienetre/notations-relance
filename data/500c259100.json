@@ -1,0 +1,19 @@
+{
+  "carte": "29113",
+  "name": "Camille",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2025-08-31",
+      "last_pretty": "31 august 2025"
+    }
+  ]
+}

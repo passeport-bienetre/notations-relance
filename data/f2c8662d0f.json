@@ -1,0 +1,13 @@
+{
+  "carte": "33836",
+  "name": "Céline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "visits": 1,
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026"
+    }
+  ]
+}

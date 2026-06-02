@@ -1,0 +1,25 @@
+{
+  "carte": "25968",
+  "name": "alatna",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-31",
+      "last_pretty": "31 july 2025"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
+    }
+  ]
+}

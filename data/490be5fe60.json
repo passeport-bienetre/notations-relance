@@ -1,0 +1,41 @@
+{
+  "carte": "31707",
+  "name": "Sara",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-05-18",
+      "last_pretty": "18 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2026-01-25",
+      "last_pretty": "25 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
+    }
+  ]
+}

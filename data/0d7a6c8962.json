@@ -1,0 +1,26 @@
+{
+  "carte": "31026",
+  "name": "Faiza",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Vogue La Coiffure",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026"
+    }
+  ]
+}

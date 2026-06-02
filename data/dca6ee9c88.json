@@ -1,0 +1,35 @@
+{
+  "carte": "34944",
+  "name": "Virginie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-04-02",
+      "last_pretty": "02 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
+    },
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2026-01-04",
+      "last_pretty": "04 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
+    }
+  ]
+}

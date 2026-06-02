@@ -1,0 +1,21 @@
+{
+  "carte": "31067",
+  "name": "Julien",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-08-31",
+      "last_pretty": "31 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    }
+  ]
+}

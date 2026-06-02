@@ -1,0 +1,25 @@
+{
+  "carte": "35423",
+  "name": "Sandra",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
+    }
+  ]
+}

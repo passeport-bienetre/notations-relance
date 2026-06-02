@@ -1,0 +1,19 @@
+{
+  "carte": "36642",
+  "name": "Alexia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026"
+    }
+  ]
+}

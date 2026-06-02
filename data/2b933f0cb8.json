@@ -1,0 +1,20 @@
+{
+  "carte": "31069",
+  "name": "Morgane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-11-17",
+      "last_pretty": "17 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
+    }
+  ]
+}

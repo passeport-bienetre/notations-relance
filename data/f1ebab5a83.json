@@ -1,0 +1,19 @@
+{
+  "carte": "31812",
+  "name": "Faustine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
+    }
+  ]
+}

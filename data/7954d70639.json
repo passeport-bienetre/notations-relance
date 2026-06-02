@@ -1,0 +1,28 @@
+{
+  "carte": "34256",
+  "name": "Julie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
+}

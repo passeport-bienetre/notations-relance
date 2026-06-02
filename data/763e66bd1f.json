@@ -1,0 +1,55 @@
+{
+  "carte": "33608",
+  "name": "Véronique",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026"
+    },
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "ALEX COIFFURE SARL",
+      "visits": 1,
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
+    },
+    {
+      "name": "EssenCiel Institut",
+      "visits": 1,
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/"
+    },
+    {
+      "name": "Institut Orphée",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    }
+  ]
+}

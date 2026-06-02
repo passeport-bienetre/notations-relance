@@ -1,0 +1,13 @@
+{
+  "carte": "34012",
+  "name": "Céline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
+      "visits": 1,
+      "last": "2025-05-27"
+    }
+  ]
+}

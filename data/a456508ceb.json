@@ -1,0 +1,39 @@
+{
+  "carte": "29577",
+  "name": "Céline",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "visits": 1,
+      "last": "2026-03-15",
+      "last_pretty": "15 march 2026"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-04",
+      "last_pretty": "04 january 2026"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-08-01",
+      "last_pretty": "01 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    }
+  ]
+}

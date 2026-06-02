@@ -1,0 +1,14 @@
+{
+  "carte": "35312",
+  "name": "Cecily",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2026-02-15",
+      "last_pretty": "15 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
+    }
+  ]
+}

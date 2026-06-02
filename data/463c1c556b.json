@@ -1,0 +1,19 @@
+{
+  "carte": "30210",
+  "name": "Andelka",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-09",
+      "last_pretty": "09 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "32504",
+  "name": "Isabelle",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
+    }
+  ]
+}

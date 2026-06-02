@@ -1,0 +1,13 @@
+{
+  "carte": "30660",
+  "name": "Celine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025"
+    }
+  ]
+}

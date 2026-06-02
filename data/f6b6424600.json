@@ -1,0 +1,19 @@
+{
+  "carte": "30351",
+  "name": "Sora",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
+      "visits": 1,
+      "last": "2025-05-27"
+    },
+    {
+      "name": "Signature Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
+      "visits": 1,
+      "last": "2025-05-23"
+    }
+  ]
+}

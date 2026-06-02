@@ -1,0 +1,21 @@
+{
+  "carte": "32269",
+  "name": "Pascale",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    }
+  ]
+}

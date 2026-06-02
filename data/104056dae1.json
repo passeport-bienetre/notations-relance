@@ -1,0 +1,38 @@
+{
+  "carte": "34045",
+  "name": "Deborah",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-09",
+      "last_pretty": "09 march 2026"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
+    }
+  ]
+}

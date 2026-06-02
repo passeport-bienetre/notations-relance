@@ -1,0 +1,21 @@
+{
+  "carte": "36480",
+  "name": "Caroline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+    }
+  ]
+}

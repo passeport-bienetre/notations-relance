@@ -1,0 +1,13 @@
+{
+  "carte": "38761",
+  "name": "MARISA",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
+    }
+  ]
+}

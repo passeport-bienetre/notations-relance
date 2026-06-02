@@ -1,0 +1,13 @@
+{
+  "carte": "38313",
+  "name": "Nadege",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-08",
+      "last_pretty": "08 march 2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "26066",
+  "name": "Marie-Louise",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut ZenSkin",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
+      "visits": 1,
+      "last": "2025-05-26"
+    },
+    {
+      "name": "Hapiderm",
+      "url": "https://www.bodypass.ch/?s=Hapiderm",
+      "visits": 1,
+      "last": "2025-05-22"
+    }
+  ]
+}

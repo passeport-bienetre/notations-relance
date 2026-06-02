@@ -1,0 +1,25 @@
+{
+  "carte": "33802",
+  "name": "Marjorie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-12-07",
+      "last_pretty": "07 december 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-01",
+      "last_pretty": "01 december 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025"
+    }
+  ]
+}

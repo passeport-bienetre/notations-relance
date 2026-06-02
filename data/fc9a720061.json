@@ -1,0 +1,25 @@
+{
+  "carte": "31245",
+  "name": "Fanny",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
+    }
+  ]
+}

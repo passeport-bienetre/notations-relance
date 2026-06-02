@@ -1,0 +1,19 @@
+{
+  "carte": "32387",
+  "name": "Natalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
+    }
+  ]
+}

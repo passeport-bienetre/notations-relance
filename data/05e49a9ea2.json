@@ -1,0 +1,19 @@
+{
+  "carte": "38292",
+  "name": "Madison",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    }
+  ]
+}

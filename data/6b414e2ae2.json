@@ -1,0 +1,34 @@
+{
+  "carte": "33045",
+  "name": "Isabelle",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-11-09",
+      "last_pretty": "09 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
+    }
+  ]
+}

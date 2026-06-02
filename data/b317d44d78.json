@@ -1,0 +1,14 @@
+{
+  "carte": "36948",
+  "name": "Sybille",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    }
+  ]
+}

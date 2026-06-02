@@ -1,0 +1,28 @@
+{
+  "carte": "33924",
+  "name": "Julia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "carte": "25717",
+  "name": "Gilles",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
+    }
+  ]
+}

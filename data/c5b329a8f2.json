@@ -1,0 +1,39 @@
+{
+  "carte": "35678",
+  "name": "Kira",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
+    }
+  ]
+}

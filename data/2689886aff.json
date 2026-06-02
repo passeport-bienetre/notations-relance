@@ -1,0 +1,14 @@
+{
+  "carte": "36624",
+  "name": "Floriane",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

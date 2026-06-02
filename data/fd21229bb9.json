@@ -1,0 +1,13 @@
+{
+  "carte": "35632",
+  "name": "Christine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
+    }
+  ]
+}

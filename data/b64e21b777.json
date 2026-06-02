@@ -1,0 +1,20 @@
+{
+  "carte": "31662",
+  "name": "Vanessa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
+    }
+  ]
+}

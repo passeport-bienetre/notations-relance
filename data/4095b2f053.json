@@ -1,0 +1,26 @@
+{
+  "carte": "32244",
+  "name": "Sandra",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
+    },
+    {
+      "name": "Chandolin Boutique Hôtel",
+      "visits": 1,
+      "last": "2026-01-01",
+      "last_pretty": "01 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025"
+    }
+  ]
+}

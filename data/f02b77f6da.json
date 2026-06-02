@@ -1,0 +1,37 @@
+{
+  "carte": "29752",
+  "name": "Sophia",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-09-14",
+      "last_pretty": "14 september 2025"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
+    }
+  ]
+}

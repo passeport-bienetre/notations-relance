@@ -1,0 +1,14 @@
+{
+  "carte": "36220",
+  "name": "Aude",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    }
+  ]
+}

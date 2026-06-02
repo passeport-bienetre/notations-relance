@@ -1,0 +1,32 @@
+{
+  "carte": "32356",
+  "name": "Victoria",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-21",
+      "last_pretty": "21 december 2025"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "31077",
+  "name": "Rebecca",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

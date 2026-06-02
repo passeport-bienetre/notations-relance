@@ -1,0 +1,35 @@
+{
+  "carte": "33189",
+  "name": "Christelle",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Espace Beauté Harmonie",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

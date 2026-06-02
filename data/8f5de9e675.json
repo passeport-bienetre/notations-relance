@@ -1,0 +1,40 @@
+{
+  "carte": "30034",
+  "name": "Marion",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
+    },
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    },
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "36255",
+  "name": "Annabelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
+    }
+  ]
+}

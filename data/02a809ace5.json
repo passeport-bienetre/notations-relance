@@ -1,0 +1,20 @@
+{
+  "carte": "36396",
+  "name": "Stephanie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    }
+  ]
+}

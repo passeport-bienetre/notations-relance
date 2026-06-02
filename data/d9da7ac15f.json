@@ -1,0 +1,21 @@
+{
+  "carte": "28409",
+  "name": "Alexia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
+}

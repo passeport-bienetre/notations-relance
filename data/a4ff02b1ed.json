@@ -1,0 +1,48 @@
+{
+  "carte": "33198",
+  "name": "Jennifer",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-09-23",
+      "last_pretty": "23 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
+    }
+  ]
+}

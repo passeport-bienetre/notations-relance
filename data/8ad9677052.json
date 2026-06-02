@@ -1,0 +1,32 @@
+{
+  "carte": "31764",
+  "name": "Murielle",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-09-21",
+      "last_pretty": "21 september 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-27",
+      "last_pretty": "27 july 2025"
+    },
+    {
+      "name": "Rituels Beauté",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
+    }
+  ]
+}

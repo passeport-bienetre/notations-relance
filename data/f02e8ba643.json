@@ -1,0 +1,25 @@
+{
+  "carte": "33470",
+  "name": "Carlotta",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "Noemi Spataro Esthétique",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
+    }
+  ]
+}

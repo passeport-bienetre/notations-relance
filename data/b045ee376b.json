@@ -1,0 +1,21 @@
+{
+  "carte": "38218",
+  "name": "Nathalie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2026-04-20",
+      "last_pretty": "20 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "carte": "39239",
+  "name": "Salomé",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
+    }
+  ]
+}

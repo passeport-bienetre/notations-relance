@@ -1,0 +1,19 @@
+{
+  "carte": "29582",
+  "name": "Gaia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025"
+    },
+    {
+      "name": "Damien &#038; Co",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025"
+    }
+  ]
+}

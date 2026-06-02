@@ -1,0 +1,21 @@
+{
+  "carte": "30407",
+  "name": "Jennifer",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
+    }
+  ]
+}

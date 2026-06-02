@@ -1,0 +1,21 @@
+{
+  "carte": "36068",
+  "name": "Rachel",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2026-02-08",
+      "last_pretty": "08 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "carte": "33773",
+  "name": "Céline",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

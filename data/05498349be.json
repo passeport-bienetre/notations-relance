@@ -1,0 +1,27 @@
+{
+  "carte": "31334",
+  "name": "Martin",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
+    },
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

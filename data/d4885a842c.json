@@ -1,0 +1,14 @@
+{
+  "carte": "32556",
+  "name": "Kelly",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "INSTITUT NATURALPE",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-naturalpe/"
+    }
+  ]
+}

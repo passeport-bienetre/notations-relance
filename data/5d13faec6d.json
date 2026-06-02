@@ -1,0 +1,34 @@
+{
+  "carte": "34862",
+  "name": "Tamina",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Elvi Haute Coiffure",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

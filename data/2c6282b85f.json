@@ -1,0 +1,13 @@
+{
+  "carte": "34410",
+  "name": "Sylvie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026"
+    }
+  ]
+}

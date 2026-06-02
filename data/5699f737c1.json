@@ -1,0 +1,47 @@
+{
+  "carte": "34453",
+  "name": "Monika",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-09-15",
+      "last_pretty": "15 september 2025"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
+    }
+  ]
+}

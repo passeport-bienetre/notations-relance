@@ -1,0 +1,20 @@
+{
+  "carte": "28146",
+  "name": "Léa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
+}

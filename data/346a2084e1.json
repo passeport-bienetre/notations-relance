@@ -1,0 +1,28 @@
+{
+  "carte": "35038",
+  "name": "Muna",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-30",
+      "last_pretty": "30 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-11-22",
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

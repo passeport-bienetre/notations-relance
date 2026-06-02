@@ -1,0 +1,25 @@
+{
+  "carte": "27098",
+  "name": "Marco",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "visits": 1,
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-08-09",
+      "last_pretty": "09 august 2025"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "carte": "34792",
+  "name": "Schmidt",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-08-31",
+      "last_pretty": "31 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    },
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    }
+  ]
+}

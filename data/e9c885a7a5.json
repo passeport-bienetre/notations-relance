@@ -1,0 +1,19 @@
+{
+  "carte": "35401",
+  "name": "Christine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
+    }
+  ]
+}

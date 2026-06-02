@@ -1,0 +1,53 @@
+{
+  "carte": "30168",
+  "name": "Adélaïde",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2025-09-09",
+      "last_pretty": "09 september 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025"
+    }
+  ]
+}

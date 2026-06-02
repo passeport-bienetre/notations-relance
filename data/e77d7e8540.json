@@ -1,0 +1,13 @@
+{
+  "carte": "34526",
+  "name": "Benedicte",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-03-15",
+      "last_pretty": "15 march 2026"
+    }
+  ]
+}

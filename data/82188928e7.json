@@ -1,0 +1,21 @@
+{
+  "carte": "32394",
+  "name": "Vanessa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

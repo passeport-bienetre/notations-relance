@@ -1,0 +1,49 @@
+{
+  "carte": "31221",
+  "name": "Christelle",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2025-12-17",
+      "last_pretty": "17 december 2025"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-08-25",
+      "last_pretty": "25 august 2025"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
+    }
+  ]
+}

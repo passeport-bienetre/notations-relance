@@ -1,0 +1,20 @@
+{
+  "carte": "36457",
+  "name": "Eva",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    }
+  ]
+}

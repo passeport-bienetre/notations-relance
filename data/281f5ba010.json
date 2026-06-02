@@ -1,0 +1,14 @@
+{
+  "carte": "38212",
+  "name": "Sonia",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-05-08",
+      "last_pretty": "08 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    }
+  ]
+}

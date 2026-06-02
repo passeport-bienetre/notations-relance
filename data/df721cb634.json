@@ -1,0 +1,14 @@
+{
+  "carte": "33229",
+  "name": "Gita",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    }
+  ]
+}

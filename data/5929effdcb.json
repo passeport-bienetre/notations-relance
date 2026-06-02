@@ -1,0 +1,14 @@
+{
+  "carte": "26119",
+  "name": "Matilda",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

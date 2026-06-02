@@ -1,0 +1,21 @@
+{
+  "carte": "34487",
+  "name": "Samira",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    }
+  ]
+}

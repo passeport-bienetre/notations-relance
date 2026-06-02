@@ -1,0 +1,19 @@
+{
+  "carte": "31595",
+  "name": "Céline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-07-28",
+      "last_pretty": "28 july 2025"
+    }
+  ]
+}

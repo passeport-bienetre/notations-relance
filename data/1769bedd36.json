@@ -1,0 +1,13 @@
+{
+  "carte": "34047",
+  "name": "Fanny",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    }
+  ]
+}

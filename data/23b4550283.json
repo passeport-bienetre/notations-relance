@@ -1,0 +1,13 @@
+{
+  "carte": "31012",
+  "name": "Caroline",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "carte": "34068",
+  "name": "Sophie",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "carte": "27011",
+  "name": "Valérie",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-17",
+      "last_pretty": "17 august 2025"
+    },
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "carte": "36741",
+  "name": "Laeticia",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Tifenn",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    }
+  ]
+}

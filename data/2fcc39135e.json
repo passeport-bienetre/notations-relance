@@ -1,0 +1,21 @@
+{
+  "carte": "36768",
+  "name": "tida",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    }
+  ]
+}

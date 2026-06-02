@@ -1,0 +1,14 @@
+{
+  "carte": "30782",
+  "name": "Fanny",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    }
+  ]
+}

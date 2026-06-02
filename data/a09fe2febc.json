@@ -1,0 +1,20 @@
+{
+  "carte": "35741",
+  "name": "Karin",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "ÂM SOEURS",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "25777",
+  "name": "Clémentine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Organik Beauty",
+      "visits": 1,
+      "last": "2025-11-24",
+      "last_pretty": "24 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-11-22",
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    }
+  ]
+}

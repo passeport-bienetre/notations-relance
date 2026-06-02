@@ -1,0 +1,41 @@
+{
+  "carte": "34604",
+  "name": "Céline",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
+    },
+    {
+      "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "31821",
+  "name": "Guillaume",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    }
+  ]
+}

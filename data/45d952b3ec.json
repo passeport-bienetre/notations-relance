@@ -1,0 +1,13 @@
+{
+  "carte": "27205",
+  "name": "Coralie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "carte": "35237",
+  "name": "Martine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "carte": "34447",
+  "name": "Elodie",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025"
+    }
+  ]
+}

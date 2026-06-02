@@ -1,0 +1,31 @@
+{
+  "carte": "34563",
+  "name": "YANA",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
+    },
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2025-11-02",
+      "last_pretty": "02 november 2025"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-01",
+      "last_pretty": "01 august 2025"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "carte": "29212",
+  "name": "Krista",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2026-01-04",
+      "last_pretty": "04 january 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-22",
+      "last_pretty": "22 june 2025"
+    }
+  ]
+}

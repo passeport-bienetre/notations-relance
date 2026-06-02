@@ -1,0 +1,14 @@
+{
+  "carte": "35880",
+  "name": "Frédérique",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Sabaidee",
+      "visits": 1,
+      "last": "2026-03-09",
+      "last_pretty": "09 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sabaidee/"
+    }
+  ]
+}

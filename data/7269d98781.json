@@ -1,0 +1,28 @@
+{
+  "carte": "25619",
+  "name": "France",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    },
+    {
+      "name": "COMME SUR UN NUAGE",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "carte": "34773",
+  "name": "sarah",
+  "nb_estabs": 11,
+  "estabs": [
+    {
+      "name": "Arte Beauty EHL",
+      "visits": 1,
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
+    },
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "Atmosp&rsquo;hair",
+      "visits": 1,
+      "last": "2025-11-15",
+      "last_pretty": "15 november 2025"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
+    },
+    {
+      "name": "Institut Beauté d&rsquo;Or",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025"
+    },
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-08-01",
+      "last_pretty": "01 august 2025"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
+    },
+    {
+      "name": "Institut Orphée",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    }
+  ]
+}

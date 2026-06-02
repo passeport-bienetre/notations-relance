@@ -1,0 +1,14 @@
+{
+  "carte": "39203",
+  "name": "Carol",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    }
+  ]
+}

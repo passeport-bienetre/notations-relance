@@ -1,0 +1,14 @@
+{
+  "carte": "34223",
+  "name": "Carina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "carte": "32407",
+  "name": "Cindy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026"
+    },
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
+    }
+  ]
+}

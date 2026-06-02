@@ -1,0 +1,21 @@
+{
+  "carte": "36058",
+  "name": "Martine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    }
+  ]
+}

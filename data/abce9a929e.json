@@ -1,0 +1,33 @@
+{
+  "carte": "33600",
+  "name": "Karine",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
+    },
+    {
+      "name": "COMME SUR UN NUAGE",
+      "visits": 1,
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+    }
+  ]
+}

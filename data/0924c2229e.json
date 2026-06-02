@@ -1,0 +1,14 @@
+{
+  "carte": "29613",
+  "name": "Angelica",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

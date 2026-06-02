@@ -1,0 +1,25 @@
+{
+  "carte": "34987",
+  "name": "Nancy",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "visits": 1,
+      "last": "2026-03-09",
+      "last_pretty": "09 march 2026"
+    },
+    {
+      "name": "Institut Beauté d&rsquo;Or",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
+    },
+    {
+      "name": "Institut Biotiful",
+      "visits": 1,
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025"
+    }
+  ]
+}

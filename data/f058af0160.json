@@ -1,0 +1,19 @@
+{
+  "carte": "29733",
+  "name": "Yana",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025"
+    },
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-06-09",
+      "last_pretty": "09 june 2025"
+    }
+  ]
+}

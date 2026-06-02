@@ -1,0 +1,37 @@
+{
+  "carte": "30918",
+  "name": "Laurence",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026"
+    },
+    {
+      "name": "Chalet-Hôtel la Marmotte",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
+    },
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
+    }
+  ]
+}

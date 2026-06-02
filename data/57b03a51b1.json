@@ -1,0 +1,19 @@
+{
+  "carte": "34750",
+  "name": "Sarah",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-11",
+      "last_pretty": "11 january 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-10-26",
+      "last_pretty": "26 october 2025"
+    }
+  ]
+}

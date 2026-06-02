@@ -1,0 +1,14 @@
+{
+  "carte": "35812",
+  "name": "Pamela",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "carte": "29006",
+  "name": "vincent",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    }
+  ]
+}

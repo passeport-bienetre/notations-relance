@@ -1,0 +1,21 @@
+{
+  "carte": "31880",
+  "name": "Rose-Marie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2025-11-30",
+      "last_pretty": "30 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    }
+  ]
+}

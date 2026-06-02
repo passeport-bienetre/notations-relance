@@ -1,0 +1,21 @@
+{
+  "carte": "38930",
+  "name": "Eva",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    }
+  ]
+}

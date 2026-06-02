@@ -1,0 +1,25 @@
+{
+  "carte": "31749",
+  "name": "Marie-Lise",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
+    }
+  ]
+}

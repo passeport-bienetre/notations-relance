@@ -1,0 +1,14 @@
+{
+  "carte": "32248",
+  "name": "Anne-Sophie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    }
+  ]
+}

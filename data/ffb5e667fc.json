@@ -1,0 +1,25 @@
+{
+  "carte": "30242",
+  "name": "Ani",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-22",
+      "last_pretty": "22 march 2026"
+    },
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
+    }
+  ]
+}

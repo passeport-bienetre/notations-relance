@@ -1,0 +1,14 @@
+{
+  "carte": "36198",
+  "name": "Michèle",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
+    }
+  ]
+}

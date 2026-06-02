@@ -1,0 +1,27 @@
+{
+  "carte": "25611",
+  "name": "Lindsay",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2026-01-05",
+      "last_pretty": "05 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "26038",
+  "name": "Stéphanie",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
+    }
+  ]
+}

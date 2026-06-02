@@ -1,0 +1,51 @@
+{
+  "carte": "33418",
+  "name": "Roxane",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
+    },
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2026-03-16",
+      "last_pretty": "16 march 2026"
+    },
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-08-30",
+      "last_pretty": "30 august 2025"
+    },
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    }
+  ]
+}

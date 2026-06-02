@@ -1,0 +1,21 @@
+{
+  "carte": "33544",
+  "name": "Camille",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-05-17",
+      "last_pretty": "17 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
+    },
+    {
+      "name": "Hairstudio",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairstudio/"
+    }
+  ]
+}

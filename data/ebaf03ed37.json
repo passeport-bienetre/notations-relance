@@ -1,0 +1,13 @@
+{
+  "carte": "31147",
+  "name": "Thomas",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025"
+    }
+  ]
+}

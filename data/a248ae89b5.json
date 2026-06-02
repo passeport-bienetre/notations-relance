@@ -1,0 +1,20 @@
+{
+  "carte": "34669",
+  "name": "Estelle",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025"
+    }
+  ]
+}

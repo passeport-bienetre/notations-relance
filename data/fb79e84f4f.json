@@ -1,0 +1,43 @@
+{
+  "carte": "30157",
+  "name": "Jenny",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Lumen Spa &#038; Wellness",
+      "visits": 1,
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026"
+    },
+    {
+      "name": "Hôtel &#038; Spa Le National",
+      "visits": 1,
+      "last": "2025-07-27",
+      "last_pretty": "27 july 2025"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
+    },
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "36446",
+  "name": "Elizaveta",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-04-03",
+      "last_pretty": "03 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    }
+  ]
+}

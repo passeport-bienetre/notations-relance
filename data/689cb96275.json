@@ -1,0 +1,14 @@
+{
+  "carte": "36166",
+  "name": "Catia",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Energie Zen",
+      "visits": 1,
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-energie-zen/"
+    }
+  ]
+}

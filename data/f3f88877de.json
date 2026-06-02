@@ -1,0 +1,61 @@
+{
+  "carte": "29110",
+  "name": "Céline",
+  "nb_estabs": 9,
+  "estabs": [
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025"
+    },
+    {
+      "name": "Les Petits Pieds du Bonheur",
+      "visits": 1,
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025"
+    },
+    {
+      "name": "Le Cabinet de Beauté",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
+    },
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025"
+    }
+  ]
+}

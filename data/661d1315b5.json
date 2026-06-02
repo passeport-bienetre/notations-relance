@@ -1,0 +1,28 @@
+{
+  "carte": "31835",
+  "name": "Gwenola",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    }
+  ]
+}

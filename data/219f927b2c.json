@@ -1,0 +1,20 @@
+{
+  "carte": "33909",
+  "name": "Giulia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "carte": "35274",
+  "name": "Salomé",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LES BAINS PUBLICS",
+      "visits": 1,
+      "last": "2026-05-10",
+      "last_pretty": "10 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-18",
+      "last_pretty": "18 november 2025"
+    }
+  ]
+}

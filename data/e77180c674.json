@@ -1,0 +1,19 @@
+{
+  "carte": "36616",
+  "name": "Magali",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
+    }
+  ]
+}

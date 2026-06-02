@@ -1,0 +1,21 @@
+{
+  "carte": "36303",
+  "name": "Valérie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    }
+  ]
+}

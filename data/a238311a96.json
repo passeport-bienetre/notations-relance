@@ -1,0 +1,19 @@
+{
+  "carte": "30592",
+  "name": "Eunsuk",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
+    }
+  ]
+}

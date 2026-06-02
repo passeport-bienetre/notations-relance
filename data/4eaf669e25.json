@@ -1,0 +1,34 @@
+{
+  "carte": "26975",
+  "name": "Beatrice",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-03-18",
+      "last_pretty": "18 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Anzère SPA &#038; Wellness",
+      "visits": 1,
+      "last": "2025-08-11",
+      "last_pretty": "11 august 2025"
+    }
+  ]
+}

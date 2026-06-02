@@ -1,0 +1,14 @@
+{
+  "carte": "39129",
+  "name": "France",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    }
+  ]
+}

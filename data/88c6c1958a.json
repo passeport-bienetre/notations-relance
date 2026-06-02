@@ -1,0 +1,20 @@
+{
+  "carte": "30849",
+  "name": "Caroline",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "The Wax Bar Genève",
+      "visits": 1,
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/"
+    },
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025"
+    }
+  ]
+}

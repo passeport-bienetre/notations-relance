@@ -1,0 +1,19 @@
+{
+  "carte": "29535",
+  "name": "Giuseppa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
+    }
+  ]
+}

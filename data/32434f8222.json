@@ -1,0 +1,61 @@
+{
+  "carte": "25999",
+  "name": "Laurence",
+  "nb_estabs": 8,
+  "estabs": [
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026"
+    },
+    {
+      "name": "Studio Beauté",
+      "visits": 1,
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2026-02-02",
+      "last_pretty": "02 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-01-19",
+      "last_pretty": "19 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
+    },
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-08-04",
+      "last_pretty": "04 august 2025"
+    }
+  ]
+}

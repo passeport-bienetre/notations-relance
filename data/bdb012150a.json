@@ -1,0 +1,20 @@
+{
+  "carte": "35869",
+  "name": "Alissa",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Tifenn",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
+    }
+  ]
+}

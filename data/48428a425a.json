@@ -1,0 +1,14 @@
+{
+  "carte": "31604",
+  "name": "Nawal",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Bal des Créateurs",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
+    }
+  ]
+}

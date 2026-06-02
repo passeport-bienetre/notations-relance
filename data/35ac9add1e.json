@@ -1,0 +1,20 @@
+{
+  "carte": "35931",
+  "name": "Natacha",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Tifenn",
+      "visits": 1,
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
+    },
+    {
+      "name": "Hairstudio",
+      "visits": 1,
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairstudio/"
+    }
+  ]
+}

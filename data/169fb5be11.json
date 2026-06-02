@@ -1,0 +1,20 @@
+{
+  "carte": "32493",
+  "name": "Bernard",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025"
+    }
+  ]
+}

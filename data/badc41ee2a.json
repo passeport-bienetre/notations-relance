@@ -1,0 +1,14 @@
+{
+  "carte": "34543",
+  "name": "annita",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    }
+  ]
+}

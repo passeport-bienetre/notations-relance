@@ -1,0 +1,25 @@
+{
+  "carte": "32326",
+  "name": "monique",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
+    },
+    {
+      "name": "Centre de bien-être J&#038;J",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025"
+    }
+  ]
+}

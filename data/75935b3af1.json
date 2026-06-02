@@ -1,0 +1,21 @@
+{
+  "carte": "31294",
+  "name": "Sandrine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    }
+  ]
+}

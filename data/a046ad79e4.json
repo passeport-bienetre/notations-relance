@@ -1,0 +1,13 @@
+{
+  "carte": "27954",
+  "name": "Vania",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "carte": "31762",
+  "name": "Christine",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-04-02",
+      "last_pretty": "02 april 2026"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
+    },
+    {
+      "name": "Vogue La Coiffure",
+      "visits": 1,
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
+    },
+    {
+      "name": "Fjacco Coiffure",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/fjacco-coiffure/"
+    }
+  ]
+}

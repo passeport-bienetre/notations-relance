@@ -1,0 +1,14 @@
+{
+  "carte": "34565",
+  "name": "Dorothée",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
+}

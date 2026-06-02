@@ -1,0 +1,14 @@
+{
+  "carte": "29227",
+  "name": "Colette",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    }
+  ]
+}

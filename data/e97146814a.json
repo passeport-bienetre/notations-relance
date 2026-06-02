@@ -1,0 +1,25 @@
+{
+  "carte": "36209",
+  "name": "Lou",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "carte": "30484",
+  "name": "JULIA",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026"
+    },
+    {
+      "name": "MYO Style",
+      "visits": 1,
+      "last": "2026-02-24",
+      "last_pretty": "24 february 2026"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
+    },
+    {
+      "name": "Flaventino coiffure Aubonne",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025"
+    },
+    {
+      "name": "Anita Coiffure",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    }
+  ]
+}

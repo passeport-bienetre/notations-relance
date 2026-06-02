@@ -1,0 +1,13 @@
+{
+  "carte": "35145",
+  "name": "Karin",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
+    }
+  ]
+}

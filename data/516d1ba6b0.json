@@ -1,0 +1,13 @@
+{
+  "carte": "30322",
+  "name": "Huguette-Cathy",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Crans Ambassador Spa",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "34452",
+  "name": "Usua",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
+    }
+  ]
+}

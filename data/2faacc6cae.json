@@ -1,0 +1,13 @@
+{
+  "carte": "28890",
+  "name": "Sabrina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
+      "visits": 1,
+      "last": "2025-05-21"
+    }
+  ]
+}

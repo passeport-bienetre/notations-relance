@@ -1,0 +1,19 @@
+{
+  "carte": "31157",
+  "name": "Zoé",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025"
+    }
+  ]
+}

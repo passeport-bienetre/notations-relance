@@ -1,0 +1,33 @@
+{
+  "carte": "34491",
+  "name": "Francesca",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
+    },
+    {
+      "name": "BL Institut",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
+    },
+    {
+      "name": "Guinot Art of Beauty",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
+    }
+  ]
+}

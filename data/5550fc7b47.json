@@ -1,0 +1,14 @@
+{
+  "carte": "35165",
+  "name": "Mariela",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    }
+  ]
+}

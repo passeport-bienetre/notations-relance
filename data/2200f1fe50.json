@@ -1,0 +1,13 @@
+{
+  "carte": "31833",
+  "name": "David",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
+    }
+  ]
+}

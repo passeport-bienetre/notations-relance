@@ -1,0 +1,21 @@
+{
+  "carte": "34954",
+  "name": "Martine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Beauté Bertmans",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
+    },
+    {
+      "name": "Namasté",
+      "visits": 1,
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
+    }
+  ]
+}

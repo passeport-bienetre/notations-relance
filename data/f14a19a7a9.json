@@ -1,0 +1,13 @@
+{
+  "carte": "33143",
+  "name": "Shannon",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "25624",
+  "name": "Ariane",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
+      "visits": 1,
+      "last": "2025-05-26"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
+      "visits": 1,
+      "last": "2025-05-20"
+    }
+  ]
+}

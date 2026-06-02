@@ -1,0 +1,20 @@
+{
+  "carte": "32476",
+  "name": "Maxime",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "27716",
+  "name": "Martine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    }
+  ]
+}

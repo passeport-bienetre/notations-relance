@@ -1,0 +1,31 @@
+{
+  "carte": "34003",
+  "name": "Erifyli",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "MYO Style",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
+    }
+  ]
+}

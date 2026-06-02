@@ -1,0 +1,19 @@
+{
+  "carte": "24867",
+  "name": "Aurelie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
+    }
+  ]
+}

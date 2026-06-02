@@ -1,0 +1,14 @@
+{
+  "carte": "30497",
+  "name": "Brigitte",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/"
+    }
+  ]
+}

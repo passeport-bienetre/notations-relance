@@ -1,0 +1,31 @@
+{
+  "carte": "36650",
+  "name": "Maruschka",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Nail Café",
+      "visits": 1,
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    },
+    {
+      "name": "SUBLIMEYES",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
+    }
+  ]
+}

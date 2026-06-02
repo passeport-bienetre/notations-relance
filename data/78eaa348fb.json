@@ -1,0 +1,27 @@
+{
+  "carte": "33192",
+  "name": "corinne",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    },
+    {
+      "name": "Mon Bonheur Ayurvédique",
+      "visits": 1,
+      "last": "2025-10-09",
+      "last_pretty": "09 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
+    }
+  ]
+}

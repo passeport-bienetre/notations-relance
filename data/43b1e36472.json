@@ -1,0 +1,14 @@
+{
+  "carte": "38384",
+  "name": "Arte",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Tempête de Calme",
+      "visits": 1,
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
+    }
+  ]
+}

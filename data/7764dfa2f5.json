@@ -1,0 +1,20 @@
+{
+  "carte": "36640",
+  "name": "Matteo",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2026-04-02",
+      "last_pretty": "02 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026"
+    }
+  ]
+}

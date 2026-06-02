@@ -1,0 +1,33 @@
+{
+  "carte": "34929",
+  "name": "Diane",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025"
+    },
+    {
+      "name": "The Wax Bar Genève",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
+    }
+  ]
+}

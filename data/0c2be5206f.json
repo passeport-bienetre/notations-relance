@@ -1,0 +1,19 @@
+{
+  "carte": "25909",
+  "name": "Carole",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
+      "visits": 1,
+      "last": "2025-05-31"
+    },
+    {
+      "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
+      "visits": 1,
+      "last": "2025-05-31"
+    }
+  ]
+}

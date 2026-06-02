@@ -1,0 +1,19 @@
+{
+  "carte": "34036",
+  "name": "Christian",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
+    }
+  ]
+}

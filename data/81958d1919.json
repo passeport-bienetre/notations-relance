@@ -1,0 +1,21 @@
+{
+  "carte": "33956",
+  "name": "Lea",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-01-10",
+      "last_pretty": "10 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

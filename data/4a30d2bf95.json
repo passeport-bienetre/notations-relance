@@ -1,0 +1,20 @@
+{
+  "carte": "31567",
+  "name": "Clare",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Studio Beauté",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
+    }
+  ]
+}

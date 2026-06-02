@@ -1,0 +1,34 @@
+{
+  "carte": "31523",
+  "name": "ANAIS",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
+    },
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "carte": "35196",
+  "name": "Yannis",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chandolin Boutique Hôtel",
+      "visits": 1,
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
+    }
+  ]
+}

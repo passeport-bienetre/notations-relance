@@ -1,0 +1,21 @@
+{
+  "carte": "29739",
+  "name": "Justine",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Grand Hôtel du Lac",
+      "visits": 1,
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
+    },
+    {
+      "name": "EssenCiel Institut",
+      "visits": 1,
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/"
+    }
+  ]
+}

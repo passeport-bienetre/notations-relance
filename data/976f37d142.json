@@ -1,0 +1,21 @@
+{
+  "carte": "34621",
+  "name": "Nicolas",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-11-02",
+      "last_pretty": "02 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    }
+  ]
+}

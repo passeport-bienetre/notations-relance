@@ -1,0 +1,13 @@
+{
+  "carte": "35132",
+  "name": "Juana",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "19th AVENUE &#8211; Versonnex",
+      "visits": 1,
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "carte": "35360",
+  "name": "Ya",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Tempête de Calme",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
+    },
+    {
+      "name": "BEAUTY CONCEPT PULLY",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    }
+  ]
+}

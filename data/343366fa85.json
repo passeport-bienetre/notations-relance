@@ -1,0 +1,13 @@
+{
+  "carte": "27183",
+  "name": "Solenne",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-07",
+      "last_pretty": "07 july 2025"
+    }
+  ]
+}

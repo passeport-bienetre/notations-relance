@@ -1,0 +1,42 @@
+{
+  "carte": "29211",
+  "name": "Caroline",
+  "nb_estabs": 5,
+  "estabs": [
+    {
+      "name": "Karré Long",
+      "visits": 1,
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
+    },
+    {
+      "name": "Signature Coiffure",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2025-06-21",
+      "last_pretty": "21 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/"
+    }
+  ]
+}

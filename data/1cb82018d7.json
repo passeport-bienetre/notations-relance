@@ -1,0 +1,20 @@
+{
+  "carte": "32355",
+  "name": "Dorothée",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026"
+    }
+  ]
+}

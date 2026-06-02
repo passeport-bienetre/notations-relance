@@ -1,0 +1,19 @@
+{
+  "carte": "31039",
+  "name": "Geoffrey",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2026-05-18",
+      "last_pretty": "18 may 2026"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
+    }
+  ]
+}

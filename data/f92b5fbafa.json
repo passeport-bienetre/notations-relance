@@ -1,0 +1,19 @@
+{
+  "carte": "30166",
+  "name": "Rachel",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
+    }
+  ]
+}

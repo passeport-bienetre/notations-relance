@@ -1,0 +1,49 @@
+{
+  "carte": "34196",
+  "name": "Christine",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "visits": 1,
+      "last": "2026-03-11",
+      "last_pretty": "11 march 2026"
+    },
+    {
+      "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "visits": 1,
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-09-16",
+      "last_pretty": "16 september 2025"
+    },
+    {
+      "name": "Hôtel Royal",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
+    },
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
+    }
+  ]
+}

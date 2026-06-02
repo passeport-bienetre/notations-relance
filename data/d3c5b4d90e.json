@@ -1,0 +1,27 @@
+{
+  "carte": "36893",
+  "name": "Anne",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Studio Beauté",
+      "visits": 1,
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "36752",
+  "name": "Amandine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Espace Beauté Harmonie",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/"
+    }
+  ]
+}

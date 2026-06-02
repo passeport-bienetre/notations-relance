@@ -1,0 +1,19 @@
+{
+  "carte": "36239",
+  "name": "Nicolas",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
+    },
+    {
+      "name": "Intuition Massage",
+      "visits": 1,
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026"
+    }
+  ]
+}

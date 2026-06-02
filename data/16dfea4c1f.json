@@ -1,0 +1,45 @@
+{
+  "carte": "39073",
+  "name": "Morgan",
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "EUROPE ZERMATT HÔTEL",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
+    },
+    {
+      "name": "Sawatdee Temple",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "LE ST-GERVAIS HÔTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
+    },
+    {
+      "name": "LAUSANNE PALACE",
+      "visits": 1,
+      "last": "2025-11-18",
+      "last_pretty": "18 november 2025"
+    },
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-15",
+      "last_pretty": "15 november 2025"
+    }
+  ]
+}

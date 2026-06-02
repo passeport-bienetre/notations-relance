@@ -1,0 +1,20 @@
+{
+  "carte": "27157",
+  "name": "Kayole",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025"
+    }
+  ]
+}

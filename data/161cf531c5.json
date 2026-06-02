@@ -1,0 +1,20 @@
+{
+  "carte": "22096",
+  "name": "Ana",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
+    }
+  ]
+}

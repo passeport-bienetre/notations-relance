@@ -1,0 +1,20 @@
+{
+  "carte": "38402",
+  "name": "jessica",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Sabrina",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    }
+  ]
+}

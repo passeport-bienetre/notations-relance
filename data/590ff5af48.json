@@ -1,0 +1,14 @@
+{
+  "carte": "33957",
+  "name": "Alexandre",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    }
+  ]
+}

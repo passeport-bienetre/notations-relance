@@ -1,0 +1,35 @@
+{
+  "carte": "31684",
+  "name": "Djahida",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Tête à Clak",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "carte": "35392",
+  "name": "Marielaure",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "W Verbier",
+      "visits": 1,
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
+    }
+  ]
+}

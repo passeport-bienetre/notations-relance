@@ -1,0 +1,14 @@
+{
+  "carte": "36292",
+  "name": "Shaï",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "The Wax Bar Genève",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/"
+    }
+  ]
+}

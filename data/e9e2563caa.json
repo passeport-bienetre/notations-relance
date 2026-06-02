@@ -1,0 +1,19 @@
+{
+  "carte": "33579",
+  "name": "Charlotte",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
+    },
+    {
+      "name": "Europe Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
+    }
+  ]
+}

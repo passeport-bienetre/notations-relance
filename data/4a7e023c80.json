@@ -1,0 +1,13 @@
+{
+  "carte": "34318",
+  "name": "Assuntina",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
+    }
+  ]
+}

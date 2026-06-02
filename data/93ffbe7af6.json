@@ -1,0 +1,21 @@
+{
+  "carte": "36688",
+  "name": "Corinne",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    },
+    {
+      "name": "JOIA LAUSANNE",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
+    }
+  ]
+}

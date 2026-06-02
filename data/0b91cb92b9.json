@@ -1,0 +1,20 @@
+{
+  "carte": "34430",
+  "name": "Stéphanie",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
+    },
+    {
+      "name": "Chandolin Boutique Hôtel",
+      "visits": 1,
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
+    }
+  ]
+}

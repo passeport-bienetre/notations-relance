@@ -1,0 +1,13 @@
+{
+  "carte": "36585",
+  "name": "Lei",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "RUBIS SPA",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
+    }
+  ]
+}

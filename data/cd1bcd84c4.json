@@ -1,0 +1,28 @@
+{
+  "carte": "34041",
+  "name": "Ekaterina",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-23",
+      "last_pretty": "23 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Les Sources des Alpes",
+      "visits": 1,
+      "last": "2025-11-11",
+      "last_pretty": "11 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "carte": "34392",
+  "name": "Cristel",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    }
+  ]
+}

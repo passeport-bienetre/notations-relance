@@ -1,0 +1,19 @@
+{
+  "carte": "33651",
+  "name": "Bastien",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
+    }
+  ]
+}

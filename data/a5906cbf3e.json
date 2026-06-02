@@ -1,0 +1,54 @@
+{
+  "carte": "30348",
+  "name": "Ilaria",
+  "nb_estabs": 7,
+  "estabs": [
+    {
+      "name": "LA SUITE COIFFURE",
+      "visits": 1,
+      "last": "2026-01-20",
+      "last_pretty": "20 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
+    },
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
+    },
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    }
+  ]
+}

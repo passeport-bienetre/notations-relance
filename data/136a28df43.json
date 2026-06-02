@@ -1,0 +1,26 @@
+{
+  "carte": "30234",
+  "name": "Jasmine",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-08-05",
+      "last_pretty": "05 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025"
+    }
+  ]
+}

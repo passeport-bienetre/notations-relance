@@ -1,0 +1,19 @@
+{
+  "carte": "34379",
+  "name": "Sarah",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026"
+    },
+    {
+      "name": "Akyado Genève Centre",
+      "visits": 1,
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025"
+    }
+  ]
+}

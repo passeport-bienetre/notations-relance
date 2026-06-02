@@ -1,0 +1,20 @@
+{
+  "carte": "35905",
+  "name": "Cynthia",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
+    },
+    {
+      "name": "Nueva Luna Yoga",
+      "visits": 1,
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/"
+    }
+  ]
+}

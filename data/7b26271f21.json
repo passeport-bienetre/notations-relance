@@ -1,0 +1,20 @@
+{
+  "carte": "35937",
+  "name": "sara",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Les Vagabondes",
+      "visits": 1,
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026"
+    }
+  ]
+}

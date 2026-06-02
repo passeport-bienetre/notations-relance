@@ -1,0 +1,21 @@
+{
+  "carte": "38556",
+  "name": "Mireille",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "COMME SUR UN NUAGE",
+      "visits": 1,
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    }
+  ]
+}

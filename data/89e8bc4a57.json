@@ -1,0 +1,14 @@
+{
+  "carte": "34940",
+  "name": "Karine",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Simple Passion",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/simple-passion/"
+    }
+  ]
+}

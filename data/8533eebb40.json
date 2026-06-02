@@ -1,0 +1,21 @@
+{
+  "carte": "33777",
+  "name": "Marina",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    }
+  ]
+}

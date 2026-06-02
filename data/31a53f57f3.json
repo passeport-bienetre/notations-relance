@@ -1,0 +1,33 @@
+{
+  "carte": "33313",
+  "name": "Cecile",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-31",
+      "last_pretty": "31 may 2026"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Royal Savoy Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025"
+    }
+  ]
+}

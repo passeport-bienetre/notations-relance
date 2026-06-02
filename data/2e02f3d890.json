@@ -1,0 +1,27 @@
+{
+  "carte": "30754",
+  "name": "Maria",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    },
+    {
+      "name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "visits": 1,
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    },
+    {
+      "name": "JOIA NEUCHATEL",
+      "visits": 1,
+      "last": "2025-09-10",
+      "last_pretty": "10 september 2025"
+    }
+  ]
+}

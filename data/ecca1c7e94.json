@@ -1,0 +1,31 @@
+{
+  "carte": "30191",
+  "name": "Nadia",
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
+    }
+  ]
+}

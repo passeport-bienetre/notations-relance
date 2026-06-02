@@ -1,0 +1,19 @@
+{
+  "carte": "34111",
+  "name": "Philippe",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
+    },
+    {
+      "name": "Hôtel de Rougemont &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-14",
+      "last_pretty": "14 september 2025"
+    }
+  ]
+}

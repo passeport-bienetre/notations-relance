@@ -1,0 +1,28 @@
+{
+  "carte": "33394",
+  "name": "Magali",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Experimental Chalet",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
+    },
+    {
+      "name": "Luna aesthetic",
+      "visits": 1,
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
+    }
+  ]
+}

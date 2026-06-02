@@ -1,0 +1,19 @@
+{
+  "carte": "33538",
+  "name": "Angélique",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026"
+    },
+    {
+      "name": "Beauty Concept Vevey",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
+    }
+  ]
+}

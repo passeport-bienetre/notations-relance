@@ -1,0 +1,14 @@
+{
+  "carte": "39554",
+  "name": "Barbara",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
+    }
+  ]
+}

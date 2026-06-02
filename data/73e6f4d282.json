@@ -1,0 +1,21 @@
+{
+  "carte": "30330",
+  "name": "Monica",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Origin Float Spa",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
+    },
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "carte": "35153",
+  "name": "Melissa",
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-03-18",
+      "last_pretty": "18 march 2026"
+    },
+    {
+      "name": "Urban Spa",
+      "visits": 1,
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
+    }
+  ]
+}

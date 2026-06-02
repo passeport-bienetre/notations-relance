@@ -1,0 +1,14 @@
+{
+  "carte": "25314",
+  "name": "Emma",
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "MYO Style",
+      "visits": 1,
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/"
+    }
+  ]
+}

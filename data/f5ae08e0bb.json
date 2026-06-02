@@ -1,0 +1,19 @@
+{
+  "carte": "34237",
+  "name": "Nadim",
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-11-11",
+      "last_pretty": "11 november 2025"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025"
+    }
+  ]
+}
