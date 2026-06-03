@@ -1,6 +1,35 @@
 {
   "carte": "25179",
   "name": "Nadège",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Les Sources du Chéry",
+      "visits": 1,
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
+    },
+    {
+      "name": "Le St-Gervais Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-18",
+      "last_pretty": "18 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
+    },
+    {
+      "name": "Chalet-Hôtel la Marmotte",
+      "visits": 1,
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
+    }
+  ]
 }

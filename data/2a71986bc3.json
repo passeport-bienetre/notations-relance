@@ -1,6 +1,14 @@
 {
   "carte": "31554",
   "name": "Marie-Madeleine",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
+    }
+  ]
 }

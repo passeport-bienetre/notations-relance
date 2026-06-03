@@ -1,6 +1,21 @@
 {
   "carte": "29356",
   "name": "LeighAnn",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
+    },
+    {
+      "name": "Amiia Clinique",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
+    }
+  ]
 }

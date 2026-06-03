@@ -1,6 +1,27 @@
 {
   "carte": "27226",
   "name": "Annelyse",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Institut Orphée",
+      "visits": 1,
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025"
+    },
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/"
+    }
+  ]
 }

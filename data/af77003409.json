@@ -1,6 +1,21 @@
 {
   "carte": "29676",
   "name": "Rim",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Origin Float Spa",
+      "visits": 1,
+      "last": "2025-06-08",
+      "last_pretty": "08 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    }
+  ]
 }

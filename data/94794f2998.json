@@ -1,6 +1,28 @@
 {
   "carte": "26916",
   "name": "Stessi",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-09-28",
+      "last_pretty": "28 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
+    },
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    }
+  ]
 }

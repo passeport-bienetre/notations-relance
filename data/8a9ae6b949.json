@@ -1,6 +1,21 @@
 {
   "carte": "26421",
   "name": "Hélène",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "visits": 1,
+      "last": "2025-08-09",
+      "last_pretty": "09 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
+    }
+  ]
 }

@@ -1,6 +1,21 @@
 {
   "carte": "34295",
   "name": "Raphaël",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "visits": 1,
+      "last": "2025-12-15",
+      "last_pretty": "15 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
+    }
+  ]
 }

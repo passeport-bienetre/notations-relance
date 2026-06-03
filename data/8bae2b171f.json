@@ -1,6 +1,35 @@
 {
   "carte": "30517",
   "name": "Brenna",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "AVEDA VIEILLE-VILLE",
+      "visits": 1,
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-08-17",
+      "last_pretty": "17 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
 }

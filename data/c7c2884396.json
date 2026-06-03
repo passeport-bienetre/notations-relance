@@ -1,6 +1,21 @@
 {
   "carte": "31351",
   "name": "Anne",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-11-09",
+      "last_pretty": "09 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
+    }
+  ]
 }

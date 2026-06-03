@@ -1,6 +1,28 @@
 {
   "carte": "26512",
   "name": "Lisette",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
+    },
+    {
+      "name": "Salon Privé Chailly",
+      "visits": 1,
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
+    }
+  ]
 }

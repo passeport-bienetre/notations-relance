@@ -1,6 +1,28 @@
 {
   "carte": "33215",
   "name": "Giu",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-09",
+      "last_pretty": "09 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
+    },
+    {
+      "name": "Institut Guinot",
+      "visits": 1,
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
+    }
+  ]
 }

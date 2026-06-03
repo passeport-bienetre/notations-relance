@@ -1,6 +1,21 @@
 {
   "carte": "25771",
   "name": "Correze",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-12",
+      "last_pretty": "12 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
+    }
+  ]
 }

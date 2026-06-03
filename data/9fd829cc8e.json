@@ -1,6 +1,28 @@
 {
   "carte": "34974",
   "name": "Jennifer",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    },
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2025-08-16",
+      "last_pretty": "16 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-06-29",
+      "last_pretty": "29 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
+    }
+  ]
 }

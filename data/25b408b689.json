@@ -1,6 +1,21 @@
 {
   "carte": "28201",
   "name": "Elodie",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
+    },
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    }
+  ]
 }

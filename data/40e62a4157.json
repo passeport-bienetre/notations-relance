@@ -1,6 +1,14 @@
 {
   "carte": "26070",
   "name": "Joelle",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "La VILLA Kobido et Massage",
+      "visits": 1,
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/"
+    }
+  ]
 }

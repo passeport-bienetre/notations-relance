@@ -1,6 +1,21 @@
 {
   "carte": "30170",
   "name": "Eleonore",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Ipanema Beauté",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
+    },
+    {
+      "name": "So Hair",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
+    }
+  ]
 }

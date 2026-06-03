@@ -1,6 +1,14 @@
 {
   "carte": "33821",
   "name": "Vanesa",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Le Beausquet Genève",
+      "visits": 1,
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
+    }
+  ]
 }

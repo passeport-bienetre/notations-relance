@@ -1,6 +1,33 @@
 {
   "carte": "30466",
   "name": "Caroline",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
+    },
+    {
+      "name": "Institut Kaori",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
+    },
+    {
+      "name": "Institut Beauté d&rsquo;Or",
+      "visits": 1,
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
+    }
+  ]
 }

@@ -1,6 +1,34 @@
 {
   "carte": "33841",
   "name": "Gerard",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
+    },
+    {
+      "name": "Le Mirador Resort &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
+    }
+  ]
 }

@@ -1,6 +1,28 @@
 {
   "carte": "29226",
   "name": "Sinem",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "NUANCES NATURE",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
+    },
+    {
+      "name": "Damien &#038; Co",
+      "visits": 1,
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/damien-co-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
+    }
+  ]
 }

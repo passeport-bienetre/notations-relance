@@ -1,6 +1,20 @@
 {
   "carte": "28547",
   "name": "Myriam",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026"
+    },
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    }
+  ]
 }

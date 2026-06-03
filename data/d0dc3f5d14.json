@@ -1,6 +1,14 @@
 {
   "carte": "26566",
   "name": "Nicole",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Arte Beauty EPFL",
+      "visits": 1,
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
+    }
+  ]
 }

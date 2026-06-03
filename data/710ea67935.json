@@ -1,6 +1,28 @@
 {
   "carte": "29316",
   "name": "Laura",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "ERINGER INSTITUT",
+      "visits": 1,
+      "last": "2025-10-09",
+      "last_pretty": "09 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
+    },
+    {
+      "name": "Flocoon Spa Cinq Mondes",
+      "visits": 1,
+      "last": "2025-09-01",
+      "last_pretty": "01 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
+    },
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+    }
+  ]
 }

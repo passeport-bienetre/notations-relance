@@ -1,6 +1,14 @@
 {
   "carte": "28235",
   "name": "Stéphanie",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "KASA AMO",
+      "visits": 1,
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
+    }
+  ]
 }

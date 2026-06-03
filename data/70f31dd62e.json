@@ -1,6 +1,21 @@
 {
   "carte": "31664",
   "name": "Ines",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "COMME SUR UN NUAGE",
+      "visits": 1,
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
+    },
+    {
+      "name": "CS Caro Création Studio",
+      "visits": 1,
+      "last": "2025-09-10",
+      "last_pretty": "10 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
+    }
+  ]
 }

@@ -1,6 +1,26 @@
 {
   "carte": "33030",
   "name": "Marine",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
+    },
+    {
+      "name": "Nirvana Spa",
+      "visits": 1,
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
+    },
+    {
+      "name": "Institut Osmose",
+      "visits": 1,
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
+    }
+  ]
 }

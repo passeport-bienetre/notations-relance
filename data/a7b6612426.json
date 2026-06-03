@@ -1,6 +1,35 @@
 {
   "carte": "31755",
   "name": "Florence",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "Institut Orphée",
+      "visits": 1,
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "visits": 1,
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
+    },
+    {
+      "name": "Eveil des Sens",
+      "visits": 1,
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/eveil-des-sens-3/"
+    },
+    {
+      "name": "LES TRESOMS",
+      "visits": 1,
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
+    }
+  ]
 }

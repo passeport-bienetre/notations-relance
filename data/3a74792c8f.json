@@ -1,6 +1,21 @@
 {
   "carte": "33723",
   "name": "Tamara",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2025-10-07",
+      "last_pretty": "07 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
+    }
+  ]
 }

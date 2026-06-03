@@ -1,6 +1,14 @@
 {
   "carte": "30821",
   "name": "Milena",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
+    }
+  ]
 }

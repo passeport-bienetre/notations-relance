@@ -1,6 +1,14 @@
 {
   "carte": "25079",
   "name": "Cindy",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Maison Perle",
+      "visits": 1,
+      "last": "2025-09-30",
+      "last_pretty": "30 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
+    }
+  ]
 }

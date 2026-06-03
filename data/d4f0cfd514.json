@@ -1,6 +1,14 @@
 {
   "carte": "33025",
   "name": "Adelina",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
 }

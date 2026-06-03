@@ -1,6 +1,48 @@
 {
   "carte": "25340",
   "name": "Asha",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 6,
+  "estabs": [
+    {
+      "name": "LA SUITE COIFFURE",
+      "visits": 1,
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/"
+    },
+    {
+      "name": "Parallèles Coiffure",
+      "visits": 1,
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
+    },
+    {
+      "name": "BEAUTY B",
+      "visits": 1,
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025"
+    },
+    {
+      "name": "La Coifferie",
+      "visits": 1,
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2025-07-01",
+      "last_pretty": "01 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
+    }
+  ]
 }

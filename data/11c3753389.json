@@ -1,6 +1,14 @@
 {
   "carte": "33644",
   "name": "Sandra",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Altitude by Garance",
+      "visits": 1,
+      "last": "2025-08-05",
+      "last_pretty": "05 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
+    }
+  ]
 }

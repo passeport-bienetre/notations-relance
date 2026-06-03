@@ -1,6 +1,14 @@
 {
   "carte": "28083",
   "name": "eun suk",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
+    }
+  ]
 }

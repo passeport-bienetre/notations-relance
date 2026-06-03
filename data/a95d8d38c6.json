@@ -1,6 +1,21 @@
 {
   "carte": "31973",
   "name": "Sandrine (Alfredo)",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Thai Corner",
+      "visits": 1,
+      "last": "2025-11-22",
+      "last_pretty": "22 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
+    },
+    {
+      "name": "Saai Nam Massage &#8211; Manor",
+      "visits": 1,
+      "last": "2025-11-15",
+      "last_pretty": "15 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
+    }
+  ]
 }

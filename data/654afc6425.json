@@ -1,6 +1,27 @@
 {
   "carte": "27033",
   "name": "Amandine",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Bains d&rsquo;Ovronnaz",
+      "visits": 1,
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/"
+    },
+    {
+      "name": "Institut Sirène",
+      "visits": 1,
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
+    },
+    {
+      "name": "Fairmont le Montreux Palace",
+      "visits": 1,
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025"
+    }
+  ]
 }

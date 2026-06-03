@@ -1,6 +1,27 @@
 {
   "carte": "33530",
   "name": "Nathy",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-02-02",
+      "last_pretty": "02 february 2026"
+    },
+    {
+      "name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "visits": 1,
+      "last": "2026-02-02",
+      "last_pretty": "02 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/"
+    }
+  ]
 }

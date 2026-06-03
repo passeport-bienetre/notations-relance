@@ -1,6 +1,21 @@
 {
   "carte": "27237",
   "name": "Sandra",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Altitude by Garance",
+      "visits": 1,
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2025-08-16",
+      "last_pretty": "16 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/"
+    }
+  ]
 }

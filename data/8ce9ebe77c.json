@@ -1,6 +1,21 @@
 {
   "carte": "31317",
   "name": "Renate",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "Chalet Royalp Hôtel &#038; Spa",
+      "visits": 1,
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2025-09-01",
+      "last_pretty": "01 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
+    }
+  ]
 }

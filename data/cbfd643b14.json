@@ -1,6 +1,35 @@
 {
   "carte": "25158",
   "name": "manon",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 4,
+  "estabs": [
+    {
+      "name": "SAKURA LAB",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
+    },
+    {
+      "name": "Wulan Studio",
+      "visits": 1,
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/"
+    },
+    {
+      "name": "Origin Float Spa",
+      "visits": 1,
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
+    },
+    {
+      "name": "BLISS",
+      "visits": 1,
+      "last": "2025-08-26",
+      "last_pretty": "26 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
+    }
+  ]
 }

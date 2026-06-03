@@ -1,6 +1,14 @@
 {
   "carte": "34005",
   "name": "Claudine",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 1,
+  "estabs": [
+    {
+      "name": "EssenCiel Institut",
+      "visits": 1,
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/"
+    }
+  ]
 }

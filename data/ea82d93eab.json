@@ -1,6 +1,27 @@
 {
   "carte": "27037",
   "name": "Emilie",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 3,
+  "estabs": [
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
+    },
+    {
+      "name": "Institut ZenSkin",
+      "visits": 1,
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
+    }
+  ]
 }

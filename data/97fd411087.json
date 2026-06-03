@@ -1,6 +1,21 @@
 {
   "carte": "31980",
   "name": "Nicole",
-  "nb_estabs": 0,
-  "estabs": []
+  "nb_estabs": 2,
+  "estabs": [
+    {
+      "name": "LECRANS HOTEL &#038; SPA",
+      "visits": 1,
+      "last": "2025-08-18",
+      "last_pretty": "18 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
+    },
+    {
+      "name": "Hairmania",
+      "visits": 1,
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
+    }
+  ]
 }
