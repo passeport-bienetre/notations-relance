@@ -1,56 +1,6 @@
 {
   "carte": "34130",
   "name": "Fanny",
-  "nb_estabs": 7,
-  "estabs": [
-    {
-      "name": "NUANCES NATURE",
-      "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
-    },
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-10-16",
-      "last_pretty": "16 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    },
-    {
-      "name": "GLOW IN GENEVA",
-      "visits": 1,
-      "last": "2025-09-04",
-      "last_pretty": "04 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
-    },
-    {
-      "name": "So Beauty Home",
-      "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
-    },
-    {
-      "name": "Wulan Studio",
-      "visits": 1,
-      "last": "2025-08-05",
-      "last_pretty": "05 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/wulan-studio/"
-    },
-    {
-      "name": "Blossom Institut",
-      "visits": 1,
-      "last": "2025-07-29",
-      "last_pretty": "29 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
-    },
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

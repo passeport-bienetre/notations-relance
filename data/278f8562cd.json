@@ -1,14 +1,6 @@
 {
   "carte": "31985",
   "name": "vICTORIA",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Les Vagabondes",
-      "visits": 1,
-      "last": "2025-08-06",
-      "last_pretty": "06 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

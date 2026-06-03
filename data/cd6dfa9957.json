@@ -1,41 +1,6 @@
 {
   "carte": "30379",
   "name": "Laura",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "LA SUITE COIFFURE",
-      "visits": 1,
-      "last": "2026-03-28",
-      "last_pretty": "28 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/"
-    },
-    {
-      "name": "ÂM SOEURS",
-      "visits": 1,
-      "last": "2026-02-17",
-      "last_pretty": "17 february 2026"
-    },
-    {
-      "name": "NUANCES NATURE",
-      "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
-    },
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    },
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

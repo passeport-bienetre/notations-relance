@@ -1,28 +1,6 @@
 {
   "carte": "30174",
   "name": "Charlotte",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Atmosp&rsquo;hair",
-      "visits": 1,
-      "last": "2025-09-09",
-      "last_pretty": "09 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/atmosphair/"
-    },
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    },
-    {
-      "name": "Institut Bienitude &#038; Bienitude Natura",
-      "visits": 1,
-      "last": "2025-06-18",
-      "last_pretty": "18 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

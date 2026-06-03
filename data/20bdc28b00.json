@@ -1,28 +1,6 @@
 {
   "carte": "26936",
   "name": "Elisabeth",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-12-02",
-      "last_pretty": "02 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "EssenCiel Institut",
-      "visits": 1,
-      "last": "2025-09-16",
-      "last_pretty": "16 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/"
-    },
-    {
-      "name": "Les Sources des Alpes",
-      "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

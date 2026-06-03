@@ -1,42 +1,6 @@
 {
   "carte": "33927",
   "name": "Marina",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "Namasté",
-      "visits": 1,
-      "last": "2025-12-02",
-      "last_pretty": "02 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/namaste/"
-    },
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2025-11-26",
-      "last_pretty": "26 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-18",
-      "last_pretty": "18 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-13",
-      "last_pretty": "13 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,21 +1,6 @@
 {
   "carte": "31506",
   "name": "Pauline",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Le Passage",
-      "visits": 1,
-      "last": "2025-10-18",
-      "last_pretty": "18 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-passage/"
-    },
-    {
-      "name": "Urban Spa",
-      "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/urban-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

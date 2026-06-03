@@ -1,14 +1,6 @@
 {
   "carte": "31646",
   "name": "Claire",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "ALEX COIFFURE SARL",
-      "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,21 +1,6 @@
 {
   "carte": "33994",
   "name": "Alienor",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Origin Float Spa",
-      "visits": 1,
-      "last": "2025-12-12",
-      "last_pretty": "12 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
-    },
-    {
-      "name": "La Coifferie",
-      "visits": 1,
-      "last": "2025-06-28",
-      "last_pretty": "28 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

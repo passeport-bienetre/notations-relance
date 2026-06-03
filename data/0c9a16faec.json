@@ -1,28 +1,6 @@
 {
   "carte": "30290",
   "name": "Chloé",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-09-25",
-      "last_pretty": "25 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    },
-    {
-      "name": "Sawatdee Temple",
-      "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
-    },
-    {
-      "name": "Sawatdee Delices",
-      "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

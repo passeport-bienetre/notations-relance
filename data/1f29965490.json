@@ -1,41 +1,6 @@
 {
   "carte": "28185",
   "name": "Sonia",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "ERINGER INSTITUT",
-      "visits": 1,
-      "last": "2025-08-01",
-      "last_pretty": "01 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
-    },
-    {
-      "name": "Tête à Clak",
-      "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
-    },
-    {
-      "name": "Fairmont le Montreux Palace",
-      "visits": 1,
-      "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-06-17",
-      "last_pretty": "17 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Signature Coiffure",
-      "visits": 1,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

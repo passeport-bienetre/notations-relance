@@ -1,42 +1,6 @@
 {
   "carte": "31323",
   "name": "Kate",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "SUBLIMEYES",
-      "visits": 1,
-      "last": "2026-01-21",
-      "last_pretty": "21 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
-    },
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2026-01-17",
-      "last_pretty": "17 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    },
-    {
-      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "visits": 1,
-      "last": "2026-01-14",
-      "last_pretty": "14 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-10-22",
-      "last_pretty": "22 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "Saai Nam Massage &#8211; Manor",
-      "visits": 1,
-      "last": "2025-09-12",
-      "last_pretty": "12 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

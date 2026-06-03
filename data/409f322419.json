@@ -1,49 +1,6 @@
 {
   "carte": "30332",
   "name": "Daniela",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "FLEUR D’EPIDERME",
-      "visits": 1,
-      "last": "2026-04-17",
-      "last_pretty": "17 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
-    },
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2026-04-17",
-      "last_pretty": "17 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    },
-    {
-      "name": "LAURA COIFFEUSE PRIVÉE",
-      "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
-    },
-    {
-      "name": "Institut Beauté Bertmans",
-      "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
-    },
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    },
-    {
-      "name": "Le Passage",
-      "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-passage/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

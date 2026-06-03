@@ -1,35 +1,6 @@
 {
   "carte": "29326",
-  "name": "Rosa",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "CJ Coiffure",
-      "visits": 1,
-      "last": "2025-08-28",
-      "last_pretty": "28 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
-    },
-    {
-      "name": "Nail Café",
-      "visits": 1,
-      "last": "2025-08-27",
-      "last_pretty": "27 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
-    },
-    {
-      "name": "Odyssée Santé &#038; Beauté",
-      "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/"
-    },
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    }
-  ]
+  "name": "Rosa Lia",
+  "nb_estabs": 0,
+  "estabs": []
 }

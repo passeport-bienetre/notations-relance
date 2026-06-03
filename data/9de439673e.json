@@ -1,14 +1,6 @@
 {
   "carte": "30135",
   "name": "Alienor",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Skin Solution",
-      "visits": 1,
-      "last": "2025-08-09",
-      "last_pretty": "09 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

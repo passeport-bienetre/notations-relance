@@ -1,14 +1,6 @@
 {
   "carte": "33616",
   "name": "Sarah",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

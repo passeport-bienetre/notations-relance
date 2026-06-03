@@ -1,20 +1,6 @@
 {
   "carte": "31909",
   "name": "Veronique",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Maison Perle",
-      "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-07-12",
-      "last_pretty": "12 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

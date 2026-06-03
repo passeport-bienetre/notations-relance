@@ -1,14 +1,6 @@
 {
   "carte": "33237",
   "name": "Luisa",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "So Hair",
-      "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

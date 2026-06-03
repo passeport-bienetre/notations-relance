@@ -1,14 +1,6 @@
 {
   "carte": "27204",
   "name": "Sarah",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Swiss Aesthetica",
-      "visits": 1,
-      "last": "2025-07-03",
-      "last_pretty": "03 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

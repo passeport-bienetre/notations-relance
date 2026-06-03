@@ -1,48 +1,6 @@
 {
   "carte": "25911",
   "name": "Lorraine",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Salon Privé Ecublens",
-      "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
-    },
-    {
-      "name": "Institut ZenSkin",
-      "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
-    },
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    },
-    {
-      "name": "Maison Perle",
-      "visits": 1,
-      "last": "2025-07-19",
-      "last_pretty": "19 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
-    },
-    {
-      "name": "Swiss Aesthetica",
-      "visits": 1,
-      "last": "2025-07-19",
-      "last_pretty": "19 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

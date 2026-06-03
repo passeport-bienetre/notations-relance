@@ -1,21 +1,6 @@
 {
   "carte": "29719",
   "name": "Danaé",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Institut Sakora",
-      "visits": 1,
-      "last": "2025-09-23",
-      "last_pretty": "23 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-07-15",
-      "last_pretty": "15 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

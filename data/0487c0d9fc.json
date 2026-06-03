@@ -1,13 +1,6 @@
 {
   "carte": "25592",
-  "name": "Ana",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Institut Beauté d&rsquo;Or",
-      "visits": 1,
-      "last": "2026-02-07",
-      "last_pretty": "07 february 2026"
-    }
-  ]
+  "name": "Ana Rita",
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,21 +1,6 @@
 {
   "carte": "33545",
   "name": "yolanda",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "LECRANS HOTEL &#038; SPA",
-      "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
-    },
-    {
-      "name": "ERINGER INSTITUT",
-      "visits": 1,
-      "last": "2025-10-14",
-      "last_pretty": "14 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

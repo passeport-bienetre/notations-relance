@@ -1,21 +1,6 @@
 {
   "carte": "28722",
   "name": "Philippe",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Chalet Royalp Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-08-08",
-      "last_pretty": "08 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
-    },
-    {
-      "name": "Swiss Aesthetica",
-      "visits": 1,
-      "last": "2025-06-21",
-      "last_pretty": "21 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

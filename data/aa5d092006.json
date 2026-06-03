@@ -1,14 +1,6 @@
 {
   "carte": "29600",
   "name": "Lucile",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "La VILLA Kobido et Massage",
-      "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/la-villa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

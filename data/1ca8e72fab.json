@@ -1,14 +1,6 @@
 {
   "carte": "31706",
   "name": "Sarah",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "LES BAINS PUBLICS",
-      "visits": 1,
-      "last": "2026-01-28",
-      "last_pretty": "28 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

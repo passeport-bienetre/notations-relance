@@ -1,34 +1,6 @@
 {
   "carte": "29066",
   "name": "Delphine",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Organik Beauty",
-      "visits": 1,
-      "last": "2025-12-27",
-      "last_pretty": "27 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
-    },
-    {
-      "name": "Fairmont le Montreux Palace",
-      "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-13",
-      "last_pretty": "13 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

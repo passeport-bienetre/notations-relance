@@ -1,28 +1,6 @@
 {
   "carte": "30139",
   "name": "Olivia",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Studio Beauté",
-      "visits": 1,
-      "last": "2025-10-30",
-      "last_pretty": "30 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
-    },
-    {
-      "name": "Guinot Art of Beauty",
-      "visits": 1,
-      "last": "2025-09-04",
-      "last_pretty": "04 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
-    },
-    {
-      "name": "Blossom Institut",
-      "visits": 1,
-      "last": "2025-08-13",
-      "last_pretty": "13 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

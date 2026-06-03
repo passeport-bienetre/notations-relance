@@ -1,14 +1,6 @@
 {
   "carte": "31439",
   "name": "Léonard",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

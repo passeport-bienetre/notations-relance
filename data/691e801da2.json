@@ -1,27 +1,6 @@
 {
   "carte": "33187",
   "name": "Celine",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-12-22",
-      "last_pretty": "22 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "KASA AMO",
-      "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
-    },
-    {
-      "name": "Beauty Concept Vevey",
-      "visits": 1,
-      "last": "2025-06-28",
-      "last_pretty": "28 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,28 +1,6 @@
 {
   "carte": "25006",
   "name": "VICTORIA",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Ipanema Beauté",
-      "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
-    },
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2025-06-13",
-      "last_pretty": "13 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    },
-    {
-      "name": "Studio Beauté",
-      "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

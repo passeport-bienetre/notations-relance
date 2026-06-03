@@ -1,48 +1,6 @@
 {
   "carte": "30427",
   "name": "natale",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2025-11-09",
-      "last_pretty": "09 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    },
-    {
-      "name": "Saai Nam Massage &#8211; Manor",
-      "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
-    },
-    {
-      "name": "Spa Baron Tavernier",
-      "visits": 1,
-      "last": "2025-09-19",
-      "last_pretty": "19 september 2025"
-    },
-    {
-      "name": "Studio Beauté",
-      "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-09-02",
-      "last_pretty": "02 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

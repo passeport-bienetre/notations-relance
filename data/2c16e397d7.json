@@ -1,21 +1,6 @@
 {
   "carte": "29267",
   "name": "Alexandra",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Salon Privé Ecublens",
-      "visits": 1,
-      "last": "2025-12-13",
-      "last_pretty": "13 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
-    },
-    {
-      "name": "Arte Beauty EPFL",
-      "visits": 1,
-      "last": "2025-10-20",
-      "last_pretty": "20 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

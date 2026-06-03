@@ -1,21 +1,6 @@
 {
   "carte": "34274",
   "name": "Mimoza",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Anzère SPA &#038; Wellness",
-      "visits": 1,
-      "last": "2025-07-31",
-      "last_pretty": "31 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

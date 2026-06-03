@@ -1,28 +1,6 @@
 {
   "carte": "26958",
   "name": "Justine",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Institut Osmose",
-      "visits": 1,
-      "last": "2026-01-29",
-      "last_pretty": "29 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
-    },
-    {
-      "name": "CJ Coiffure",
-      "visits": 1,
-      "last": "2025-11-27",
-      "last_pretty": "27 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

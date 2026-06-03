@@ -1,35 +1,6 @@
 {
   "carte": "29770",
   "name": "Catia",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2025-09-04",
-      "last_pretty": "04 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "Sawatdee Temple",
-      "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
-    },
-    {
-      "name": "Sawatdee Delices",
-      "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

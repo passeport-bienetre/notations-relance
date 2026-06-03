@@ -1,14 +1,6 @@
 {
   "carte": "28105",
   "name": "Emmanuelle",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2025-08-18",
-      "last_pretty": "18 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "27072",
   "name": "Kimberly",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Grand Hôtel du Lac",
-      "visits": 1,
-      "last": "2025-12-18",
-      "last_pretty": "18 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

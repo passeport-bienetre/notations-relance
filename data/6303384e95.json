@@ -1,35 +1,6 @@
 {
   "carte": "34142",
   "name": "Tiziana",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "LES BAINS PUBLICS",
-      "visits": 1,
-      "last": "2026-04-03",
-      "last_pretty": "03 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/"
-    },
-    {
-      "name": "Le Grand Bellevue",
-      "visits": 1,
-      "last": "2026-03-05",
-      "last_pretty": "05 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
-    },
-    {
-      "name": "Karré Long",
-      "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-05",
-      "last_pretty": "05 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

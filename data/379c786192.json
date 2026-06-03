@@ -1,63 +1,6 @@
 {
   "carte": "34973",
   "name": "Milena",
-  "nb_estabs": 8,
-  "estabs": [
-    {
-      "name": "So Beauty Home",
-      "visits": 1,
-      "last": "2026-05-06",
-      "last_pretty": "06 may 2026",
-      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
-    },
-    {
-      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "visits": 1,
-      "last": "2026-03-14",
-      "last_pretty": "14 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
-    },
-    {
-      "name": "Sawatdee Delices",
-      "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
-    },
-    {
-      "name": "NUANCES NATURE",
-      "visits": 1,
-      "last": "2025-11-06",
-      "last_pretty": "06 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
-    },
-    {
-      "name": "Saai Nam Massage &#8211; Manor",
-      "visits": 1,
-      "last": "2025-10-17",
-      "last_pretty": "17 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
-    },
-    {
-      "name": "Damien &#038; Co",
-      "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/damien-co-3/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-07-09",
-      "last_pretty": "09 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    },
-    {
-      "name": "Corps Sains",
-      "visits": 1,
-      "last": "2025-06-11",
-      "last_pretty": "11 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

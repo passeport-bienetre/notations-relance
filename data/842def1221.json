@@ -1,55 +1,6 @@
 {
   "carte": "31501",
   "name": "Chantal",
-  "nb_estabs": 7,
-  "estabs": [
-    {
-      "name": "Institut Osmose",
-      "visits": 1,
-      "last": "2026-02-05",
-      "last_pretty": "05 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
-    },
-    {
-      "name": "Institut Bienitude &#038; Bienitude Natura",
-      "visits": 1,
-      "last": "2026-02-02",
-      "last_pretty": "02 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/"
-    },
-    {
-      "name": "Spa Baron Tavernier",
-      "visits": 1,
-      "last": "2026-01-25",
-      "last_pretty": "25 january 2026"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Odyssée Santé &#038; Beauté",
-      "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/"
-    },
-    {
-      "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "visits": 1,
-      "last": "2025-11-09",
-      "last_pretty": "09 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
-    },
-    {
-      "name": "Institut Kaori",
-      "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

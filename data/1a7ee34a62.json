@@ -1,14 +1,6 @@
 {
   "carte": "30040",
   "name": "Caroline",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Nail Café",
-      "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

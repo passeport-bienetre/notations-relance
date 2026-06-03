@@ -1,21 +1,6 @@
 {
   "carte": "27634",
   "name": "Laetitia",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "Arte Beauty EPFL",
-      "visits": 1,
-      "last": "2025-06-28",
-      "last_pretty": "28 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

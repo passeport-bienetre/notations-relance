@@ -1,14 +1,6 @@
 {
   "carte": "34188",
   "name": "Delphine",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "BL Institut",
-      "visits": 1,
-      "last": "2026-03-14",
-      "last_pretty": "14 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

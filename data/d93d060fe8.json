@@ -1,48 +1,6 @@
 {
   "carte": "27010",
   "name": "Stéphanie",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Sawatdee Delices",
-      "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
-    },
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2026-02-18",
-      "last_pretty": "18 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "Hôtel Schweizerhof Bern &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
-    },
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "visits": 1,
-      "last": "2025-06-05",
-      "last_pretty": "05 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

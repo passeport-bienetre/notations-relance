@@ -1,21 +1,6 @@
 {
   "carte": "28308",
   "name": "Montserrat",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    },
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-06-05",
-      "last_pretty": "05 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

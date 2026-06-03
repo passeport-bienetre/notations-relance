@@ -1,21 +1,6 @@
 {
   "carte": "25904",
   "name": "Salvatore",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "NUANCES NATURE",
-      "visits": 1,
-      "last": "2025-08-26",
-      "last_pretty": "26 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
-    },
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

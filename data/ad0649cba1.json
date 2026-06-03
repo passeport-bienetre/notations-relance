@@ -1,34 +1,6 @@
 {
   "carte": "32426",
   "name": "Anouck",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-09-13",
-      "last_pretty": "13 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    },
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025"
-    },
-    {
-      "name": "The Wax Bar Genève",
-      "visits": 1,
-      "last": "2025-07-21",
-      "last_pretty": "21 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

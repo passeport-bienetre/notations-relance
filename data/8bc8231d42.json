@@ -1,27 +1,6 @@
 {
   "carte": "31695",
   "name": "Sophie",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Chandolin Boutique Hôtel",
-      "visits": 1,
-      "last": "2026-01-29",
-      "last_pretty": "29 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/"
-    },
-    {
-      "name": "Swiss Aesthetica",
-      "visits": 1,
-      "last": "2025-11-04",
-      "last_pretty": "04 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
-    },
-    {
-      "name": "Fairmont le Montreux Palace",
-      "visits": 1,
-      "last": "2025-06-24",
-      "last_pretty": "24 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

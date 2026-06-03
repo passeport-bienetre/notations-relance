@@ -1,33 +1,6 @@
 {
   "carte": "31822",
   "name": "Sarah",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Fairmont le Montreux Palace",
-      "visits": 1,
-      "last": "2025-10-30",
-      "last_pretty": "30 october 2025"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Hôtel Ermitage Spa des Quatre Terres",
-      "visits": 1,
-      "last": "2025-06-17",
-      "last_pretty": "17 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
-    },
-    {
-      "name": "Nirvana Spa",
-      "visits": 1,
-      "last": "2025-06-15",
-      "last_pretty": "15 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "31297",
   "name": "Julia",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "CS Caro Création Studio",
-      "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

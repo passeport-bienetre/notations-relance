@@ -1,35 +1,6 @@
 {
   "carte": "29699",
   "name": "Pascale",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Hôtel &#038; Spa Le National",
-      "visits": 1,
-      "last": "2025-10-18",
-      "last_pretty": "18 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/"
-    },
-    {
-      "name": "LES TRESOMS",
-      "visits": 1,
-      "last": "2025-09-06",
-      "last_pretty": "06 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-09-01",
-      "last_pretty": "01 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Chalet Royalp Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

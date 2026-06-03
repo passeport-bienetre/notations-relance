@@ -1,34 +1,6 @@
 {
   "carte": "26604",
   "name": "Paula",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Serenityblue",
-      "visits": 1,
-      "last": "2025-09-12",
-      "last_pretty": "12 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-09-11",
-      "last_pretty": "11 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-06-20",
-      "last_pretty": "20 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

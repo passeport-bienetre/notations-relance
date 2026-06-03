@@ -1,48 +1,6 @@
 {
   "carte": "29721",
   "name": "Anne",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Hairmania",
-      "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/hairmania/"
-    },
-    {
-      "name": "Vogue La Coiffure",
-      "visits": 1,
-      "last": "2025-11-15",
-      "last_pretty": "15 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/"
-    },
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    },
-    {
-      "name": "Les Vagabondes",
-      "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
-    },
-    {
-      "name": "Fairmont le Montreux Palace",
-      "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

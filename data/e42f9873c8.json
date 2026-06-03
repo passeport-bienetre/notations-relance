@@ -1,21 +1,6 @@
 {
   "carte": "30469",
   "name": "Maxime",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "La VILLA Kobido et Massage",
-      "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/la-villa/"
-    },
-    {
-      "name": "Institut Sirène",
-      "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

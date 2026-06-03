@@ -1,14 +1,6 @@
 {
   "carte": "32553",
   "name": "Kerstin",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Flaventino coiffure Aubonne",
-      "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

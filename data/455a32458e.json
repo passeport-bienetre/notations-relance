@@ -1,14 +1,6 @@
 {
   "carte": "25083",
   "name": "Sarah",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 2,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

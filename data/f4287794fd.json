@@ -1,41 +1,6 @@
 {
   "carte": "30475",
   "name": "Gaélane",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "Beauty Concept Vevey",
-      "visits": 1,
-      "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "Skin Solution",
-      "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
-    },
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "33740",
   "name": "Laurence",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-20",
-      "last_pretty": "20 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

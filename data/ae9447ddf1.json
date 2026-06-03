@@ -1,35 +1,6 @@
 {
   "carte": "30205",
   "name": "Valentine",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Namasté",
-      "visits": 1,
-      "last": "2026-04-20",
-      "last_pretty": "20 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/namaste/"
-    },
-    {
-      "name": "JOIA LAUSANNE",
-      "visits": 1,
-      "last": "2026-04-13",
-      "last_pretty": "13 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-12-20",
-      "last_pretty": "20 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

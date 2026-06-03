@@ -1,49 +1,6 @@
 {
   "carte": "33011",
   "name": "Sindy",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2026-01-28",
-      "last_pretty": "28 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    },
-    {
-      "name": "La Coifferie",
-      "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
-    },
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-12-08",
-      "last_pretty": "08 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    },
-    {
-      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "visits": 1,
-      "last": "2025-12-02",
-      "last_pretty": "02 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/"
-    },
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2025-09-05",
-      "last_pretty": "05 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    },
-    {
-      "name": "Saai Nam Massage &#8211; Manor",
-      "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "31553",
-  "name": "Christine",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Tête à Clak",
-      "visits": 1,
-      "last": "2025-08-02",
-      "last_pretty": "02 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
-    }
-  ]
+  "name": "Christine Marie",
+  "nb_estabs": 0,
+  "estabs": []
 }

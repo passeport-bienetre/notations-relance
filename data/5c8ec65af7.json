@@ -1,14 +1,6 @@
 {
   "carte": "33477",
   "name": "Laura",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2025-11-26",
-      "last_pretty": "26 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

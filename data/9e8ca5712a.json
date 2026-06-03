@@ -1,13 +1,6 @@
 {
   "carte": "20722",
   "name": "Jessy",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "W Verbier",
-      "visits": 1,
-      "last": "2025-06-20",
-      "last_pretty": "20 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

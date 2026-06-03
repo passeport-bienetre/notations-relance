@@ -1,34 +1,6 @@
 {
   "carte": "34208",
   "name": "Amelie",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Tête à Clak",
-      "visits": 1,
-      "last": "2025-12-13",
-      "last_pretty": "13 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
-    },
-    {
-      "name": "Enfants Terribles Bossonnens",
-      "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Organik Beauty",
-      "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

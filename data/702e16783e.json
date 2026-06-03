@@ -1,14 +1,6 @@
 {
   "carte": "27614",
   "name": "Joelle",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Le Grand Bellevue",
-      "visits": 1,
-      "last": "2025-08-18",
-      "last_pretty": "18 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

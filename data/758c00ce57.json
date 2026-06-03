@@ -1,20 +1,6 @@
 {
   "carte": "34696",
   "name": "Sarah",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-21",
-      "last_pretty": "21 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

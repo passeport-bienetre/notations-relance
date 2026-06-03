@@ -1,35 +1,6 @@
 {
   "carte": "34382",
   "name": "Anastasia",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2025-08-02",
-      "last_pretty": "02 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    },
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-07-04",
-      "last_pretty": "04 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

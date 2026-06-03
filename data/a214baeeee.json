@@ -1,21 +1,6 @@
 {
   "carte": "31879",
   "name": "Nadine",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-12-09",
-      "last_pretty": "09 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "visits": 1,
-      "last": "2025-10-10",
-      "last_pretty": "10 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

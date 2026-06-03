@@ -1,42 +1,6 @@
 {
   "carte": "31570",
   "name": "Katia",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "LA MAISON VALMONT – BONGENIE",
-      "visits": 1,
-      "last": "2025-11-25",
-      "last_pretty": "25 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "visits": 1,
-      "last": "2025-11-15",
-      "last_pretty": "15 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-10-13",
-      "last_pretty": "13 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Espace Beauté Harmonie",
-      "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/"
-    },
-    {
-      "name": "L&rsquo;Atelier du Visage",
-      "visits": 1,
-      "last": "2025-06-15",
-      "last_pretty": "15 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,56 +1,6 @@
 {
   "carte": "31945",
   "name": "Alexandra",
-  "nb_estabs": 7,
-  "estabs": [
-    {
-      "name": "Chalet Royalp Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2026-03-23",
-      "last_pretty": "23 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
-    },
-    {
-      "name": "Fjacco Coiffure",
-      "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/fjacco-coiffure/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-21",
-      "last_pretty": "21 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Le Grand Bellevue",
-      "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "ALEX COIFFURE SARL",
-      "visits": 1,
-      "last": "2025-06-13",
-      "last_pretty": "13 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/"
-    },
-    {
-      "name": "Hôtel de Rougemont &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

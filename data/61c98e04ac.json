@@ -1,28 +1,6 @@
 {
   "carte": "28746",
   "name": "Marylise",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Corps Sains",
-      "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/corps-sains/"
-    },
-    {
-      "name": "NUANCES NATURE",
-      "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
-    },
-    {
-      "name": "Sawatdee Delices",
-      "visits": 1,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

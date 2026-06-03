@@ -1,20 +1,6 @@
 {
   "carte": "28300",
   "name": "Gabriella",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-08-27",
-      "last_pretty": "27 august 2025"
-    },
-    {
-      "name": "Nail Café",
-      "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

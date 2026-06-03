@@ -1,35 +1,6 @@
 {
   "carte": "31770",
   "name": "Sima",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "FLEUR D’EPIDERME",
-      "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
-    },
-    {
-      "name": "19th AVENUE &#8211; Versonnex",
-      "visits": 1,
-      "last": "2025-12-24",
-      "last_pretty": "24 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/versonnex/"
-    },
-    {
-      "name": "GLOW IN GENEVA",
-      "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
-    },
-    {
-      "name": "Parallèles Coiffure",
-      "visits": 1,
-      "last": "2025-10-21",
-      "last_pretty": "21 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

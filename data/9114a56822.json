@@ -1,21 +1,6 @@
 {
   "carte": "34319",
   "name": "arnaud",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Sawatdee Delices",
-      "visits": 2,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2026-03-17",
-      "last_pretty": "17 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

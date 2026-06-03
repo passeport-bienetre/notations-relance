@@ -1,14 +1,6 @@
 {
   "carte": "34683",
   "name": "Sarita",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "visits": 1,
-      "last": "2026-01-27",
-      "last_pretty": "27 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

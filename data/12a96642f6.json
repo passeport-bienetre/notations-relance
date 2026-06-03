@@ -1,55 +1,6 @@
 {
   "carte": "29046",
   "name": "patrick",
-  "nb_estabs": 7,
-  "estabs": [
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2026-02-25",
-      "last_pretty": "25 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    },
-    {
-      "name": "Swiss Aesthetica",
-      "visits": 1,
-      "last": "2026-02-25",
-      "last_pretty": "25 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
-    },
-    {
-      "name": "RUBIS SPA",
-      "visits": 1,
-      "last": "2026-02-11",
-      "last_pretty": "11 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
-    },
-    {
-      "name": "Institut Osmose",
-      "visits": 1,
-      "last": "2025-11-26",
-      "last_pretty": "26 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
-    },
-    {
-      "name": "Beauty Concept Vevey",
-      "visits": 1,
-      "last": "2025-08-08",
-      "last_pretty": "08 august 2025"
-    },
-    {
-      "name": "Altitude by Garance",
-      "visits": 1,
-      "last": "2025-07-29",
-      "last_pretty": "29 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
-    },
-    {
-      "name": "Signature Coiffure",
-      "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

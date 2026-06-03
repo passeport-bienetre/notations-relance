@@ -1,41 +1,6 @@
 {
   "carte": "34697",
   "name": "Sibylle",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "Bhumi",
-      "visits": 1,
-      "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
-    },
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2026-01-17",
-      "last_pretty": "17 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    },
-    {
-      "name": "AVEDA VIEILLE-VILLE",
-      "visits": 1,
-      "last": "2025-12-26",
-      "last_pretty": "26 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "visits": 1,
-      "last": "2025-09-26",
-      "last_pretty": "26 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
-    },
-    {
-      "name": "Swiss Aesthetica",
-      "visits": 1,
-      "last": "2025-07-01",
-      "last_pretty": "01 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

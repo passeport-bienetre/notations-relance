@@ -1,40 +1,6 @@
 {
   "carte": "32438",
   "name": "Guillaume",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2026-04-17",
-      "last_pretty": "17 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    },
-    {
-      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Eva",
-      "visits": 1,
-      "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-09-26",
-      "last_pretty": "26 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "POWERCUBE",
-      "visits": 1,
-      "last": "2025-09-22",
-      "last_pretty": "22 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/powercube/"
-    },
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-09-08",
-      "last_pretty": "08 september 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,42 +1,6 @@
 {
   "carte": "30459",
   "name": "Aline",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "Institut ZenSkin",
-      "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Swiss Aesthetica",
-      "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
-    },
-    {
-      "name": "Maison Perle",
-      "visits": 1,
-      "last": "2025-07-22",
-      "last_pretty": "22 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,35 +1,6 @@
 {
   "carte": "33116",
   "name": "Tania",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "JOIA LAUSANNE",
-      "visits": 1,
-      "last": "2026-03-21",
-      "last_pretty": "21 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/"
-    },
-    {
-      "name": "Experimental Chalet",
-      "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
-    },
-    {
-      "name": "Institut ZenSkin",
-      "visits": 1,
-      "last": "2026-01-20",
-      "last_pretty": "20 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-05",
-      "last_pretty": "05 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

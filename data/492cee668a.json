@@ -1,21 +1,6 @@
 {
   "carte": "27686",
   "name": "Naomie",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    },
-    {
-      "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "visits": 1,
-      "last": "2025-11-25",
-      "last_pretty": "25 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

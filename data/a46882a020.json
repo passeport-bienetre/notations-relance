@@ -1,21 +1,6 @@
 {
   "carte": "25947",
   "name": "Lida",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Damien &#038; Co",
-      "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/damien-co-3/"
-    },
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "34056",
   "name": "Bruno",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "visits": 1,
-      "last": "2025-09-21",
-      "last_pretty": "21 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,21 +1,6 @@
 {
   "carte": "34254",
   "name": "Marie",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "Espace Beauté Harmonie",
-      "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

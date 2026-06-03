@@ -1,61 +1,6 @@
 {
   "carte": "34252",
   "name": "Florence",
-  "nb_estabs": 8,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2026-03-09",
-      "last_pretty": "09 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Institut ZenSkin",
-      "visits": 1,
-      "last": "2026-02-18",
-      "last_pretty": "18 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
-    },
-    {
-      "name": "Hôtel Royal",
-      "visits": 1,
-      "last": "2026-02-08",
-      "last_pretty": "08 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/hotel-royal/"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "visits": 1,
-      "last": "2025-10-17",
-      "last_pretty": "17 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
-    },
-    {
-      "name": "Les Cliniques Matignon",
-      "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
-    },
-    {
-      "name": "Arte Beauty EHL",
-      "visits": 1,
-      "last": "2025-06-13",
-      "last_pretty": "13 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

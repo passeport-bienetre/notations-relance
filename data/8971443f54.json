@@ -1,21 +1,6 @@
 {
   "carte": "27203",
   "name": "Daniela",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Guess What",
-      "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

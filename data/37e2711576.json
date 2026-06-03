@@ -1,14 +1,6 @@
 {
   "carte": "27869",
   "name": "Laetitia",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Institut Orphée",
-      "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

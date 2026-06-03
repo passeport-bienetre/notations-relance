@@ -1,34 +1,6 @@
 {
   "carte": "34296",
   "name": "Marine",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Arte Beauty Lutry",
-      "visits": 1,
-      "last": "2026-01-14",
-      "last_pretty": "14 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
-    },
-    {
-      "name": "Grand Hôtel du Lac",
-      "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

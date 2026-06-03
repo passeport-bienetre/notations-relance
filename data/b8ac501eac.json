@@ -1,27 +1,6 @@
 {
   "carte": "27206",
   "name": "Cendrine",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Centre de bien-être J&#038;J",
-      "visits": 1,
-      "last": "2026-04-15",
-      "last_pretty": "15 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
-    },
-    {
-      "name": "Institut Biotiful",
-      "visits": 1,
-      "last": "2026-02-17",
-      "last_pretty": "17 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/"
-    },
-    {
-      "name": "Institut Beauté d&rsquo;Or",
-      "visits": 1,
-      "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,21 +1,6 @@
 {
   "carte": "31673",
   "name": "Manon",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2026-02-25",
-      "last_pretty": "25 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    },
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2025-07-04",
-      "last_pretty": "04 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

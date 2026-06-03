@@ -1,55 +1,6 @@
 {
   "carte": "33139",
   "name": "Filip",
-  "nb_estabs": 7,
-  "estabs": [
-    {
-      "name": "Maison Perle",
-      "visits": 1,
-      "last": "2026-03-11",
-      "last_pretty": "11 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
-    },
-    {
-      "name": "Anita Coiffure",
-      "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/"
-    },
-    {
-      "name": "Rituels Beauté",
-      "visits": 1,
-      "last": "2025-11-11",
-      "last_pretty": "11 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
-    },
-    {
-      "name": "Fairmont le Montreux Palace",
-      "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-09-22",
-      "last_pretty": "22 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "1er Acte Coiffure",
-      "visits": 1,
-      "last": "2025-09-03",
-      "last_pretty": "03 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-07-07",
-      "last_pretty": "07 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

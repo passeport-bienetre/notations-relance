@@ -1,41 +1,6 @@
 {
   "carte": "34027",
   "name": "Fabienne",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "RUBIS SPA",
-      "visits": 1,
-      "last": "2026-02-24",
-      "last_pretty": "24 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
-    },
-    {
-      "name": "Salon Privé Ecublens",
-      "visits": 1,
-      "last": "2026-01-23",
-      "last_pretty": "23 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/"
-    },
-    {
-      "name": "1er Acte Coiffure",
-      "visits": 1,
-      "last": "2025-12-10",
-      "last_pretty": "10 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Crans Ambassador Spa",
-      "visits": 1,
-      "last": "2025-07-20",
-      "last_pretty": "20 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

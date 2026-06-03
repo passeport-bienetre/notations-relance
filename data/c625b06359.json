@@ -1,21 +1,6 @@
 {
   "carte": "29662",
   "name": "Maud",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "1er Acte Coiffure",
-      "visits": 1,
-      "last": "2025-06-21",
-      "last_pretty": "21 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
-    },
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

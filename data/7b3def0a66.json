@@ -1,49 +1,6 @@
 {
   "carte": "29206",
   "name": "Silvia",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2026-05-08",
-      "last_pretty": "08 may 2026",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "SUBLIMEYES",
-      "visits": 1,
-      "last": "2026-05-04",
-      "last_pretty": "04 may 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
-    },
-    {
-      "name": "Sawatdee Temple",
-      "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
-    },
-    {
-      "name": "AVEDA VIEILLE-VILLE",
-      "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2026-01-13",
-      "last_pretty": "13 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-09",
-      "last_pretty": "09 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

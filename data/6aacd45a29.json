@@ -1,35 +1,6 @@
 {
   "carte": "29366",
   "name": "Laura",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Saai Nam Massage &#8211; Manor",
-      "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/"
-    },
-    {
-      "name": "Skin Solution",
-      "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
-    },
-    {
-      "name": "Les Petits Pieds du Bonheur",
-      "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

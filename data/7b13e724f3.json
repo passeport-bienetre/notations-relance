@@ -1,27 +1,6 @@
 {
   "carte": "25581",
   "name": "Florence",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Fairmont le Montreux Palace",
-      "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "LES TRESOMS",
-      "visits": 1,
-      "last": "2025-06-22",
-      "last_pretty": "22 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

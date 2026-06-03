@@ -1,21 +1,6 @@
 {
   "carte": "31865",
   "name": "Alain",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "visits": 1,
-      "last": "2025-10-30",
-      "last_pretty": "30 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
-    },
-    {
-      "name": "Bains d&rsquo;Ovronnaz",
-      "visits": 1,
-      "last": "2025-10-14",
-      "last_pretty": "14 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

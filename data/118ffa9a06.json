@@ -1,49 +1,6 @@
 {
   "carte": "30070",
   "name": "Angélique",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
-    },
-    {
-      "name": "Blossom Institut",
-      "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    },
-    {
-      "name": "FLEUR D’EPIDERME",
-      "visits": 1,
-      "last": "2025-12-06",
-      "last_pretty": "06 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
-    },
-    {
-      "name": "Skin Solution",
-      "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
-    },
-    {
-      "name": "GLOW IN GENEVA",
-      "visits": 1,
-      "last": "2025-08-29",
-      "last_pretty": "29 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

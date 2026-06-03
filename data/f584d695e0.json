@@ -1,21 +1,6 @@
 {
   "carte": "31949",
   "name": "Livio",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Chalet Royalp Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2026-03-10",
-      "last_pretty": "10 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-28",
-      "last_pretty": "28 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

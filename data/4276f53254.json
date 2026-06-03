@@ -1,14 +1,6 @@
 {
   "carte": "26031",
   "name": "Laura",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "33959",
   "name": "Laude-Camille",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Luna aesthetic",
-      "visits": 1,
-      "last": "2025-12-02",
-      "last_pretty": "02 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

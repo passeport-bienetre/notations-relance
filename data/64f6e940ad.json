@@ -1,14 +1,6 @@
 {
   "carte": "30100",
   "name": "Martine",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Maison Perle",
-      "visits": 1,
-      "last": "2026-03-03",
-      "last_pretty": "03 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,20 +1,6 @@
 {
   "carte": "26071",
   "name": "Denyse",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-24",
-      "last_pretty": "24 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-08-19",
-      "last_pretty": "19 august 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "31540",
   "name": "Nadia",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Altitude by Garance",
-      "visits": 1,
-      "last": "2025-07-28",
-      "last_pretty": "28 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

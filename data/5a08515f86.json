@@ -1,55 +1,6 @@
 {
   "carte": "31217",
   "name": "Stéphanie",
-  "nb_estabs": 7,
-  "estabs": [
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-10",
-      "last_pretty": "10 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Le Grand Bellevue",
-      "visits": 1,
-      "last": "2025-09-04",
-      "last_pretty": "04 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
-    },
-    {
-      "name": "Centre de bien-être J&#038;J",
-      "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/"
-    },
-    {
-      "name": "ERINGER INSTITUT",
-      "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
-    },
-    {
-      "name": "Luna aesthetic",
-      "visits": 1,
-      "last": "2025-08-05",
-      "last_pretty": "05 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
-    },
-    {
-      "name": "Beauty Concept Vevey",
-      "visits": 1,
-      "last": "2025-07-31",
-      "last_pretty": "31 july 2025"
-    },
-    {
-      "name": "Skin &#038; Body Studio",
-      "visits": 1,
-      "last": "2025-07-29",
-      "last_pretty": "29 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/skin-body-studio/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

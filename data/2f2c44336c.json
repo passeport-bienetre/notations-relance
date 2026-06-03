@@ -1,14 +1,6 @@
 {
   "carte": "31672",
   "name": "Jessica",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "EssenCiel Institut",
-      "visits": 1,
-      "last": "2025-08-13",
-      "last_pretty": "13 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

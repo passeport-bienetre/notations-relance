@@ -1,28 +1,6 @@
 {
   "carte": "29382",
   "name": "Raytrallen",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Arte Beauty EPFL",
-      "visits": 1,
-      "last": "2026-01-14",
-      "last_pretty": "14 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    },
-    {
-      "name": "Signature Coiffure",
-      "visits": 1,
-      "last": "2025-11-18",
-      "last_pretty": "18 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

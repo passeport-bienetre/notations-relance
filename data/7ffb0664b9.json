@@ -1,20 +1,6 @@
 {
   "carte": "29161",
   "name": "Nathalie",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "LES FITNESS HARMONY",
-      "visits": 1,
-      "last": "2025-09-12",
-      "last_pretty": "12 september 2025"
-    },
-    {
-      "name": "So Hair",
-      "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

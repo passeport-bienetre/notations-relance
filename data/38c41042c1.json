@@ -1,14 +1,6 @@
 {
   "carte": "29728",
   "name": "Alexia",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Grand Hôtel du Lac",
-      "visits": 1,
-      "last": "2025-07-23",
-      "last_pretty": "23 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

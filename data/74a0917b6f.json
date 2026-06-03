@@ -1,49 +1,6 @@
 {
   "carte": "30189",
   "name": "Corinne",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Institut Kaori",
-      "visits": 1,
-      "last": "2025-12-10",
-      "last_pretty": "10 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-12-03",
-      "last_pretty": "03 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Nail Café",
-      "visits": 1,
-      "last": "2025-08-18",
-      "last_pretty": "18 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
-    },
-    {
-      "name": "Arte Beauty EPFL",
-      "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    },
-    {
-      "name": "Institut Osmose",
-      "visits": 1,
-      "last": "2025-06-05",
-      "last_pretty": "05 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

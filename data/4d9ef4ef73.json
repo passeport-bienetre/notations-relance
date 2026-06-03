@@ -1,20 +1,6 @@
 {
   "carte": "29631",
   "name": "Dajana",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    },
-    {
-      "name": "19Th Avenue &#8211; Thonex",
-      "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

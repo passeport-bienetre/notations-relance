@@ -1,14 +1,6 @@
 {
   "carte": "29332",
   "name": "Stéphanie",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2025-06-15",
-      "last_pretty": "15 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

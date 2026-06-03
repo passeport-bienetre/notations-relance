@@ -1,20 +1,6 @@
 {
   "carte": "33227",
   "name": "Merhawit",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-08-12",
-      "last_pretty": "12 august 2025"
-    },
-    {
-      "name": "So Hair",
-      "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

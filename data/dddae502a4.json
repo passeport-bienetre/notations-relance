@@ -1,41 +1,6 @@
 {
   "carte": "24577",
   "name": "Antonella",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    },
-    {
-      "name": "Guess What",
-      "visits": 1,
-      "last": "2025-12-03",
-      "last_pretty": "03 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/"
-    },
-    {
-      "name": "Les Cliniques Matignon",
-      "visits": 1,
-      "last": "2025-12-02",
-      "last_pretty": "02 december 2025"
-    },
-    {
-      "name": "NUTRITION BY AURELIA",
-      "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/nutrition-by-aurelia/"
-    },
-    {
-      "name": "Espace Beauté Sarah",
-      "visits": 1,
-      "last": "2025-07-18",
-      "last_pretty": "18 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

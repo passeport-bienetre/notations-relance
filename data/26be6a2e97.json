@@ -1,27 +1,6 @@
 {
   "carte": "26904",
   "name": "ALEXANDRE",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Le Grand Bellevue",
-      "visits": 1,
-      "last": "2025-12-12",
-      "last_pretty": "12 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
-    },
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    },
-    {
-      "name": "W Verbier",
-      "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

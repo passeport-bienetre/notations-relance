@@ -1,47 +1,6 @@
 {
   "carte": "31823",
   "name": "Valentine",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
-    },
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-10-07",
-      "last_pretty": "07 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    },
-    {
-      "name": "Nail Café",
-      "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
-    },
-    {
-      "name": "Bhumi",
-      "visits": 1,
-      "last": "2025-07-22",
-      "last_pretty": "22 july 2025"
-    },
-    {
-      "name": "Maison Perle",
-      "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

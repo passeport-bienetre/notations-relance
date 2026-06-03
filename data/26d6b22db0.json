@@ -1,21 +1,6 @@
 {
   "carte": "27017",
   "name": "Ursula",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Chalet Royalp Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-12-25",
-      "last_pretty": "25 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
-    },
-    {
-      "name": "LECRANS HOTEL &#038; SPA",
-      "visits": 1,
-      "last": "2025-08-26",
-      "last_pretty": "26 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

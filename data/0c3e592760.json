@@ -1,20 +1,6 @@
 {
   "carte": "33331",
   "name": "Jessica",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-12-20",
-      "last_pretty": "20 december 2025"
-    },
-    {
-      "name": "Les Vagabondes",
-      "visits": 1,
-      "last": "2025-12-13",
-      "last_pretty": "13 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

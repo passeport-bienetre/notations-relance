@@ -1,21 +1,6 @@
 {
   "carte": "34285",
   "name": "Natalija",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Namasté",
-      "visits": 1,
-      "last": "2025-12-08",
-      "last_pretty": "08 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/namaste/"
-    },
-    {
-      "name": "Institut ZenSkin",
-      "visits": 1,
-      "last": "2025-11-15",
-      "last_pretty": "15 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

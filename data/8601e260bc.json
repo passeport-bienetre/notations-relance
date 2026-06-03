@@ -1,21 +1,6 @@
 {
   "carte": "31807",
   "name": "Maeva",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
-    },
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

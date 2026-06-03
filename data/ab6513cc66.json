@@ -1,21 +1,6 @@
 {
   "carte": "34371",
   "name": "Sabiha",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "1er Acte Coiffure",
-      "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
-    },
-    {
-      "name": "Sawatdee Delices",
-      "visits": 1,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

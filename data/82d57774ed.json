@@ -1,20 +1,6 @@
 {
   "carte": "31877",
   "name": "Sarah",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Institut Beauté Bertmans",
-      "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,21 +1,6 @@
 {
   "carte": "33153",
   "name": "SAndra",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Grand Hôtel du Lac",
-      "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
-    },
-    {
-      "name": "Hôtel Schweizerhof Bern &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-17",
-      "last_pretty": "17 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

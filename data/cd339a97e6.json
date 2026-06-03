@@ -1,27 +1,6 @@
 {
   "carte": "31655",
   "name": "Olivia",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "BLISS",
-      "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/bliss/"
-    },
-    {
-      "name": "Belle et Naturelle",
-      "visits": 1,
-      "last": "2025-06-30",
-      "last_pretty": "30 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
-    },
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

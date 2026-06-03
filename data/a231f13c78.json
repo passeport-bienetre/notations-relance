@@ -1,21 +1,6 @@
 {
   "carte": "31574",
   "name": "Anne-Laure",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Blossom Institut",
-      "visits": 1,
-      "last": "2025-08-08",
-      "last_pretty": "08 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

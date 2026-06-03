@@ -1,14 +1,6 @@
 {
   "carte": "26765",
   "name": "Johanna",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-07-15",
-      "last_pretty": "15 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

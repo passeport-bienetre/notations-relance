@@ -1,14 +1,6 @@
 {
   "carte": "26740",
   "name": "Loïc",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Origin Float Spa",
-      "visits": 1,
-      "last": "2025-11-19",
-      "last_pretty": "19 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

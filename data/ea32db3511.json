@@ -1,14 +1,6 @@
 {
   "carte": "34159",
   "name": "Camille",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "L&rsquo;Atelier du Visage",
-      "visits": 1,
-      "last": "2025-11-12",
-      "last_pretty": "12 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

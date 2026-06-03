@@ -1,41 +1,6 @@
 {
   "carte": "33185",
   "name": "Sonia",
-  "nb_estabs": 5,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Serenityblue",
-      "visits": 1,
-      "last": "2025-10-25",
-      "last_pretty": "25 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-09-19",
-      "last_pretty": "19 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    },
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2025-08-13",
-      "last_pretty": "13 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    },
-    {
-      "name": "Spa Baron Tavernier",
-      "visits": 1,
-      "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

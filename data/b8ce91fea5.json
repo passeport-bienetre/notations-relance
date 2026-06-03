@@ -1,14 +1,6 @@
 {
   "carte": "27270",
   "name": "Sandra",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Institut Sakora",
-      "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

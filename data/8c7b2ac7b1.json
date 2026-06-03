@@ -1,28 +1,6 @@
 {
   "carte": "30128",
   "name": "Eddie",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Institut Kaori",
-      "visits": 1,
-      "last": "2026-01-05",
-      "last_pretty": "05 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
-    },
-    {
-      "name": "Lausanne Palace &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-22",
-      "last_pretty": "22 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
-    },
-    {
-      "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "visits": 1,
-      "last": "2025-07-31",
-      "last_pretty": "31 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

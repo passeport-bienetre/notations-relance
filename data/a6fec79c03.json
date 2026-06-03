@@ -1,49 +1,6 @@
 {
   "carte": "29538",
   "name": "Julie",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "Lumen Spa &#038; Wellness",
-      "visits": 1,
-      "last": "2026-05-07",
-      "last_pretty": "07 may 2026",
-      "url": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/"
-    },
-    {
-      "name": "Flocoon Spa Cinq Mondes",
-      "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
-    },
-    {
-      "name": "Serenityblue",
-      "visits": 1,
-      "last": "2026-03-17",
-      "last_pretty": "17 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
-    },
-    {
-      "name": "Amiia Clinique",
-      "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
-    },
-    {
-      "name": "Luna aesthetic",
-      "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Crans-Montana",
-      "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

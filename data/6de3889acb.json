@@ -1,13 +1,6 @@
 {
   "carte": "33015",
   "name": "Jacqueline",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Noemi Spataro Esthétique",
-      "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

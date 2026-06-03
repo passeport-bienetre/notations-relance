@@ -1,21 +1,6 @@
 {
   "carte": "25993",
   "name": "Nathalie",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-09-17",
-      "last_pretty": "17 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "visits": 1,
-      "last": "2025-08-13",
-      "last_pretty": "13 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

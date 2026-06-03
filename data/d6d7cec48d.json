@@ -1,28 +1,6 @@
 {
   "carte": "29511",
   "name": "Mariko",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    },
-    {
-      "name": "Luna aesthetic",
-      "visits": 1,
-      "last": "2025-10-04",
-      "last_pretty": "04 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
-    },
-    {
-      "name": "Salon Privé Chailly",
-      "visits": 1,
-      "last": "2025-06-23",
-      "last_pretty": "23 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

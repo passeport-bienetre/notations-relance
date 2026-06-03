@@ -1,21 +1,6 @@
 {
   "carte": "25358",
   "name": "Véronique",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Institut Sakora",
-      "visits": 1,
-      "last": "2025-11-27",
-      "last_pretty": "27 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-sakora/"
-    },
-    {
-      "name": "NUANCES NATURE",
-      "visits": 1,
-      "last": "2025-08-28",
-      "last_pretty": "28 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

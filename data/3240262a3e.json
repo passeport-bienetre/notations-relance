@@ -1,28 +1,6 @@
 {
   "carte": "30976",
   "name": "JENNA",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Les Sources du Chéry",
-      "visits": 1,
-      "last": "2026-01-26",
-      "last_pretty": "26 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/"
-    },
-    {
-      "name": "FLEUR D’EPIDERME",
-      "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "visits": 1,
-      "last": "2025-10-13",
-      "last_pretty": "13 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,21 +1,6 @@
 {
   "carte": "32534",
   "name": "Jennifer",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "Rituels Beauté",
-      "visits": 1,
-      "last": "2025-11-17",
-      "last_pretty": "17 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/"
-    },
-    {
-      "name": "KASA AMO",
-      "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

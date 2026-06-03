@@ -1,14 +1,6 @@
 {
   "carte": "32552",
   "name": "Salomé",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "GLOW IN GENEVA",
-      "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

@@ -1,14 +1,6 @@
 {
   "carte": "30429",
   "name": "Amandine",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Institut Guinot",
-      "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

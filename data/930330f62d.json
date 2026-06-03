@@ -1,27 +1,6 @@
 {
   "carte": "31675",
   "name": "Marina",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-20",
-      "last_pretty": "20 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Flocoon Spa Cinq Mondes",
-      "visits": 1,
-      "last": "2025-09-08",
-      "last_pretty": "08 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/"
-    },
-    {
-      "name": "Crans Ambassador Spa",
-      "visits": 1,
-      "last": "2025-07-05",
-      "last_pretty": "05 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

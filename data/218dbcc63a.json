@@ -1,35 +1,6 @@
 {
   "carte": "30349",
   "name": "Théo",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "FLEUR D’EPIDERME",
-      "visits": 1,
-      "last": "2026-04-14",
-      "last_pretty": "14 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/"
-    },
-    {
-      "name": "Hôtel Ermitage Spa des Quatre Terres",
-      "visits": 1,
-      "last": "2025-09-27",
-      "last_pretty": "27 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "Le Bal des Créateurs",
-      "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

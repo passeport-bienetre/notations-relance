@@ -1,35 +1,6 @@
 {
   "carte": "34250",
-  "name": "Rose",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2026-02-06",
-      "last_pretty": "06 february 2026",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Espace Beauté Sarah",
-      "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
-    },
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2025-09-09",
-      "last_pretty": "09 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "visits": 1,
-      "last": "2025-06-20",
-      "last_pretty": "20 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
-    }
-  ]
+  "name": "Rose Marie",
+  "nb_estabs": 0,
+  "estabs": []
 }

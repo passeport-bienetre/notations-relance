@@ -1,21 +1,6 @@
 {
   "carte": "27097",
   "name": "Marlène",
-  "nb_estabs": 2,
-  "estabs": [
-    {
-      "name": "BL Institut",
-      "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
-    },
-    {
-      "name": "Swiss Beauty Studio",
-      "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

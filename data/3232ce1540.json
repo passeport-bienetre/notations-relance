@@ -1,35 +1,6 @@
 {
   "carte": "31406",
   "name": "Edwige",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
-    },
-    {
-      "name": "Ipanema Beauté",
-      "visits": 1,
-      "last": "2025-08-26",
-      "last_pretty": "26 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
-    },
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-07-12",
-      "last_pretty": "12 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    },
-    {
-      "name": "So Hair",
-      "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

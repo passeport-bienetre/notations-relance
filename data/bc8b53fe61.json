@@ -1,27 +1,6 @@
 {
   "carte": "26929",
   "name": "Estelle",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "CJ Coiffure",
-      "visits": 1,
-      "last": "2025-11-04",
-      "last_pretty": "04 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
-    },
-    {
-      "name": "ERINGER INSTITUT",
-      "visits": 1,
-      "last": "2025-07-27",
-      "last_pretty": "27 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
-    },
-    {
-      "name": "Noemi Spataro Esthétique",
-      "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

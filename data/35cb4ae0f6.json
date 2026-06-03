@@ -1,28 +1,6 @@
 {
   "carte": "34042",
   "name": "Juliane",
-  "nb_estabs": 3,
-  "estabs": [
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "visits": 1,
-      "last": "2026-01-23",
-      "last_pretty": "23 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
-    },
-    {
-      "name": "Hôtel Schweizerhof Bern &#038; Spa",
-      "visits": 1,
-      "last": "2025-10-21",
-      "last_pretty": "21 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/"
-    },
-    {
-      "name": "Belle et Naturelle",
-      "visits": 1,
-      "last": "2025-08-18",
-      "last_pretty": "18 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

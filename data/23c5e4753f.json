@@ -1,34 +1,6 @@
 {
   "carte": "31355",
-  "name": "Lisa",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2026-01-21",
-      "last_pretty": "21 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "Nirvana Spa",
-      "visits": 1,
-      "last": "2025-09-25",
-      "last_pretty": "25 september 2025"
-    },
-    {
-      "name": "Skin Solution",
-      "visits": 1,
-      "last": "2025-09-04",
-      "last_pretty": "04 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
-    },
-    {
-      "name": "Les Petits Pieds du Bonheur",
-      "visits": 1,
-      "last": "2025-08-04",
-      "last_pretty": "04 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/"
-    }
-  ]
+  "name": "Lisa Xuan",
+  "nb_estabs": 0,
+  "estabs": []
 }

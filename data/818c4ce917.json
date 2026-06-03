@@ -1,35 +1,6 @@
 {
   "carte": "34681",
   "name": "Aurélia",
-  "nb_estabs": 4,
-  "estabs": [
-    {
-      "name": "Thaiotop",
-      "visits": 1,
-      "last": "2026-04-13",
-      "last_pretty": "13 april 2026",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
-    },
-    {
-      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "visits": 1,
-      "last": "2026-03-27",
-      "last_pretty": "27 march 2026",
-      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/"
-    },
-    {
-      "name": "Blossom Institut",
-      "visits": 1,
-      "last": "2026-01-10",
-      "last_pretty": "10 january 2026",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

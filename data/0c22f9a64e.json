@@ -1,48 +1,6 @@
 {
   "carte": "29666",
   "name": "Magali",
-  "nb_estabs": 6,
-  "estabs": [
-    {
-      "name": "ÂM SOEURS",
-      "visits": 1,
-      "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
-    },
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    },
-    {
-      "name": "Royal Savoy Hôtel &#038; Spa",
-      "visits": 1,
-      "last": "2025-11-24",
-      "last_pretty": "24 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
-    },
-    {
-      "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "visits": 1,
-      "last": "2025-11-05",
-      "last_pretty": "05 november 2025",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
-    },
-    {
-      "name": "BL Institut",
-      "visits": 1,
-      "last": "2025-10-22",
-      "last_pretty": "22 october 2025",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
-    },
-    {
-      "name": "Thai Corner",
-      "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

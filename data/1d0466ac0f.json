@@ -1,56 +1,6 @@
 {
   "carte": "29290",
   "name": "Louise",
-  "nb_estabs": 7,
-  "estabs": [
-    {
-      "name": "Hairstudio",
-      "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/hairstudio/"
-    },
-    {
-      "name": "SAKURA LAB",
-      "visits": 1,
-      "last": "2025-09-16",
-      "last_pretty": "16 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "visits": 1,
-      "last": "2025-09-08",
-      "last_pretty": "08 september 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
-    },
-    {
-      "name": "Le Beausquet Genève",
-      "visits": 1,
-      "last": "2025-08-27",
-      "last_pretty": "27 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
-    },
-    {
-      "name": "Arte Beauty EPFL",
-      "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
-    },
-    {
-      "name": "Ipanema Beauté",
-      "visits": 1,
-      "last": "2025-08-21",
-      "last_pretty": "21 august 2025",
-      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
-    },
-    {
-      "name": "Skin Solution",
-      "visits": 1,
-      "last": "2025-07-21",
-      "last_pretty": "21 july 2025",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }

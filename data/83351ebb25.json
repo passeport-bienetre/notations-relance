@@ -1,13 +1,6 @@
 {
   "carte": "29688",
   "name": "Natalia",
-  "nb_estabs": 1,
-  "estabs": [
-    {
-      "name": "Akyado Genève Centre",
-      "visits": 1,
-      "last": "2025-07-22",
-      "last_pretty": "22 july 2025"
-    }
-  ]
+  "nb_estabs": 0,
+  "estabs": []
 }
